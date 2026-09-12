@@ -40,6 +40,8 @@ Certaines formulations ont volontairement été adaptées plutôt que traduites 
 
 Une attention particulière a également été portée à la cohérence des noms, des termes techniques, des personnages et des éléments importants de l’univers de **Lone Echo II**.
 
+![](images/01.png)
+
 ## Une traduction encore perfectible
 
 Même si toutes les entrées identifiées ont été traduites et qu’un important travail de vérification a été effectué, **je ne considère pas cette version comme absolument parfaite à 100 %, mais elle est vraiment « propre »**.
