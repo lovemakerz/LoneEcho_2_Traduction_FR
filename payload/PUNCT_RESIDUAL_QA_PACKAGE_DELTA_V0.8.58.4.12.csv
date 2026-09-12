@@ -1,0 +1,18 @@
+﻿chunk;assetRecord;slot;idHex;textEN;oldTextFR;newTextFR;status;reason
+0;62;371;f8c6b20b8739e30e;Kronos II..?;Kronos II.?;Kronos II ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+26;92;254;f8ce749c7ada73b0;What is this...?;C'est quoi, ça.?;C'est quoi, ça ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+31;126;13;6907d6b4e3e310bf;Well done making it through unharmed.;Bravo vous vous en êtes sorti indemne;Bravo, vous êtes sorti indemne.;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+38;142;101;6cd656bde4716d6d;What the hell...?;C'est quoi...?;C'est quoi... ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+45;76;29;e30e56e3a6304eed;Jack..?;Jack.?;Jack ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+45;76;36;170bfd8612508003;Jack..?;Jack.?;Jack ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+58;81;57;0b58ad41686ef0a5;On...line?;Actif...?;Actif... ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+58;81;118;0e54f642336cf2f1;Jack..?;Jack.?;Jack ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+58;81;301;0b5aac426b66f3f9;On...line?;Actif...?;Actif... ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+58;121;113;3f355d0aad8c38cb;And mentally...?;Et mentalement.?;Et mentalement ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+58;162;6;c3e6c6aa83d5589c;What?... how did you? Actually, I don't care.;Quoi ? Comment...? En fait, je m'en fiche.;Quoi ? Comment... ? En fait, je m'en fiche.;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+90;100;89;2c6e0adabe915003;What the hell...?;C'est quoi...?;C'est quoi... ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+95;120;223;f9065b021049f9d1;You're only just now coming to this realization?;Vous vous en rendez compte seulement maintenant?;Vous réalisez seulement maintenant ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+104;93;67;c9ee1850fcf53e12;Two? Two of what?;Deux? Deux quoi?;Deux ? De quoi ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+110;174;41;d00719085aebc0a3;Wait... are we...? We're slowing down.;Attends... on est...? On ralentit.;Attends... on est... ? On ralentit.;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+130;131;49;865640f6ba80b722;Understood, Doctor. There also appears to be an operational android with her. Shall I...?;Compris, Docteur. Il semble aussi qu'un androide opérationnel soit avec elle. Dois-je...?;Compris, Docteur. Il y a aussi un androide opérationnel avec elle. Dois-je... ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR
+130;131;247;d15046a1bdd0b771;Understood, Doctor. There also appears to be an operational android with her. Shall I...?;Compris, Docteur. Il semble aussi qu'un androide opérationnel soit avec elle. Dois-je...?;Compris, Docteur. Il y a aussi un androide opérationnel avec elle. Dois-je... ?;PUNCT_RESIDUAL_QA_V0.8.58.4.12;MALFORMED_PUNCT_OR_CERTAIN_GRAMMAR

@@ -1,0 +1,17 @@
+LIBRARY GDI32.dll
+EXPORTS
+ StretchDIBits
+ SetStretchBltMode
+ CreateFontW
+ SelectObject
+ SetTextColor
+ SetBkMode
+ CreateSolidBrush
+ CreatePen
+ DeleteObject
+ Rectangle
+ RoundRect
+ CreateRoundRectRgn
+ GetStockObject
+ CreateRectRgn
+ CombineRgn

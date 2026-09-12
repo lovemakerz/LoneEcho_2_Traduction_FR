@@ -1,0 +1,1169 @@
+﻿chunk;assetRecord;slot;idHex;textEN;oldTextFR;newTextFR;status;reason
+0;62;193;fec5eb0bd438ea0a;What happened?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;62;230;adc3e908873ce20b;How long?;Combien?;Combien ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;65;4;167778271141e523;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;65;21;40737e731746ed71;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;4;dd3534d1553df910;Were we at war?;En guerre?;En guerre ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;30;db6464d05633ff12;Oooh, someone's feeling a bit sassy today!;Oooh, quelqu'un est insolent aujourd'hui!;Oooh, quelqu'un est insolent aujourd'hui !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;32;d86233d65669a815;Did I do something wrong?;J'ai fait une erreur?;J'ai fait une erreur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;39;886666800639fc15;What is it Jack?;Quoi, Jack?;Quoi, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;40;893234d50768fc15;What do you need?;Il te faut quoi?;Il te faut quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;43;d53266d5063dab16;Perhaps you could share it with the Captain?;Peut-être en faire profiter la capitaine?;Peut-être en faire profiter la capitaine ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;49;d56037870833fa16;And now you somehow disapprove of me?!;Et maintenant tu me désapprouves?!;Et maintenant tu me désapprouves ?!;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;53;886035825269a817;Oooh, someone's feeling a bit sassy today!;Oooh, quelqu'un est insolent aujourd'hui!;Oooh, quelqu'un est insolent aujourd'hui !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;59;d93235d0543ffc17;What's gotten into you today?;Qu'est-ce qui te prend?;Qu'est-ce qui te prend ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;63;db606087036aa840;I hope I haven't done anything to upset you?;J'espère ne pas t'avoir contrarié?;J'espère ne pas t'avoir contrarié ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;100;89326ed9036ef143;Did I do something wrong?;J'ai fait une erreur?;J'ai fait une erreur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;103;de6562830938fa43;Are you sure you intended that?;C'était voulu, tu es sûr?;C'était voulu, tu es sûr ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;112;da6135d0076aaf44;I take it you are dissatisfied?;Tu es donc mécontent?;Tu es donc mécontent ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;113;8d3037d3543cf844;Is this part of your programming?;Ça fait partie de ton programme?;Ça fait partie de ton programme ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;116;8e3432855433f944;Oooh, someone's feeling a bit sassy today!;Oooh, quelqu'un est insolent aujourd'hui!;Oooh, quelqu'un est insolent aujourd'hui !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;121;dd3760d8076eff45;What is troubling you, Jack?;Qu'est-ce qui te tracasse?;Qu'est-ce qui te tracasse ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;138;dc6465d00069f947;You don't approve?;Ça te plaît pas?;Ça te plaît pas ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;147;8e3363d7553afa4c;What's wrong, Jack?;Ça va pas, Jack?;Ça va pas, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;158;156;8d6961d00838fe4d;How can I help?;Je peux aider?;Je peux aider ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;200;6;bd6e71b8a88e4fb7;Do I have something on my face?;J'ai un truc sur le visage?;J'ai un truc sur le visage ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;200;7;b16974bcf8d74fe2;Can I help you?;Je peux aider?;Je peux aider ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+0;200;9;e56570e8a18e47e4;Uhhh can I help you?;Euh, besoin d'aide?;Euh, besoin d'aide ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;3;b578a3f0310ab4f0;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;13;884ecd310a856e39;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;14;d84f96640ad26f39;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;23;da18c46205d4383b;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;29;8a13c46a54876e3b;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;32;dd1cc36302d4323c;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;43;df13916005836e3d;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;47;df1bc76351873d3e;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;54;8718c66150843c66;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;64;da4d926b50d43f67;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;69;8c4ec73206d63d68;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;72;8d13963200d36968;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;77;d81acd3256d36869;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;93;8649c76b02d53e6b;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;95;dc4dc7660486686b;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;106;8e18c53507d16f6c;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;111;8d4d906705d3696d;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;112;861a963550d36b6d;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;115;8848c63557876b6e;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;116;8d1ac53003806e6e;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;123;881bc5300381686f;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;32;124;871ac5630a81686f;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;44;1;e18894525eedccc7;Is there nothing we can do?;On peut rien faire alors?;On peut rien faire alors ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;44;35;e48e94525eedccc7;It's a distress call from Earth?;Un appel de détresse de Terre?;Un appel de détresse de Terre ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;8;73c8e00bcae28081;What is it Jack?;Quoi, Jack?;Quoi, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;9;2196e1089db18281;Oooh, someone's feeling a bit sassy today!;Oooh, quelqu'un est insolent aujourd'hui!;Oooh, quelqu'un est insolent aujourd'hui !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;34;739ce05f9bb38183;What's gotten into you today?;Qu'est-ce qui te prend?;Qu'est-ce qui te prend ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;35;7a9db30fc8e68583;Well hello!;Eh, salut!;Eh, salut !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;38;21caee5dc9b4d083;What's gotten into you today?;Qu'est-ce qui te prend?;Qu'est-ce qui te prend ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;57;279ce70995b08785;Talk later, Jack.;On parle plus tard, Jack.;Plus tard, Jack.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+16;53;67;709aef0ccdb58686;Well hello!;Eh, salut!;Eh, salut !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;72;70cfe05dcfb5d286;And now you somehow disapprove of me?!;Et maintenant tu me désapprouves?!;Et maintenant tu me désapprouves ?!;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;85;7a9ae4079dbd8287;And now you somehow disapprove of me?!;Et maintenant tu me désapprouves?!;Et maintenant tu me désapprouves ?!;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;111;24ccb20ac8b38289;What is it Jack?;Quoi, Jack?;Quoi, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;114;23cae55a9de78789;Oooh, someone's feeling a bit sassy today!;Oooh, quelqu'un est insolent aujourd'hui!;Oooh, quelqu'un est insolent aujourd'hui !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;124;11304dd46811e2a2;What is it Jack?;Quoi, Jack?;Quoi, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;137;14314dd46811e2a2;You don't approve?;Ça te plaît pas?;Ça te plaît pas ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;151;1a324dd46811e2a2;Well hello!;Eh, salut!;Eh, salut !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;168;15364dd46811e2a2;Oooh, someone's feeling a bit sassy today!;Oooh, quelqu'un est insolent aujourd'hui!;Oooh, quelqu'un est insolent aujourd'hui !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;170;17364dd46811e2a2;And now you somehow disapprove of me?!;Et maintenant tu me désapprouves?!;Et maintenant tu me désapprouves ?!;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;176;13374dd46811e2a2;What's gotten into you today?;Qu'est-ce qui te prend?;Qu'est-ce qui te prend ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;205;7accb606cdb2d5d3;Talk later, Jack.;On parle plus tard, Jack.;Plus tard, Jack.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+16;53;209;209be45894b680d4;Talk later, Jack.;On parle plus tard, Jack.;Plus tard, Jack.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+16;53;213;209cb50acfe1d1d4;You don't approve?;Ça te plaît pas?;Ça te plaît pas ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;53;224;769ce509c8b1d0d5;You don't approve?;Ça te plaît pas?;Ça te plaît pas ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;106;1;717a299f29db4d29;Uhhh can I help you?;Euh, besoin d'aide?;Euh, besoin d'aide ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;106;2;742b7a9a7ddd192a;Do I have something on my face?;J'ai un truc sur le visage?;J'ai un truc sur le visage ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;106;3;757f2ace29871c2a;What are you staring at?;Tu regardes quoi?;Tu regardes quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;106;8;9c42d9f6f4e1b55e;Do I have something on my face?;J'ai un truc sur le visage?;J'ai un truc sur le visage ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;106;10;9e42d9f6f4e1b55e;Uhhh can I help you?;Euh, besoin d'aide?;Euh, besoin d'aide ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;106;13;737d7c9e7a884e7d;Uhhh can I help you?;Euh, besoin d'aide?;Euh, besoin d'aide ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;106;14;227429997ddb1e7f;Do I have something on my face?;J'ai un truc sur le visage?;J'ai un truc sur le visage ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;125;8;e465cfdc8cdb05b2;How close are we to making contact?;On est loin du contact?;On est loin du contact ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;125;20;ef64cedcd8895db3;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;125;22;ef6cc58d8c8d0cb4;What are our options?;Quelles options?;Quelles options ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;125;99;51fd98065c97fa1f;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;138;0;783ecaf055618204;The headlamp, Jack!;La lampe, Jack!;La lampe, Jack !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;138;4;2d6ecca6553dd308;The headlamp, Jack!;La lampe, Jack!;La lampe, Jack !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;138;5;7d39c9f10435820a;Uhhh Jack?  The headlamp?;Euh Jack? La lampe?;Euh Jack ? La lampe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;138;14;2a6bcfa45234d70e;Uhhh Jack?  The headlamp?;Euh Jack? La lampe?;Euh Jack ? La lampe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;138;29;978e50a02aabf16d;The headlamp, Jack!;La lampe, Jack!;La lampe, Jack !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;138;30;988e50a02aabf16d;Uhhh Jack?  The headlamp?;Euh Jack? La lampe?;Euh Jack ? La lampe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;143;2;16ff8a5cb25ee3b0;How goes it?;Ça avance?;Ça avance ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;143;4;0bc907487b88bd11;How goes it?;Ça avance?;Ça avance ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;143;9;5c9a551a778ce842;How goes it?;Ça avance?;Ça avance ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;8;4e927341482d58b2;The reboot code is 0-9-1-5.;Code reboot: 0-9-1-5.;Code reboot : 0-9-1-5.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;9;159473464c745db2;Okay, ready to do the reset sequence?;Prêt pour la séquence de reset?;Prêt pour la séquence de reset ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;30;0d5313384fa5eeb2;What happened?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;32;0d5513384fa5eeb2;The kind we don't need to worry about. Right, Juno?;Le genre sans risque. Pas vrai, Juno?;Le genre sans risque. Pas vrai, Juno ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;40;0d5314384fa5eeb2;Different how?;Comment ça?;Comment ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;53;0d5116384fa5eeb2;The hell?;Putain?;Putain ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;120;0d50143a4fa5eeb2;Is... something burning?;Ça... sent le brûlé?;Ça... sent le brûlé ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;122;0d55143a4fa5eeb2;Ow! That's hot.;Ah! Ça brûle.;Ah ! Ça brûle.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;194;0d53153b4fa5eeb2;Chiron Station Network Access Client. Habitat Alpha: Online.;Client réseau station Chiron. Habitat Alpha: en ligne.;Client réseau station Chiron. Habitat Alpha : en ligne.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;299;0d5b183d4fa5eeb2;Jack, you still up there? What's the holotable doing?;Jack, tu es encore là-haut? Que fait la table holo?;Jack, tu es encore là-haut ? Que fait la table holo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;300;0d50193d4fa5eeb2;You seeing anything on the holotable?;Tu vois quelque chose à l'Holotable?;Tu vois quelque chose à l'Holotable ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;304;0d54193d4fa5eeb2;What's the story? Is the holotable up?;Alors? Holotable en ligne?;Alors ? Holotable en ligne ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;328;1fc476101d7c52e2;What've we here?;On a quoi là?;On a quoi là ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;169;330;4897204b4f7953e3;Oooh, someone's feeling a bit sassy today!;Oooh, quelqu'un est insolent aujourd'hui!;Oooh, quelqu'un est insolent aujourd'hui !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;170;4;6d1e57e8a82aa781;Or, was it Jack?;Ou Jack?;Ou Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;170;7;6f4b52ecaa70f281;Or, was it Echo One?;Ou Echo One?;Ou Echo One ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;170;32;3a4504e0ae71f686;Affirmative. All systems nominal. Rally at your position?;Affirmatif. Systèmes normaux. Je vous rejoins?;Affirmatif. Systèmes normaux. Je vous rejoins ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;170;61;6a4d03bdfb7df1d0;Is it sufficient for open communication?;Ça suffit pour communiquer librement?;Ça suffit pour communiquer librement ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;0;6cfea0fefffc8788;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;2;3da3f4aaacf8d388;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;5;3baca1aaffabd588;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;9;3efefdfafdf8dd88;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;10;3aa3fdf7fffcdd88;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;16;3aada1feaeadd48a;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;19;6ea9fcf7ffadd68a;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;24;3ea2a1aaaaaa868b;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;36;39a2f2aba5ad858c;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;41;3dfef0fda9add28c;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;44;3cf9a1fcacfad68c;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;45;3fabf1abfefcd68c;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;47;3ea3a0f8a8fcd78c;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;50;3cf8a1fcf9f6818d;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;55;3da8a7a8ffadd18d;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;62;6efba1faa9fed78d;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;72;6ffff0fbffabd38f;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;74;3fa9f4fdfafbd68f;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;78;6bf8a0f9aaf887d6;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;79;68acf5f8abf887d6;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;83;69aaf6f7a4afd7d6;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;90;38aaa4f9acaa87d7;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;95;3dfcf0f6fef6d2d7;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;101;6eafa0fafef987d8;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;106;33f8f0ffa5f9d7d8;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;109;68a2a4f7f9afddd8;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;126;32fea4afaffb82da;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;131;69adfdfbafacd6da;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;134;6baef7aff8f8dcda;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;136;38ffa1ffffab81db;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;137;6efbfcacfdfa82db;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;140;3ba9a7ada5ffd1db;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;182;3afff1afa9fbd2de;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;184;6baff7fda5fdd4de;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;185;33abf5f7faf9d6de;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;187;6efba0a8aef8dcde;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;193;3afba1abadf9d3df;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;194;6fa2a7a8a4fdd4df;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;197;33acf3fff8a8dddf;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;198;3bfef0aaaef9dddf;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;201;77ae0ba880b6474b;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+16;190;202;78ae0ba880b6474b;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;77;8;a3ab3a5e19b11911;Do you <static> the Echo Unit?;Vous <static> l'unité Echo?;Vous <static> l'unité Echo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;77;24;f0aa365e11e71214;Who else would it be?;Qui d'autre sinon?;Qui d'autre sinon ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;77;27;f6a9330a14b61e14;It's really you?;C'est bien toi?;C'est bien toi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;77;37;abfe645a44ba4e15;<static>... Captain Rhodes?;<static>... Rhodes?;<static>... Rhodes ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;150;4;b2f59572f4d38a98;Can... we at least recover their local files?;On peut... récupérer leurs fichiers locaux?;On peut... récupérer leurs fichiers locaux ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;150;130;b2a5cc2aa3d18fc2;Biometrics confirm asphyxiation, not the Bio Mass, was the cause...;Biométrie: l'asphyxie, pas la biomasse, était la cause...;Biométrie : l'asphyxie, pas la biomasse, était la cause...;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;150;135;b6a09277f684d9c2;Biometrics indicate asphyxiation, not the Bio Mass, was the cause...;Biométrie: l'asphyxie, pas la biomasse, était la cause...;Biométrie : l'asphyxie, pas la biomasse, était la cause...;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;150;284;e6a7922af285d9ce;And what technology was that? More to do with the cloak emitters?;Quelle technologie? Encore liée aux émetteurs de camouflage?;Quelle technologie ? Encore liée aux émetteurs de camouflage ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;150;293;b9fac023a6828acf;Even with your Grip Projector?;Même avec votre projecteur?;Même avec votre projecteur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;2;ad4d3711c16eb9a8;You mean to monitor his infection?;Pour surveiller son infection?;Pour surveiller son infection ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;28;fe1c6013c633bea9;AI core..?;Cœur IA?;Cœur IA ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;35;ab4b3010c565e8a9;What have we learned about the Bio Mass' composition?;Que savons-nous de la composition de la biomasse?;Que savons-nous de la composition de la biomasse ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;87;f9473446c062bcac;You recognize this device?;Vous reconnaissez ça?;Vous reconnaissez ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;103;a446614b9665eeac;What can you tell us about the Bio Mass, doctor?;Que savez-vous de la biomasse, Docteur?;Que savez-vous de la biomasse, Docteur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;109;ff1d6e109163bbae;AI core..?;Cœur IA?;Cœur IA ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;159;f91d67419d6ebdf2;That is the more troubling question, isn't it?;C'est la question la plus inquiétante, non?;C'est la question la plus inquiétante, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;175;fa486710c264b9f3;You mean to monitor his infection?;Pour surveiller son infection?;Pour surveiller son infection ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;191;a91a33439165ebf3;You recognize this device?;Vous reconnaissez ça?;Vous reconnaissez ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;194;a41961119562ecf3;Would it be possible to fabricate a Multi Pass for my own use?;Pourrait-on fabriquer un Multi Pass pour moi?;Pourrait-on fabriquer un Multi Pass pour moi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;228;fd193540946eeff8;Juno, is there a reason this holo-table is not utilized?;Juno, pourquoi cette table holo reste inutilisée?;Juno, pourquoi cette table holo reste inutilisée ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;252;ff4e3011906fecf9;That is the more troubling question, isn't it?;C'est la question la plus inquiétante, non?;C'est la question la plus inquiétante, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;256;a94a37429365eff9;That is the more troubling question, isn't it?;C'est la question la plus inquiétante, non?;C'est la question la plus inquiétante, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;266;a54c65419363bdfa;Of course! I'll print one with your credentials now.;Bien sûr! J'en imprime un avec vos identifiants.;Bien sûr ! J'en imprime un avec vos identifiants.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;268;fd466f139132befa;You mean to monitor his infection?;Pour surveiller son infection?;Pour surveiller son infection ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;271;ff4d33119430e8fa;You have a fabricator... Why not print a new one with the spear?;Vous avez un fabricateur... imprimez-en un avec la lance?;Vous avez un fabricateur... imprimez-en un avec la lance ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;301;f81e32409434eefb;AI core..?;Cœur IA?;Cœur IA ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;309;aa1e33449061b9fc;What have we learned about the Bio Mass' composition?;Que savons-nous de la composition de la biomasse?;Que savons-nous de la composition de la biomasse ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;335;ff4d67449463bbfd;What have we learned about the Bio Mass' composition?;Que savons-nous de la composition de la biomasse?;Que savons-nous de la composition de la biomasse ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;359;f8493045c66fbefe;What have we learned about the Bio Mass' composition?;Que savons-nous de la composition de la biomasse?;Que savons-nous de la composition de la biomasse ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;383;a41d3344c763bdff;You recognize this device?;Vous reconnaissez ça?;Vous reconnaissez ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;391;a81a6f13c162e8ff;Novelty?;Gadget?;Gadget ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+21;152;397;ad46334ac737ecff;That is the more troubling question, isn't it?;C'est la question la plus inquiétante, non?;C'est la question la plus inquiétante, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+25;83;7;d93e41a4d910c787;Okay, so then who does the ship belong to?;D'accord. À qui est ce vaisseau?;D'accord. À qui est ce vaisseau ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+25;83;9;89364cf1891cced1;What do you see?;Tu vois quoi?;Tu vois quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+25;83;25;de3a41a7dd11cdd7;What do you see?;Tu vois quoi?;Tu vois quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+25;83;29;d9394bf1d315c7df;So you're really not part of the station?;Donc tu n'es pas de la station?;Donc tu n'es pas de la station ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+25;83;37;005bbc04f216a6e1;And what do you suppose a ship from our time is doing here?;Que ferait ici un vaisseau provenant de notre époque?;Que ferait ici un vaisseau provenant de notre époque ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+25;83;58;0553bd04f216a6e1;Juno, are you saying this is your ship?;Juno, c'est ton vaisseau?;Juno, c'est ton vaisseau ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+25;83;73;0759bd04f216a6e1;How do we get on board?;Comment monter à bord?;Comment monter à bord ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+25;83;80;065abd04f216a6e1;What's a ship from our time doing here?;Un vaisseau de notre époque ici?;Un vaisseau de notre époque ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+25;83;115;065fbd04f216a6e1;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;6;f52d8caa91c8b598;What exactly happened here?;Que s'est-il passé ici?;Que s'est-il passé ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;33;a2798cfa949fb49b;Yes, Captain?;Oui, chef?;Oui, chef ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;35;f328d4aa919cb59b;You're sure?;Sûr?;Sûr ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;41;f22b80aac89ae29b;How far past?;Depuis quand?;Ça remonte à combien de temps ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+26;92;45;f47c87ab94c9e49b;Yes, Captain?;Oui, chef?;Oui, chef ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;64;a72d84a995c8e79c;This is safe?;C'est sûr?;C'est sûr ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;66;ae27d7ac939fe89c;Yes, Captain?;Oui, chef?;Oui, chef ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;149;feca739c7ada73b0;It's amazing that, despite all odds, they somehow got uglier.;Incroyable: malgré tout, ils sont devenus encore plus laids.;Incroyable : malgré tout, ils sont devenus encore plus laids.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;191;f6cf739c7ada73b0;Why do you ask?;Pourquoi donc?;Pourquoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;210;f6c3749c7ada73b0;And what do you suppose a ship from our time is doing here?;Que ferait ici un vaisseau provenant de notre époque?;Que ferait ici un vaisseau provenant de notre époque ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;217;fdc3749c7ada73b0;What's a ship from our time doing here?;Un vaisseau de notre époque ici?;Un vaisseau de notre époque ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;232;f7ca749c7ada73b0;Not been touched in ages.;Intouché depuis longtemps;Intact depuis des lustres;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+26;92;245;f6cd749c7ada73b0;You mean you weren't already sure?;Vous étiez pas déjà sûre?;Vous étiez pas déjà sûre ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;279;fec3759c7ada73b0;What've we here?;On a quoi là?;On a quoi là ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;289;f7cc759c7ada73b0;This creature evolved from the bio-mass?;Cette créature vient de la biomasse?;Cette créature vient de la biomasse ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;291;f9cc759c7ada73b0;There isn't any way to get this door open?;Aucun moyen d'ouvrir cette porte?;Aucun moyen d'ouvrir cette porte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;305;ffce759c7ada73b0;Doesn't exactly paint a rosy picture, does it?;Ça donne pas une image très rassurante, hein?;Ça donne pas une image très rassurante, hein ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;316;fec2769c7ada73b0;What's wrong?;Qu'y a-t-il?;Qu'y a-t-il ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;317;ffc2769c7ada73b0;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;346;f7cf769c7ada73b0;What do you think?;T'en penses quoi?;T'en penses quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;357;fdc8779c7ada73b0;A monument?;Monument?;Monument ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;381;f52dd6a8c29be3c6;This is safe?;C'est sûr?;C'est sûr ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;425;a77c80ad9695e2c9;Yes, Captain?;Oui, chef?;Oui, chef ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;433;f37ad6a9c29de8c9;Yes, Captain?;Oui, chef?;Oui, chef ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;451;ae7c80a4939db2cb;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;453;a42684a5c79eb4cb;I wonder what's in these containers.;Que contiennent ces conteneurs?;Que contiennent ces conteneurs ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;458;f32a80f996cae0cb;Why do you ask?;Pourquoi donc?;Pourquoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;482;a72d85fdc2cfb1cd;What'd you find?;Trouvé quoi?;Trouvé quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;488;a127d4a9919eb6cd;This is safe?;C'est sûr?;C'est sûr ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;490;a12fd4ffc3cdb6cd;I wonder what's in these containers.;Que contiennent ces conteneurs?;Que contiennent ces conteneurs ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;500;a62ad4ab94c9e7cd;This is safe?;C'est sûr?;C'est sûr ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;512;a37c8da9c9cfe7ce;How far past?;Depuis quand?;Ça remonte à combien de temps ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+26;92;516;f728d1a8c798b2cf;Wait wait back up. You found coffee?;Attends. Tu as trouvé du café?;Attends. Tu as trouvé du café ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;92;517;af2685fac799b3cf;This is safe?;C'est sûr?;C'est sûr ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;147;23;0e78c4a446a6c3db;Liv, what is it?;Liv, quoi?;Liv, quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;147;119;057ec6a446a6c3db;How do I reach the generator?;Comment aller au générateur?;Comment aller au générateur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;147;162;0a78c7a446a6c3db;Liv, what are you saying?;Liv, que veux-tu dire?;Liv, que veux-tu dire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;147;204;0c7cc7a446a6c3db;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;147;224;0c7ec7a446a6c3db;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+26;147;237;0f7fc7a446a6c3db;What happens if he doesn't develop a cure in time?;Et s'il ne trouve pas de remède à temps?;Et s'il ne trouve pas de remède à temps ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+30;197;38;2dd607742e81e9cb;What are the odds the rest of our trip goes just as smoothly?;Quelles chances que la suite se passe aussi bien?;Quelles chances que la suite se passe aussi bien ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+31;126;29;650ad6b4e3e310bf;...That's it?;...Voilà?;...Voilà ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+31;126;53;690dd6b4e3e310bf;You're sure?;Sûr?;Sûr ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+31;126;55;6b0dd6b4e3e310bf;Well, Jack. How do you feel?;Alors Jack, ça va?;Alors Jack, ça va ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+31;126;68;680fd6b4e3e310bf;But by then, he'll be able to reboot, right?;Mais il pourra rebooter ensuite, non?;Mais il pourra rebooter ensuite, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+31;126;71;6b0fd6b4e3e310bf;How do I get inside?;Comment j'entre?;Comment j'entre ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+31;126;74;6e0fd6b4e3e310bf;You're sure all the bio-mass in this sector is dormant?;Toute la biomasse de ce secteur est bien dormante?;Toute la biomasse de ce secteur est bien dormante ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+31;196;56;df83dcc5a73e96ec;Perhaps you can push the crane towards the other ticks?;Vous pourriez pousser la grue vers les autres Ticks?;Vous pourriez pousser la grue vers les autres Ticks ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+31;196;71;85d2dbc4a33ec6ed;Keep me posted on comms, all right?;Tiens-moi au courant, d'accord?;Tiens-moi au courant, d'accord ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+31;196;80;e874f0d388e04710;Perhaps powering something on can distract the tick?;Alimenter un appareil pourrait distraire le Tick?;Alimenter un appareil pourrait distraire le Tick ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+31;196;86;ee74f0d388e04710;Perhaps we can find a source of power to distract the tick?;Peut-être une source d'énergie pour distraire le Tick?;Peut-être une source d'énergie pour distraire le Tick ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+31;196;87;ef74f0d388e04710;See anything that could be of help?;Vous voyez quelque chose d'utile?;Vous voyez quelque chose d'utile ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+31;196;116;eb73f1d388e04710;This emergency release will open the door?;Ce déverrouillage ouvrira la porte?;Ce déverrouillage ouvrira la porte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;30;81;869d3080368dcf1e;What is that?;C'est quoi?;C'est quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;30;268;809b3380368dcf1e;The ship's A.I.? Do you mean Apollo?;L'IA du bord? Vous dites Apollo?;L'IA du bord ? Vous dites Apollo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;30;269;819b3380368dcf1e;You're familiar?;Ça vous parle?;Ça vous parle ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;30;306;829f3380368dcf1e;Some trouble opening the door, Dr. Harlan?;Souci avec la porte, Dr Harlan?;Souci avec la porte, Dr Harlan ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;72;6;ce08ec00d885aa38;Juno, how many X-3s were sent here?;Juno, combien de X-3 ici?;Juno, combien de X-3 ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;72;52;9e50ec0d8fd3ad3b;Shall I begin playback?;Je lance la lecture?;Je lance la lecture ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;72;97;9908e10b80dbaf3e;Does that scan give us sufficient data?;Ce scan donne assez de données?;Ce scan donne assez de données ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;72;117;c958b10188d1af3f;Juno, what exactly was going on out here?;Juno, que se passait-il ici?;Juno, que se passait-il ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;72;205;ce0fb0588ddbfa69;"I advise scanning their data ports; the contents may prove useful.";"Scannez leurs ports de données; leur contenu peut servir.";"Scannez leurs ports de données ; leur contenu peut servir.";QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;72;264;9c50e00f8d87af6c;Juno, how many X-3s were sent here?;Juno, combien de X-3 ici?;Juno, combien de X-3 ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;85;147;49706cf52dd21d2a;What's going on?;Quoi encore?;Quoi encore ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;85;178;1b756fa37cdf4978;Jack, answer me!;Jack, réponds!;Jack, réponds !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;85;211;1c226da721d3437f;No no, wait-- Don't! There's still time! I can fix this!;Non, attends-- Ne fais pas ça! J'ai encore le temps!;Non, attends-- Ne fais pas ça ! J'ai encore le temps !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;142;99;3dd403efe520686c;An infirmary, right next to security?;Une infirmerie près de la sécurité?;Une infirmerie près de la sécurité ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;204;24;5884cd34bb279ea4;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;204;61;0bd69f34eb7694f2;What's wrong?;Qu'y a-t-il?;Qu'y a-t-il ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;204;66;5e87cc30bd7191f3;Captain Rhodes?;Cap. Rhodes?;Cap. Rhodes ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;204;118;58859762ee2392fa;Juno, can you prep the bed for another dispersion?;Juno, prépare le lit pour une autre dispersion?;Juno, prépare le lit pour une autre dispersion ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;204;126;0c83cc33bf7592fb;Juno, can you prep the bed for another dispersion?;Juno, prépare le lit pour une autre dispersion?;Juno, prépare le lit pour une autre dispersion ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;204;181;ebf6b8b2afa42a0c;We're too late?;Trop tard?;Trop tard ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;204;199;e0f1b9b2afa42a0c;What's wrong?;Qu'y a-t-il?;Qu'y a-t-il ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;204;201;e2f1b9b2afa42a0c;Captain Rhodes?;Cap. Rhodes?;Cap. Rhodes ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;204;202;e3f1b9b2afa42a0c;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+38;204;277;e2ffb9b2afa42a0c;The biomass sample we were testing earlier... where was it from?;L'échantillon testé plus tôt... d'où venait-il?;L'échantillon testé plus tôt... d'où venait-il ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+44;99;4;add055ebca523609;What do you mean?;Tu veux dire?;Tu veux dire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+44;99;17;a9dc05b0c906610f;Kinda grows on you doesn't it?;On finit par l'aimer, non?;On finit par l'aimer, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;39;fde4f5ad9b29378c;"Apollo, search your memory for my identifier: ""Echo-1.""";Apollo, cherche mon identifiant en mémoire: «Echo-1».;Apollo, cherche mon identifiant en mémoire : «Echo-1».;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;47;f7e3f5af9c286a8c;Maybe try talking some sense into him?;Essaie de lui faire entendre raison?;Essaie de lui faire entendre raison ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;50;acb2a0a2987e348e;Threat suppression protocol? What do you mean?;Protocole de neutralisation? C'est-à-dire?;Protocole de neutralisation ? C'est-à-dire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;64;afb2f5ad947f618f;Is Captain Rhodes with you? And well, I hope?;La capitaine Rhodes est là? Elle va bien?;La capitaine Rhodes est là ? Elle va bien ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;70;402676efa3ac93cd;These panels were essential to my survival when the Astraea was filled with Bio Mass.;Ces panneaux ont été essentiels à ma survie lorsque l'Astraea était envahi de biomasse.;Ces panneaux ont été essentiels à ma survie lorsque l'Astraea était envahie de biomasse.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+45;35;100;422178efa3ac93cd;Wait, what?!;Quoi?!;Quoi ?!;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;114;472278efa3ac93cd;These panels were essential to my survival when the Astraea was filled with biomass.;Ces panneaux ont été essentiels à ma survie lorsque l'Astraea était envahi de biomasse.;Ces panneaux ont été essentiels à ma survie lorsque l'Astraea était envahie de biomasse.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+45;35;194;462479efa3ac93cd;So, you'll help, then?;Alors, vous aiderez?;Alors, vous aiderez ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;197;4f2479efa3ac93cd;Apollo, when we first met, the Astraea was being destroyed by the biomass.;Apollo, lorsque nous nous sommes rencontrés, l'Astraea était en train d'être détruit par la biomasse.;Apollo, lorsque nous nous sommes rencontrés, l'Astraea était en train d'être détruite par la biomasse.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+45;35;235;412f79efa3ac93cd;And in any case, I'm still the captain of this ship, right?;Et je reste la capitaine de ce vaisseau, non?;Et je reste la capitaine de ce vaisseau, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;270;45237aefa3ac93cd;When we first met, the Astraea was being destroyed by the biomass. Yet you rendered assistance, enabling its survival.;Lors de notre première rencontre, l'Astraea était en train d'être détruit par la biomasse. Pourtant, vous nous avez aidés, ce qui a permis sa survie.;Lors de notre première rencontre, l'Astraea était en train d'être détruite par la biomasse. Pourtant, vous nous avez aidés, ce qui a permis sa survie.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+45;35;294;40277aefa3ac93cd;These panels were extremely beneficial when the Astraea was filled with biomass.;Ces panneaux ont été extrêmement utiles lorsque l'Astraea était envahi de biomasse.;Ces panneaux ont été extrêmement utiles lorsque l'Astraea était envahie de biomasse.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+45;35;302;412e7aefa3ac93cd;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;330;43237befa3ac93cd;These panels were life-savers when the Astraea was filled with biomass.;Ces panneaux nous ont sauvé la vie lorsque l'Astraea était envahi de biomasse.;Ces panneaux nous ont sauvé la vie lorsque l'Astraea était envahie de biomasse.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+45;35;365;4f277befa3ac93cd;What the hell is that?!;C'est quoi ce bordel?!;C'est quoi ce bordel ?!;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;470;462e7cefa3ac93cd;What do I need to do?;Je dois faire quoi?;Je dois faire quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;509;4f227defa3ac93cd;What brings you back to the Astraea?;Pourquoi revenir sur l'Astraea?;Pourquoi revenir sur l'Astraea ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;513;43237defa3ac93cd;When we first met, the Astraea was being destroyed by the bio-mass, yet you still helped us survive.;Lors de notre première rencontre, l'Astraea était en train d'être détruit par la biomasse, mais vous nous avez quand même aidés à survivre.;Lors de notre première rencontre, l'Astraea était en train d'être détruite par la biomasse, mais vous nous avez quand même aidés à survivre.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+45;35;599;44237eefa3ac93cd;Captain Rhodes?;Cap. Rhodes?;Cap. Rhodes ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;658;442f7eefa3ac93cd;Last time we were here, the Astraea was filled with radiation and bio-mass.;La dernière fois que nous étions ici, l'Astraea était envahi de radiations et de biomasse.;La dernière fois que nous étions ici, l'Astraea était envahie de radiations et de biomasse.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+45;35;755;452f7fefa3ac93cd;How can I help?;Je peux aider?;Je peux aider ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;763;fab6a3ac942936d2;I assume you have some type of plan?;Vous avez un plan, je suppose?;Vous avez un plan, je suppose ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;767;fae1f3fcca7d63d2;What the hell is that?!;C'est quoi ce bordel?!;C'est quoi ce bordel ?!;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;805;afb1f3f9ce786bd9;Oh! Still intact?;Oh! Intact?;Oh ! Intact ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;840;aae1f3acc97d33dd;Maybe try talking some sense into him?;Essaie de lui faire entendre raison?;Essaie de lui faire entendre raison ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;35;866;abe4f0af9f2e37df;Did Apollo just try to kill you?;Apollo a tenté de vous tuer?;Apollo a tenté de vous tuer ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;48;90;b8836ea45fd907ea;How do you mean?;Comment ça?;Comment ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;48;254;71c6856c5a911d31;She's here, isn't she?;Elle est ici, non?;Elle est ici, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;48;272;72c5d0395d941933;Could one of Dr. McKenna's codes work on that keypad Jack saw?;Un code du Dr McKenna pourrait-il ouvrir ce clavier, Jack?;Un code du Dr McKenna pourrait-il ouvrir ce clavier, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;48;318;27c285395dc01d36;How long does it take?;Ça prend combien?;Ça prend combien ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;48;338;72cc823e58c01f60;Who? The research director?;Qui? La directrice?;Qui ? La directrice ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;48;349;7495803e5ac21862;Juno, could one of Dr. McKenna's codes work here?;Juno, un code du Dr McKenna marcherait ici?;Juno, un code du Dr McKenna marcherait ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;48;383;25c7d56a5ec04264;So how does infection work? Once it becomes active, I mean.;Comment agit l'infection une fois qu'elle devient active?;Comment agit l'infection une fois qu'elle devient active ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;76;1;e20956e3a6304eed;Get them off me!;Enlève-les!;Enlève-les !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;76;4;eb0956e3a6304eed;Can you turn it on?;Tu peux l'allumer?;Tu peux l'allumer ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;76;8;e40a56e3a6304eed;What is this?;C'est quoi?;C'est quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;76;14;e00c56e3a6304eed;I need a distraction!;Besoin de diversion!;Besoin de diversion !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;76;15;e10c56e3a6304eed;What's happening?;Que se passe?;Que se passe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;76;24;e30d56e3a6304eed;Stay with me!;Reste là!;Reste là !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;76;37;450fa58616038a03;What's happening?;Que se passe?;Que se passe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;76;40;110ff5d01752d30c;Stay with me!;Reste là!;Reste là !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;88;44;0dbc24ef136a4688;Is that as dodgy as it sounds?;Aussi risqué que ça paraît?;Aussi risqué que ça paraît ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;88;59;0bb623ef4165118a;Is it?;Vrai?;Vrai ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;88;119;0bbb21e21337148d;How's it look in there?;Ça donne quoi dedans?;Ça donne quoi dedans ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;88;131;0fbc20b24c67458d;The drive's locking mechanism is inside this housing?;Le verrou du propulseur est dans ce boîtier?;Le verrou du propulseur est dans ce boîtier ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;88;135;5abb73e71136128e;This terminal controls the drive?;Ce terminal contrôle le FTL?;Ce terminal contrôle le FTL ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;88;220;8b85ac4e9d34159b;What's next, Apollo?;Et après, Apollo?;Et après, Apollo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;88;231;8c86ac4e9d34159b;What now?;Et là?;Et là ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;88;411;08ba7de4146a46d8;What's next, Apollo?;Et après, Apollo?;Et après, Apollo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;88;455;5eea70e4173612dc;How do we start the procedure?;Comment lancer la procédure?;Comment lancer la procédure ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;122;70;065714d2fbe19d7b;Where... are we?;Où sommes-nous?;Où sommes-nous ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;333;c7c5ba50a58ccbdd;How do you mean?;Comment ça?;Comment ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;535;cac2be51a58ccbdd;What is that?;C'est quoi?;C'est quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;690;c3cabf51a58ccbdd;A way to release the container?;Libérer le conteneur, comment?;Libérer le conteneur, comment ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;709;84b8982a03be9820;Is this device used for processing Bio Mass samples?;Cet appareil sert-il à traiter la biomasse?;Cet appareil sert-il à traiter la biomasse ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;724;d6bace2f02b3ce20;Is that Bio Mass trying to get into the door... or eat its way out?;Cette biomasse veut entrer... ou dévorer la porte pour sortir?;Cette biomasse veut entrer... ou dévorer la porte pour sortir ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;779;d8b8c82a0fb59e23;I assume these microscopes were used to observe the Bio Mass?;Ces microscopes servaient à observer la biomasse, non?;Ces microscopes servaient à observer la biomasse, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;784;d1e09c215de4cc23;Wait, wait... There are diagnoses that aren't terminal?;Attendez... Certains diagnostics ne sont pas fatals?;Attendez... Certains diagnostics ne sont pas fatals ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;852;d6ee987c08e59127;Wait, ATLAS built them?;ATLAS les a faits?!;ATLAS les a faits ?!;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;857;d6ed9c7f0de29b27;This door cannot be opened?;Cette porte est bloquée?;Cette porte est bloquée ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;881;d5bbca2008b69a2c;Test successful: The cloak emitter can insulate power transformers.;Test réussi: le camouflage peut isoler les transformateurs.;Test réussi : le camouflage peut isoler les transformateurs.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;885;81ba9f2b03e39c2c;I assume these microscopes were used to observe the Bio Mass?;Ces microscopes servaient à observer la biomasse, non?;Ces microscopes servaient à observer la biomasse, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;899;d9ecc47b5fbe902d;You knew him?;Vous saviez?;Vous saviez ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;903;86ef99285ab49b2d;Who was this person?;Qui était donc là?;Qui était donc là ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;931;d3e1c42d5fe09970;You think that's how it spread to the rest of the station?;Vous pensez que ça l'a propagée au reste de la station?;Vous pensez que ça l'a propagée au reste de la station ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;950;81ee992d0ebf9971;Can this door be unsealed?;Peut-on ouvrir la porte?;Peut-on ouvrir la porte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;962;d6bf987a0ab0cd71;These medical beds were used for diagnostic scans?;Ces lits servaient aux scans diagnostiques?;Ces lits servaient aux scans diagnostiques ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;983;d8ea9e780cb0cb73;She's... alone. Why aren't there any med-techs here?;Elle est... seule. Où sont les robots médicaux?;Elle est... seule. Où sont les robots médicaux ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;989;d2bac82e09b4cd73;Could it be part of the Bio Mass Containment area?;Partie de la zone de confinement de biomasse?;Partie de la zone de confinement de biomasse ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;994;84e8ce7a0fe09074;Have any personnel had direct contact?;Quelqu'un a eu un contact direct?;Quelqu'un a eu un contact direct ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;1005;d8eccc7f58e79f74;What do you mean?;Tu veux dire?;Tu veux dire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;1010;d2bac87b5fe2cb74;Should we be trying any of those treatments on Liv?;Devrait-on tester un de ces traitements sur Liv?;Devrait-on tester un de ces traitements sur Liv ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;1049;d7eaca2f03b69977;Are these the controls for the bay door?;Commandes de la porte de baie?;Commandes de la porte de baie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;145;1061;d0e0cc2c0fe29f77;This door allows for external access into the cargo bay, correct?;Cette porte donne accès de l'extérieur à la baie cargo, exact?;Cette porte donne accès de l'extérieur à la baie cargo, exact ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;181;1;2885c5d558d21780;Jack, mind using your headlamp to throw some light in there?;Jack, éclaire un peu là-dedans avec ta lampe frontale?;Jack, éclaire un peu là-dedans avec ta lampe frontale ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;181;3;2381cc8208d24581;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;181;14;24d096870b8f4683;Jack, mind using your headlamp to throw some light in there?;Jack, éclaire un peu là-dedans avec ta lampe frontale?;Jack, éclaire un peu là-dedans avec ta lampe frontale ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;181;24;21d2c7820e884b84;Let's maybe mind our phrasing, yeah?;Attention à la formulation, oui?;Attention à la formulation, oui ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;181;50;25d796830ad2178b;Jack, mind using your headlamp to throw some light in there?;Jack, éclaire un peu là-dedans avec ta lampe frontale?;Jack, éclaire un peu là-dedans avec ta lampe frontale ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;181;56;4dc0303700032c90;It's awfully dark in there... are you sure its safe?;C'est sombre... tu es sûr que c'est sans danger?;C'est sombre... tu es sûr que c'est sans danger ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;181;79;4ec5313700032c90;And how long do you suppose that'll last?;Et ça durera combien de temps?;Et ça durera combien de temps ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;181;102;44cc333700032c90;See anything?;Tu vois?;Tu vois ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;181;113;49cd333700032c90;Coming?;Viens?;Viens ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;181;120;26d6c4d5008810d0;Just watch yourself in there, okay?;Fais attention là-dedans, OK?;Fais attention là-dedans, OK ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;181;156;23d0c0810a8f47d6;Jack, mind using your headlamp to throw some light in there?;Jack, éclaire un peu là-dedans avec ta lampe frontale?;Jack, éclaire un peu là-dedans avec ta lampe frontale ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;198;82;647fec5c4f378044;What is that?;C'est quoi?;C'est quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;198;97;6777ed5c4f378044;Please Jack, hurry!;Jack, vite!;Jack, vite !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;198;133;637cef5c4f378044;What is this?;C'est quoi?;C'est quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;198;157;6278ee5d4f378044;Could you check out that booth for me Jack?;Tu peux voir cette cabine, Jack?;Tu peux voir cette cabine, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;198;159;6778ee5d4f378044;Might this be a source of power?;Ça pourrait fournir du courant?;Ça pourrait fournir du courant ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+45;198;179;657dee5d4f378044;I'm entirely unfamiliar with this design. How certain are you?;Cette conception m'est inconnue. Vous êtes sûre?;Cette conception m'est inconnue. Vous êtes sûre ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;40;3c61ca50feaf7024;Is there any particular rush?;Une urgence particulière?;Une urgence particulière ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;41;3d61ca50feaf7024;Here comes our little friend now. Look familiar?;Voilà notre petit ami. Il te dit quelque chose?;Voilà notre petit ami. Il te dit quelque chose ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;86;3a66ca50feaf7024;A holo-table?;Table holo?;Table holo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;88;3c66ca50feaf7024;I suppose you've already tried hitting it.;Tu as déjà essayé de taper dessus, non?;Tu as déjà essayé de taper dessus, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;90;3e66ca50feaf7024;I assume you've already checked for a spare emitter?;Tu as déjà cherché un émetteur de secours?;Tu as déjà cherché un émetteur de secours ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;99;3d67ca50feaf7024;See what I mean?;Tu vois?;Tu vois ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;112;3f6dca50feaf7024;The emitter is in the delivery chute?;L'émetteur est dans la goulotte?;L'émetteur est dans la goulotte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;117;3c60cb50feaf7024;"You call him ""Popcorn?""";"Tu dis ""Popcorn""?";"Tu dis ""Popcorn"" ?";QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;121;3961cb50feaf7024;What will fixing the holotable accomplish?;Réparer l'Holotable donnera quoi?;Réparer l'Holotable donnera quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;125;3862cb50feaf7024;Where do you need me?;Où veux-tu de moi?;Où veux-tu de moi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;239;3365cd50feaf7024;Captain Rhodes?;Cap. Rhodes?;Cap. Rhodes ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;269;3b6ccd50feaf7024;How long?;Combien?;Combien ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;111;275;3960ce50feaf7024;This device connects to the exterior?;Cet appareil mène dehors?;Cet appareil mène dehors ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;180;12;926b9b1de1675136;Who's worried?;Qui a peur?;Qui a peur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;180;19;936c9b1de1675136;And what do you suppose a ship from our time is doing here?;Que ferait ici un vaisseau provenant de notre époque?;Que ferait ici un vaisseau provenant de notre époque ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;180;28;9a6d9b1de1675136;What's a ship from our time doing here?;Un vaisseau de notre époque ici?;Un vaisseau de notre époque ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;180;31;f2b477bcb741e13a;See anything?;Tu vois?;Tu vois ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;187;9;68513a567d2765e3;Is there another way?;Une autre voie?;Une autre voie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;187;13;35053b0c7e296ae8;Anyone here?;Quelqu'un?;Quelqu'un ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;187;33;0b32de77781b77f9;Anyone here?;Quelqu'un?;Quelqu'un ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+51;187;72;0833df77781b77f9;Is there another way?;Une autre voie?;Une autre voie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;1;a100229f23e0d9ff;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;43;a604229f23e0d9ff;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;82;a500239f23e0d9ff;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;104;a702239f23e0d9ff;"""Should?""";Doit?;Doit ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;142;a506239f23e0d9ff;Are you ready to begin?;Prêt à commencer?;Prêt à commencer ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;145;aa06239f23e0d9ff;Are you ready to return to the past?;Prêt à retourner dans le passé?;Prêt à retourner dans le passé ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;197;a002249f23e0d9ff;Are you ready to begin?;Prêt à commencer?;Prêt à commencer ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;235;aa05249f23e0d9ff;Are you ready to begin?;Prêt à commencer?;Prêt à commencer ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;428;a100279f23e0d9ff;"""Should?""";Doit?;Doit ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;476;ab04279f23e0d9ff;What do you say, Jack?;Tu en dis quoi, Jack?;Tu en dis quoi, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;550;b19070380ebcec30;You mean you're going too?;Vous partez aussi?;Vous partez aussi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;584;e49370335cbfe931;"""Should?""";Doit?;Doit ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;615;e39020320cb3be38;And once they've gone got the data, how do we get them back?;Et une fois les données obtenues, comment les ramener?;Et une fois les données obtenues, comment les ramener ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;626;b490736a5cb8ef38;You're sure it's safe, our mucking about in here?;Sûr qu'on peut bricoler ici sans risque?;Sûr qu'on peut bricoler ici sans risque ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;646;b9c5713b5dbceb39;Learn anything useful?;Appris quelque chose?;Appris quelque chose ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;655;e690726e01beb23a;What do you say, Jack?;Tu en dis quoi, Jack?;Tu en dis quoi, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;688;b196703b09b2ec3a;"""Should?""";Doit?;Doit ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;705;b3c5723259b8bd3b;How likely are we to succeed?;Quelles chances de réussir?;Quelles chances de réussir ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;711;e390233e5cefbe3b;Now then, are we ready to begin?;Bien, prêts à commencer?;Bien, prêts à commencer ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;725;b5907c3f0abbec3b;What exactly is he supposed do when he gets there?;Que doit-il faire exactement une fois sur place?;Que doit-il faire exactement une fois sur place ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;750;b1c1243d0ebeba3c;How likely are we to succeed?;Quelles chances de réussir?;Quelles chances de réussir ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;755;b59127380fb2be3c;What is that... a motion detection system?;C'est quoi... un détecteur de mouvement?;C'est quoi... un détecteur de mouvement ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;771;e491716908bbb33d;Finished with your preparations?;Préparatifs terminés?;Préparatifs terminés ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;845;e5c5263909b3eb3f;How likely are we to succeed?;Quelles chances de réussir?;Quelles chances de réussir ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;898;b39471390feaba6a;I see no reason why we would not be transported together.;Pourquoi ne serions-nous pas transportés ensemble?;Pourquoi ne serions-nous pas transportés ensemble ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;938;e593703809bcb26c;How likely are we to succeed?;Quelles chances de réussir?;Quelles chances de réussir ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;945;b2c7726e5abdb86c;What's your honest assessment, Apollo?;Votre avis sincère, Apollo?;Votre avis sincère, Apollo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;132;1003;e5c57d395dbde96d;What's your honest assessment, Apollo?;Votre avis sincère, Apollo?;Votre avis sincère, Apollo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;155;4;186f700094dc6180;What is the discerning factor?;Quel est le facteur décisif?;Quel est le facteur décisif ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;155;34;1d6a7704c7d23686;Where would we find the logs?;Où trouver les journaux?;Où trouver les journaux ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;155;78;186f2006cf8337d5;What is the discerning factor?;Quel est le facteur décisif?;Quel est le facteur décisif ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;164;32;04f140e922f7473d;Coming Jack?;Tu viens?;Tu viens ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;164;95;06f043e922f7473d;I will?;Moi?;Moi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;164;130;01f543e922f7473d;Don't worry, Captain.;Du calme, Capitaine;Aucun souci, Capitaine;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+53;203;6;fa6790f032555003;Juno, are you ever going to tell me what that's all about?;Juno, tu vas m'expliquer tout ça?;Juno, tu vas m'expliquer tout ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+53;203;39;f86891f032555003;I assure you captain, it's nothing to be concerned about.;Je vous assure, Capitaine, aucun raison de s'inquiéter.;Je vous assure, Capitaine, aucune raison de s'inquiéter.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;GRAMMAR_CERTAIN
+53;203;75;fe6d91f032555003;Who are you?;Qui donc?;Qui donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;33;17;10c9f0038e5d7f89;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;33;106;9e47387ca4dea52a;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;33;159;cd416e7df2d5a42c;Don't worry, Captain.;Du calme, Capitaine;Aucun souci, Capitaine;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+58;33;178;ca126f23f589a12d;Do they still work?;Ça marche encore?;Ça marche encore ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;33;195;cf4e6c23aad8a02e;The escape pods are good to go, Apollo?;Capsules de secours prêtes, Apollo?;Capsules de secours prêtes, Apollo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;33;202;c4406f77aa8ba42e;I assume that's an order?;Un ordre, je suppose?;Un ordre, je suppose ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;33;230;99403e74a7dcf170;We're sure the core's in good shape, Apollo?;Le cœur est bien intact, Apollo?;Le cœur est bien intact, Apollo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;33;233;cb156b71a7d5f670;Are those the escape pods?;Capsules de sauvetage?;Capsules de sauvetage ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;33;276;cc153b74a48ff678;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;33;379;98443b72a1ddf77e;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;33;398;cc153d76aadbf47f;Was that in doubt?;Un doute?;Un doute ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;43;4;b2a700054b706482;Why are you throwing things?;Pourquoi lancez-vous ça?;Pourquoi lancez-vous ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;43;8;e3a80c581a753686;Are your audio receptors in working condition?;Vos récepteurs audio fonctionnent-ils bien?;Vos récepteurs audio fonctionnent-ils bien ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;43;27;b74bf8c281262afb;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;43;30;ba4bf8c281262afb;Aaand now you're throwing stuff.  What next?;Et maintenant tu lances des trucs. Ensuite?;Et maintenant tu lances des trucs. Ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;2;42d21068a611efc2;What's gotten into you today?;Qu'est-ce qui te prend?;Qu'est-ce qui te prend ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;3;43d21068a611efc2;Oooh, someone's feeling a bit sassy today!;Oooh, quelqu'un est insolent aujourd'hui!;Oooh, quelqu'un est insolent aujourd'hui !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;15;47d31068a611efc2;What is it Jack?;Quoi, Jack?;Quoi, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;17;49d31068a611efc2;Well hello!;Eh, salut!;Eh, salut !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;28;40d51068a611efc2;You don't approve?;Ça te plaît pas?;Ça te plaît pas ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;45;48d61068a611efc2;And now you somehow disapprove of me?!;Et maintenant tu me désapprouves?!;Et maintenant tu me désapprouves ?!;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;62;ff745e3b3cd70720;Thirteen, why are you pointing at me?;Treize, pourquoi me pointez-vous?;Treize, pourquoi me pointez-vous ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;69;f271003d64825320;What is the reason for your negativity?;Pourquoi tant de négativité?;Pourquoi tant de négativité ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;87;f4740f6c3cd20122;Are you trying to tell me something?;Vous essayez de me dire quoi?;Vous essayez de me dire quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;88;f27159396ed30122;Are you signally something?;Vous signalez un truc?;Vous signalez un truc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;146;f3775e3f3b810227;Does this signify something?;Ça signifie quelque chose?;Ça signifie quelque chose ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;149;f3730f6c6ad10327;Anything to report?;Rien à signaler?;Rien à signaler ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;156;f271593a3f850827;Registering sentiment: Thirteen approves.;Sentiment enregistré: Treize approuve.;Sentiment enregistré : Treize approuve.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;164;a425086b6fde5527;Oooh, someone's feeling a bit sassy today!;Oooh, quelqu'un est insolent aujourd'hui!;Oooh, quelqu'un est insolent aujourd'hui !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;181;a326013f65d20471;Are you attempting use your digit as an antenna?;Votre doigt vous sert-il d'antenne?;Votre doigt vous sert-il d'antenne ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;195;a57700356dd60872;A pointing gesture perhaps? Atypical...;Un geste pour pointer? Atypique...;Un geste pour pointer ? Atypique...;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;198;f3245c3438de5572;Is there something you need?;Besoin de quelque chose?;Besoin de quelque chose ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;199;f370596b64d45672;What do you need?;Il te faut quoi?;Il te faut quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;220;a3705c346adf5274;I shall provide an aural update:;Je donne un point audio:;Je donne un point audio :;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;244;f7265e3a65df0176;How can I help?;Je peux aider?;Je peux aider ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;250;a3730c393cd00676;Perhaps you are requesting I engage the 'Peacekeeper Protocol'?;Vous demandez peut-être le «protocole Gardien de la paix»?;Vous demandez peut-être le «protocole Gardien de la paix» ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;257;a2260a3c6f850277;Have you identified a new issue?;Nouveau problème identifié?;Nouveau problème identifié ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;267;a0785b693c850977;Perhaps you wish to engage in direct-link communication?;Souhaitez-vous établir une liaison directe?;Souhaitez-vous établir une liaison directe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;283;a2700b3f3ede037a;Can I help you?;Je peux aider?;Je peux aider ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;292;ff21093d65d5527a;Oooh, someone's feeling a bit sassy today!;Oooh, quelqu'un est insolent aujourd'hui!;Oooh, quelqu'un est insolent aujourd'hui !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;55;307;a0735c3d6883547b;Oooh, someone's feeling a bit sassy today!;Oooh, quelqu'un est insolent aujourd'hui!;Oooh, quelqu'un est insolent aujourd'hui !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;56;3;4f22eb6b68f5a701;What is happening?;Que se passe?;Que se passe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;56;20;1a22b36f3af4a70b;Sensors reading unidentified spatial anomaly in this sector.;Capteurs: anomalie spatiale inconnue dans ce secteur.;Capteurs : anomalie spatiale inconnue dans ce secteur.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;81;34;5e5bab406f3ca1a4;Does Delta Thirteen usually experience distress during boot-up?;Delta Treize est-il souvent en détresse au démarrage?;Delta Treize est-il souvent en détresse au démarrage ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;81;50;5a5df7413d3ffca4;Sensors reading unidentified spatial anomaly in this sector.;Capteurs: anomalie spatiale inconnue dans ce secteur.;Capteurs : anomalie spatiale inconnue dans ce secteur.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;81;64;0c54af463b66a7a6;Perhaps your memory archive is fractured?;Votre archive mémoire est fragmentée?;Votre archive mémoire est fragmentée ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;81;65;580cab426868a7a6;Affirmative. Recommend all units perform cursory systems check.;Affirmatif. Toutes les unités: rapide contrôle des systèmes.;Affirmatif. Toutes les unités : rapide contrôle des systèmes.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;81;157;0e5ffb42336cf2f1;Are there other ships in the area?;D'autres vaisseaux dans la zone?;D'autres vaisseaux dans la zone ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;81;162;0e5dfc42336cf2f1;Sensors detecting unknown devices in the area.;Capteurs: dispositifs inconnus dans la zone.;Capteurs : dispositifs inconnus dans la zone.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;81;250;095eab476e6af6f4;Why do you keep calling me Delta Thirteen?;Pourquoi m'appeler Delta Treize?;Pourquoi m'appeler Delta Treize ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;81;256;5d5bfb42383ba7f5;That was interference from the anomaly?;C'était l'anomalie qui brouillait?;C'était l'anomalie qui brouillait ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;81;262;595daf473e3fa4f6;What's happening?;Que se passe?;Que se passe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;81;270;0a5cac166b6ef4f6;Is Delta Thirteen always this unresponsive?;Delta Treize est toujours si peu réactif?;Delta Treize est toujours si peu réactif ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;81;277;500ffe496e3bf2f7;Why do you keep calling me Delta Thirteen?;Pourquoi m'appeler Delta Treize?;Pourquoi m'appeler Delta Treize ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;84;5;cd9b340bb7129400;Going somewhere?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;84;8;d8ac988aca82300b;Yes, Echo Unit?;Oui, Echo?;Oui, Echo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;84;11;dcffcadd9ed13759;Why are you grasping my chassis?;Pourquoi tenir mon châssis?;Pourquoi tenir mon châssis ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;84;15;d5fd9adecd81365e;Do you need assistance ambulating?;Besoin d'aide pour marcher?;Besoin d'aide pour marcher ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;105;25;ac189dd6ad440ad3;<static>... don't know if you can hear me...;<parasites> Vous m'entendez?;<parasites> Vous m'entendez ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;121;4;6d670c59fe806190;He does refer to me by name, a behavior he does not extend to you. Perhaps that is a positive indicator?;Il m'appelle effectivement par mon nom, ce qu'il fait pas avec vous. C'est peut-être un signe positif?;Il m'appelle effectivement par mon nom, ce qu'il fait pas avec vous. C'est peut-être un signe positif ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;121;7;3c615d0af8d76e90;Then how did you reach that conclusion?;Alors comment avez-vous conclu ça?;Alors comment avez-vous conclu ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;121;19;3c610d58acd03b95;What is your assessment?;Votre évaluation?;Votre évaluation ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;121;38;3b3a5d5af8866c97;Why do you ask?;Pourquoi donc?;Pourquoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;121;82;3f610e58fdd168c5;"Captain Rhodes. She considers you a ""friend,"" yes?";Capitaine Rhodes. Elle vous voit comme un ami?;Capitaine Rhodes. Elle vous voit comme un ami ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;121;83;3a375e0aaa846fc5;For coffee?;Un café?;Un café ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;121;94;3b615858fbd26ec6;Is that why so much data is required to develop new hardware?;C'est pour ça qu'il faut tant de données pour ce matériel?;C'est pour ça qu'il faut tant de données pour ce matériel ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;121;104;38660908ab8738ca;I ask because, if that is true, how do you know she is your friend?;Si c'est vrai, comment savez-vous qu'elle est votre amie?;Si c'est vrai, comment savez-vous qu'elle est votre amie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;121;111;3c330a58fb856bca;How do you mean?;Comment ça?;Comment ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;121;198;a7c8dfe5096f3772;How'd we do?;Alors?;Alors ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;121;205;a4c9dfe5096f3772;Guess you'll be heading to the research facility, then?;Tu vas donc au centre de recherche, j'imagine?;Tu vas donc au centre de recherche, j'imagine ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;128;35;6710a2763820e209;Perhaps their efforts can be continued?;Peut-on poursuivre leurs efforts?;Peut-on poursuivre leurs efforts ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;128;47;3244a2736822b30a;Perhaps the data can be repurposed toward our efforts?;Peut-être ces données peuvent-elles nous servir?;Peut-être ces données peuvent-elles nous servir ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;128;49;6746f9263e25b30a;That is what they would have wanted... Can we use the data?;Ils auraient voulu ça... Peut-on utiliser les données?;Ils auraient voulu ça... Peut-on utiliser les données ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;128;60;6314a5266b76e70a;That is what they would have wanted... Can we use the data?;Ils auraient voulu ça... Peut-on utiliser les données?;Ils auraient voulu ça... Peut-on utiliser les données ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;128;76;6646a6273023b60c;That is what they would have wanted... Can we use the data?;Ils auraient voulu ça... Peut-on utiliser les données?;Ils auraient voulu ça... Peut-on utiliser les données ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;128;84;6341f8763b2ce70c;Anything of note?;Rien à signaler?;Rien à signaler ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;128;89;6614a2726c2de10d;Perhaps their efforts can be continued?;Peut-on poursuivre leurs efforts?;Peut-on poursuivre leurs efforts ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;128;100;3748f0253f24e40e;But anything of use?;Mais rien d'utile?;Mais rien d'utile ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;128;120;6648f67d3d76b65a;Shall I return to a fabricator?;Je retourne au fabricateur?;Je retourne au fabricateur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;128;126;3615a1263f20b15b;Shall I return to a fabricator?;Je retourne au fabricateur?;Je retourne au fabricateur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;128;166;3217f4266d24e35e;Perhaps their efforts can be continued?;Peut-on poursuivre leurs efforts?;Peut-on poursuivre leurs efforts ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;136;4;441ad7e07c5eeed0;How goes it?;Ça avance?;Ça avance ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;162;6;c3e6c6aa83d5589c;What?... how did you? Actually, I don't care.;Quoi? Comment...? En fait, je m'en fiche.;Quoi ? Comment...? En fait, je m'en fiche.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;162;27;6f92b0a6e0682ab6;See anything resembling door controls up there?;Tu vois des commandes de porte là-haut?;Tu vois des commandes de porte là-haut ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;162;33;6a9eb0a6e0682ab6;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;162;50;6192b2a6e0682ab6;So, what did Popcorn send you?;Popcorn t'a envoyé quoi?;Popcorn t'a envoyé quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;162;55;6d92b2a6e0682ab6;Does my arm computer still function?;Mon ordinateur-bras marche encore?;Mon ordinateur-bras marche encore ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;162;90;6c92b3a6e0682ab6;Just be careful, is all I'm saying.;Je dis juste: fais attention.;Je dis juste : fais attention.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;162;109;6895b3a6e0682ab6;Any chance they've gone and left it written down somewhere nearby?;Une chance qu'ils l'aient juste écrit quelque part à proximité?;Une chance qu'ils l'aient juste écrit quelque part à proximité ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;162;120;6997b3a6e0682ab6;What do you mean?;Tu veux dire?;Tu veux dire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;166;17;468ba053c8221560;Uhhh Jack?  The headlamp?;Euh Jack? La lampe?;Euh Jack ? La lampe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;166;21;4a8ba053c8221560;The headlamp, Jack!;La lampe, Jack!;La lampe, Jack !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;177;3;3488defb8172091e;You... do realize that neither one of us is capable of blinking.;Vous réalisez qu'aucun de nous ne peut cligner des yeux?;Vous réalisez qu'aucun de nous ne peut cligner des yeux ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;177;4;66d1dffddb775c1f;You... do realize that neither one of us can blink, right?;Vous réalisez qu'aucun de nous ne peut cligner des yeux?;Vous réalisez qu'aucun de nous ne peut cligner des yeux ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;177;10;6482dcafdf245f4c;Can I help you?;Je peux aider?;Je peux aider ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;177;12;0ad9a9f8838ec866;Uhhh can I help you?;Euh, besoin d'aide?;Euh, besoin d'aide ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;177;13;0cd9a9f8838ec866;Do I have something on my face?;J'ai un truc sur le visage?;J'ai un truc sur le visage ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;178;2;0828288362bba6b8;Apollo, will I be able to access the fuel cells now?;Apollo, puis-je accéder aux piles à combustible?;Apollo, puis-je accéder aux piles à combustible ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;178;24;592b7bd863e8f6be;I can handle it. The infection's still dormant, remember?;Je gère. L'infection dort toujours, tu te souviens?;Je gère. L'infection dort toujours, tu te souviens ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;178;29;5a7c21df3becf7bf;Yes, Captain?;Oui, chef?;Oui, chef ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;178;60;0a2920886cbfa1ee;Yes, Captain?;Oui, chef?;Oui, chef ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;178;109;7f83901632fcfa41;What do you mean?;Tu veux dire?;Tu veux dire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;178;193;7982911632fcfa41;How's it looking out there, Jack?;Ça donne quoi dehors, Jack?;Ça donne quoi dehors, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;178;313;7186921632fcfa41;Apollo, will I be able to access the fuel cells now?;Apollo, puis-je accéder aux piles à combustible?;Apollo, puis-je accéder aux piles à combustible ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;178;329;788e921632fcfa41;Just remember their range is finite.;Rappelez-vous: portée limitée.;Rappelez-vous : portée limitée.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;178;420;7b84941632fcfa41;You know that Bio Mass container you grabbed?;Le conteneur de biomasse que vous avez pris?;Le conteneur de biomasse que vous avez pris ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;178;432;7d85941632fcfa41;What was your purpose in attempting to salvage the Astraea?;Pourquoi tentiez-vous de récupérer l'Astraea?;Pourquoi tentiez-vous de récupérer l'Astraea ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;178;472;7f82951632fcfa41;Maybe your new tool could help?;Votre nouvel outil peut aider?;Votre nouvel outil peut aider ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;205;108;5c106e8833324f6e;Did you do something?;Tu as fait un truc?;Tu as fait un truc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;205;109;5d106e8833324f6e;It's a good sign, the reserve batteries are still working.;Bon signe: les batteries de secours fonctionnent encore.;Bon signe : les batteries de secours fonctionnent encore.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;205;120;59136e8833324f6e;Can you see what they connect to?;Tu vois où ils se connectent?;Tu vois où ils se connectent ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+58;205;125;5f136e8833324f6e;Any luck finding controls? I'm not seeing much here.;Tu as trouvé les commandes? Je vois peu de choses.;Tu as trouvé les commandes ? Je vois peu de choses.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;87;35;0403f558e6abdeb2;You're concerned?;Inquiète?;Inquiète ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;87;38;0703f558e6abdeb2;Not to worry, Captain.;Du calme, Capitaine.;Aucun souci, Capitaine;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+69;87;58;0705f558e6abdeb2;How are you feeling?;Vous vous sentez?;Vous vous sentez ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;87;149;22b88c34d584d923;How are you feeling?;Vous vous sentez?;Vous vous sentez ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;87;165;71eb886e84818b24;I assume that's good?;C'est bon, je crois?;C'est bon, je crois ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;87;224;22b88132d2d78d2a;Not to worry, Captain.;Du calme, Capitaine.;Aucun souci, Capitaine;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+69;87;228;76ee816082d0d92a;You're concerned?;Inquiète?;Inquiète ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;87;234;72e6db6ed1d5842b;How are you feeling?;Vous vous sentez?;Vous vous sentez ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;87;242;70bb816483d5de2b;Everyone keep clear.;Écartez-vous tous!;Écartez-vous tous !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;89;0;1e0d24e186591288;What is this?;C'est quoi?;C'est quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;89;8;190d73e0d708478b;What is this?;C'est quoi?;C'est quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;89;38;bdc4c1d9d24450d3;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;89;45;b8c6c1d9d24450d3;What was on it?;Quoi dessus?;Quoi dessus ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;89;51;bec6c1d9d24450d3;Anything useful?;Utile?;Utile ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;89;78;1a5426b4850812db;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;89;79;4f5473e2d35e46db;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;89;83;1e5574b6800f17de;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;97;40;3c50f43afbbd999b;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;97;90;3f03f26efebe9a9e;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;97;135;6850a46dacbfcec7;How long do you suppose that'll last?;Ça tiendra combien de temps?;Ça tiendra combien de temps ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;97;143;6a52a23cacea9bc8;How does this area still have power?;Comment cette zone a du courant?;Comment cette zone a du courant ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;97;162;3c52a53ba7edc8c9;Why not?;Pourquoi;Pourquoi pas ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+69;97;168;3955a339fab7cfc9;How do we get them open?;Comment les ouvrir?;Comment les ouvrir ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;97;197;3e05a935ade99dcc;Are those the door controls?;Commandes de porte?;Commandes de porte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;97;210;6c06f53babbb9ccd;Couldn't let me have just one bright spot, could you?;Vous pouviez pas me laisser un seul bon côté, hein?;Vous pouviez pas me laisser un seul bon côté, hein ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;97;223;6f04a93ba8bb9ece;Open the doors?;Ouvrir portes?;Ouvrir portes ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;97;327;ff89da3f137f29d5;Why not?;Pourquoi;Pourquoi pas ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+69;108;52;334cac7ae85b311c;My 'new shell'?;Mon châssis?;Mon châssis ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+69;146;9;1e27d15a69f78731;Everyone keep clear.;Écartez-vous tous!;Écartez-vous tous !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+73;171;20;c8baf8ca3233b924;How much further, Apollo?;Encore loin, Apollo?;Encore loin, Apollo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+73;171;23;99baa89a6431b125;You find me a way to talk to the Ithaca?;Tu as un moyen de joindre l'Ithaca?;Tu as un moyen de joindre l'Ithaca ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+73;171;28;98bafeca6360b126;Jack, look out!;Jack, gaffe!;Jack, gaffe !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+73;171;39;99e0fb9d633cec71;You read?;Tu lis?;Tu lis ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+73;171;62;ccbbfdcf3664ea75;Jack, look out!;Jack, gaffe!;Jack, gaffe !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+73;171;74;9ee8ff976660ea77;How much further, Apollo?;Encore loin, Apollo?;Encore loin, Apollo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;17;0e5aa26f0f93350a;But then... what happens to Liv?;Mais alors, et Liv?;Mais alors, et Liv ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;26;5c5ff6680d98670a;Jack, are you here as well?;Jack, vous êtes ici aussi?;Jack, vous êtes ici aussi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;29;580cf76903c3310b;I suppose now we should simply wait for the anomaly's collapse?;Je suppose qu'on attend l'effondrement de l'anomalie?;Je suppose qu'on attend l'effondrement de l'anomalie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;35;030cf76c0cc1600b;Apollo, is this range sufficient for a scan?;Apollo, cette distance suffit au scan?;Apollo, cette distance suffit au scan ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;50;5e0af33c59c3340c;The 'Message-in-a-Bottle Protocol'?;"Protocole ""bouteille à la mer""?";"Protocole ""bouteille à la mer"" ?";QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;54;0e59f76903c5620c;Thirteen. I did not receive a response. Do you copy?;Treize. J'ai reçu aucune réponse. Vous me recevez?;Treize. J'ai reçu aucune réponse. Vous me recevez ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;63;0d5ef36a08c5610d;Are you ready to begin?;Prêt à commencer?;Prêt à commencer ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;96;9dea5d34531d002d;What happened?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;133;99ef5d34531d002d;What do I need to do?;Je dois faire quoi?;Je dois faire quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;179;5b09a26e5e996e58;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;190;5808f0395d966559;Could the doctor and Liv reopen the anomaly?;Docteur et Liv peuvent rouvrir l'anomalie?;Docteur et Liv peuvent rouvrir l'anomalie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;202;020bf23b5fc2365a;Why are we still here?;Pourquoi encore ici?;Pourquoi encore ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;34;241;5b0ba53c5894665d;And if it doesn't?;Et sinon?;Et sinon ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;61;2;3d9e3f2a48781f98;Fine... I'm on board. So what's next?;Bon... d'accord. Et ensuite?;Bon... d'accord. Et ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;61;13;6f9a6d7c107f1f9e;Fine. What do we do next?;Bien. Et maintenant?;Bien. Et maintenant ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;61;26;6fce312c477c4dc2;Wait. What exactly are you saying?;Attendez. Vous dites quoi?;Attendez. Vous dites quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;61;28;6ecc6c2a132a1ec3;Need a hand?;Je t'aide?;Je t'aide ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;61;33;349e3e2f432f1bc9;How is progress on your end?;Ça avance de votre côté?;Ça avance de votre côté ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;61;50;6aca3a2c142a1bcc;Would I succeed?;J'y arriverais?;J'y arriverais ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;61;61;3e9f6a7d422b18cf;Alright. Fine. I'm in. What do we need to do next?;D'accord. Je marche. Que fait-on ensuite?;D'accord. Je marche. Que fait-on ensuite ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;175;243;464d315c091a6866;What do you say, Jack?;Tu en dis quoi, Jack?;Tu en dis quoi, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;179;33;6b04e57b3f686cc1;What do you mean?;Tu veux dire?;Tu veux dire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;179;62;4c14a1adc2fa2b18;The pulses are becoming more regular--we should hurry.;Les impulsions se régularisent: dépêchons-nous.;Les impulsions se régularisent : dépêchons-nous.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;179;64;1915f7feceae2e18;A Bio Mass torpedo. Already detonated--is there any value in scanning it?;Une torpille de biomasse. Déjà explosée. Est-ce utile de la scanner?;Une torpille de biomasse. Déjà explosée. Est-ce utile de la scanner ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;179;83;1816a1a9c4ff7c1a;To establish a more secure reboot network?;Pour un réseau de reboot plus sûr?;Pour un réseau de reboot plus sûr ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;179;110;4514f3acc4a92c1c;Damage is severe--an emergency reboot would have been required.;Dégâts sévères: un redémarrage d'urgence aurait été requis.;Dégâts sévères : un redémarrage d'urgence aurait été requis.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;179;134;4d11a3a1c2fc791d;Are you now able to estimate the time until collapse?;Pouvez-vous estimer le temps avant l'effondrement?;Pouvez-vous estimer le temps avant l'effondrement ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;179;159;4a17a3f9c1ae7a40;Damage is severe--an emergency reboot would have been required.;Dégâts sévères: un redémarrage d'urgence aurait été requis.;Dégâts sévères : un redémarrage d'urgence aurait été requis.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;179;167;1f46a5adc6fa2b41;You're referring to our current method of 'digital' time-travel?;Vous parlez de notre voyage temporel «numérique» actuel?;Vous parlez de notre voyage temporel «numérique» actuel ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;179;225;1e15a6acc5f32b4c;The causality between our actions here and the future is ambiguous:;Le lien causal entre nos actes ici et le futur est ambigu:;Le lien causal entre nos actes ici et le futur est ambigu :;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;179;252;4b40a1afc3fe264e;"What happened while I was ""MIA""?";Que s’est-il passé pendant MIA?;Que s’est-il passé pendant MIA ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;179;269;1e13f1f9c3ab274f;For the time being, yes. Nonetheless, we should proceed quickly: if it collapses before we complete our mission, we will be returned to the 'future' without the data required.;"Pour l'instant, oui. Mais, nous devons agir vite: si elle s'effondre avant la fin de notre mission, nous serons renvoyés dans "" le futur "" sans les données nécessaires.";"Pour l'instant, oui. Mais, nous devons agir vite : si elle s'effondre avant la fin de notre mission, nous serons renvoyés dans "" le futur "" sans les données nécessaires.";QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;199;70;fdcfb39d65e67f34;Test successful: The cloak emitter can insulate power transformers.;Test réussi: le camouflage peut isoler les transformateurs.;Test réussi : le camouflage peut isoler les transformateurs.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;199;85;fb92e09836e12c63;Is the unit safe to approach?;Unité sûre à approcher?;Unité sûre à approcher ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;199;87;f19fe6cc65b07d63;"""More useful"" as in distracting those ticks?";« Plus utile », pour distraire ces Ticks?;« Plus utile », pour distraire ces Ticks ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;199;88;f8cee4cd34e52a64;Proceeding through the web now. Is this the cargo bay?;Je traverse la toile. C’est la baie de chargement?;Je traverse la toile. C’est la baie de chargement ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;199;89;f99bb7cd65b97864;Test successful: The cloak emitter can insulate power transformers.;Test réussi: le camouflage peut isoler les transformateurs.;Test réussi : le camouflage peut isoler les transformateurs.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;199;93;ff9ee49e33b82d65;Does this crane meet the size requirements for the cloak emitter?;Cette grue respecte-t-elle la taille limite du camouflage?;Cette grue respecte-t-elle la taille limite du camouflage ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+74;199;99;adcab3976bb92867;Are these the controls for the bay door?;Commandes de la porte de baie?;Commandes de la porte de baie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+78;63;38;e2f49d584907acb8;How do you mean?;Comment ça?;Comment ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;49;56;c278bbbf8889ca0e;Cut the panel off?;Couper panneau?;Couper panneau ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;49;71;c779bbbf8889ca0e;What do you see?;Tu vois quoi?;Tu vois quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;49;84;c47bbbbf8889ca0e;I assume my headlamp still works?;Ma lampe marche toujours?;Ma lampe marche toujours ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;49;94;cc7cbbbf8889ca0e;I can now press either side of my head to turn on my headlamp?;Je peux presser les côtés de ma tête pour allumer ma lampe?;Je peux presser les côtés de ma tête pour allumer ma lampe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;49;99;9279bce9dad19d58;So, what's inside?;Alors, dedans?;Alors, dedans ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;49;102;c07cbdb989dfce58;So, what's inside?;Alors, dedans?;Alors, dedans ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;49;115;c77bbab2dddaca5f;How goes it up there?;Ça va là-haut?;Ça va là-haut ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;54;46;8f1a613ec040c08e;Does it matter which housing we use?;Le logement choisi importe?;Le logement choisi importe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;54;104;8f1d6865c145c7d9;Can you bring us within dampener range?;Amenez-nous à portée d'atténuateur?;Amenez-nous à portée d'atténuateur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;13;018484cac13244bf;What are we looking at here?;On regarde quoi ici?;On regarde quoi ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;17;058484cac13244bf;...understand?;...compris?;...compris ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;29;068984cac13244bf;Juno, you with us?;Juno, avec nous?;Juno, avec nous ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;52;018e84cac13244bf;Jack, are you... suggesting that you travelled back in time?;Jack, vous dites que vous avez voyagé dans le temps?;Jack, vous dites que vous avez voyagé dans le temps ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;54;008485cac13244bf;All this orange you're seeing on the map?;Tout cet orange sur la carte?;Tout cet orange sur la carte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;96;028b85cac13244bf;When the Astraea travelled back to our time, it brought the bio-mass with it.;Lorsque l'Astraea est revenu à notre époque, il a ramené la biomasse avec lui.;Lorsque l'Astraea est revenue à notre époque, elle a ramené la biomasse avec elle.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+80;69;108;008d85cac13244bf;What exactly am I looking at?;Qu'est-ce que je regarde?;Qu'est-ce que je regarde ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;139;028586cac13244bf;When you were what?;Vous étiez quoi?;Vous étiez quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;146;028886cac13244bf;You believe Jack's account, Captain?;Vous croyez Jack, Capitaine?;Vous croyez Jack, Capitaine ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;157;038986cac13244bf;Perhaps there's something we can do?;Peut-on faire quelque chose?;Peut-on faire quelque chose ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;163;098986cac13244bf;Will someone please tell me what the hell's going on?;Quelqu'un peut me dire ce qui se passe, bordel?;Quelqu'un peut me dire ce qui se passe, bordel ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;171;078a86cac13244bf;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;179;058b86cac13244bf;Dr. Harlan, what else can you tell us about this cure?;Dr Harlan, que pouvez-vous nous dire sur ce remède?;Dr Harlan, que pouvez-vous nous dire sur ce remède ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;193;048d86cac13244bf;How did the Bio Mass manage to spread so far?;Comment la biomasse a pu aller si loin?;Comment la biomasse a pu aller si loin ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;198;098d86cac13244bf;With us?;Avec?;Avec ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;214;058f86cac13244bf;Solution to what?;Pour quoi faire?;Pour quoi faire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;232;058c87cac13244bf;Recent memory logs?;Mémoire récente?;Mémoire récente ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;236;0edf9c379714bf00;What are we looking at here?;On regarde quoi ici?;On regarde quoi ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;240;0ed99961c213ed00;Solution to what?;Pour quoi faire?;Pour quoi faire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;244;0fd9993cc015e802;What exactly am I looking at?;Qu'est-ce que je regarde?;Qu'est-ce que je regarde ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;257;0c8dca35c11dbf03;All this orange you're seeing on the map?;Tout cet orange sur la carte?;Tout cet orange sur la carte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;269;08dd9a33c643ec04;You believe Jack's account, Captain?;Vous croyez Jack, Capitaine?;Vous croyez Jack, Capitaine ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;273;5edfc0639610ba05;...understand?;...compris?;...compris ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;280;0988cd339746bf05;Will someone please tell me what the hell's going on?;Quelqu'un peut me dire ce qui se passe, bordel?;Quelqu'un peut me dire ce qui se passe, bordel ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;299;0ed9c864c740bc50;Jack, are you... suggesting that you travelled back in time?;Jack, vous dites que vous avez voyagé dans le temps?;Jack, vous dites que vous avez voyagé dans le temps ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;304;5e8dc8369314eb50;Where're you going?;Tu vas où?;Tu vas où ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;313;5bd8cf63c412eb51;Can we access this memory block?;Accès possible au bloc mémoire?;Accès possible au bloc mémoire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;321;0fda9c34c143ea52;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;326;0dd19932cb40bb53;Juno, you with us?;Juno, avec nous?;Juno, avec nous ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;335;018d9d679110b654;How do we fix the generator?;Comment réparer générateur?;Comment réparer générateur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;361;0ddfc134ca46ec56;How do we fix the generator?;Comment réparer générateur?;Comment réparer générateur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;365;0eddcc369443ef56;Recent memory logs?;Mémoire récente?;Mémoire récente ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;69;387;5bd8ce33cb17bf59;Can we access this memory block?;Accès possible au bloc mémoire?;Accès possible au bloc mémoire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;73;46;f8ca05cc635f3de7;Juno! Don't forget...;Juno! N'oubliez pas.;Juno ! N'oubliez pas.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;73;53;a4c0039a310b6de7;What for? It's only one fuel cell...;Pourquoi? C'est juste une pile...;Pourquoi ? C'est juste une pile...;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;73;124;e80dbc07bf82e92c;Firing thrusters.;Moteurs, feu!;Moteurs, feu !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;73;151;ef02bd07bf82e92c;Pesky bastards, aren't they?;Sales bestioles, hein?;Sales bestioles, hein ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;73;157;ea04bd07bf82e92c;What's going on?;Quoi encore?;Quoi encore ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;90;52;db67cfe3cbb4b0db;Is this a control interface?;Interface de commande?;Interface de commande ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;90;62;883393e490e2bfdf;Did she have any luck?;Elle a eu du bol?;Elle a eu du bol ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;115;78;34af40700950aeeb;Any idea who they are, Juno?;Une idée, Juno?;Une idée, Juno ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;148;2;727c03f1d73bbc80;What do you need us to do?;Que devons-nous faire?;Que devons-nous faire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;148;53;217204a4dc3dbc86;What do you need us to do?;Que devons-nous faire?;Que devons-nous faire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;148;54;777750a7de68bc86;What do you need us to do?;Que devons-nous faire?;Que devons-nous faire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;148;55;247151ad8b69bc86;What do you need us to do?;Que devons-nous faire?;Que devons-nous faire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;148;143;83d72c61f515f3c7;You're saying we might be able go home.;Vous dites qu'on pourrait rentrer?;Vous dites qu'on pourrait rentrer ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;148;201;767500ad8f6fbad1;The hell are you two on about?;Vous parlez de quoi, bordel?;Vous parlez de quoi, bordel ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;148;211;767404a0de3dedd1;What do you need us to do?;Que devons-nous faire?;Que devons-nous faire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;148;242;717503f7d966efd4;What do you need us to do?;Que devons-nous faire?;Que devons-nous faire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;148;267;73750da28f38bbd7;What do you need us to do?;Que devons-nous faire?;Que devons-nous faire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;148;274;7a2403addf6ce8d7;Is that one of the Astraea's F-T-L drives?;Un des FTL de l'Astraea?;Un des FTL de l'Astraea ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;3;437bdf4f05cb0a84;And what year is it now?;On est en quelle année?;On est en quelle année ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;28;472d8a1f579a5785;Short version? I was the one who found out how far was too far.;Version courte? J'ai découvert jusqu'où était «trop loin».;Version courte ? J'ai découvert jusqu'où était «trop loin».;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;42;4d7d8f4a09c00c88;Maybe. Why? Is that an invitation?;Peut-être. Une invitation?;Peut-être. Une invitation ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;48;112c8a4a01cf5688;Collecting toys?;Des jouets?;Des jouets ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;67;47788a1a06c10e89;Would you ever consider sailing the seas of Europa?;Tu naviguerais sur les mers d'Europe?;Tu naviguerais sur les mers d'Europe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;117;4478d84b579b5c8b;Do you know anything about this Stasis technology?;Tu connais cette technologie de stase?;Tu connais cette technologie de stase ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;128;107f8a4f509e0c8c;One of the toy dinosaurs from the Kronos bridge?;Un des dinos-jouets de la passerelle du Kronos?;Un des dinos-jouets de la passerelle du Kronos ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;147;172c8e1d05c1568d;What happened to the fore section?;Qu'est-il arrivé à l'avant?;Qu'est-il arrivé à l'avant ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;177;172f8c410999098f;What do you mean?;Tu veux dire?;Tu veux dire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;226;122ade4f02c90ad9;I'm sorry, what year was I born?;Pardon, née en quelle année?;Pardon, née en quelle année ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;249;447a891b52cd0bda;I see you found some duct tape. Is this also from the Kronos?;Je vois du ruban adhésif. Ça vient aussi du Kronos?;Je vois du ruban adhésif. Ça vient aussi du Kronos ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;254;442b894d07c056da;Ah... now I'm confused. Are we going or not?;Ah, je suis perdu. On y va ou pas?;Ah, je suis perdu. On y va ou pas ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;294;442c894902c959de;It's all over the Station, drawers and desk holders.;Il y en a partout: tiroirs, porte-documents...;Il y en a partout : tiroirs, porte-documents...;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;302;162bda4155cd5cde;Besides, if we talking technically, I was still captain when the Astraea arrived and destroyed the Kronos.;Et puis, si on veut être technique, j'étais toujours capitaine quand l'Astraea est arrivé et a détruit le Kronos.;Et puis, si on veut être technique, j'étais toujours capitaine quand l'Astraea est arrivée et a détruit le Kronos.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+80;163;313;17798b4155990adf;Is your mental health still compromised?;Votre santé mentale reste compromise?;Votre santé mentale reste compromise ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;338;5f02405b1dc90255;Isn't this one of your old toy dinosaurs? From the Kronos II?;C'est pas ton vieux dinosaure-jouet du Kronos II?;C'est pas ton vieux dinosaure-jouet du Kronos II ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;348;5908405b1dc90255;How many hours did we burn playing that stupid game?;Combien d'heures a-t-on perdues sur ce fichu jeu?;Combien d'heures a-t-on perdues sur ce fichu jeu ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;353;5e08405b1dc90255;Is this part of my data scanner?;Ça fait partie du scanner?;Ça fait partie du scanner ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;360;580a405b1dc90255;Really. Not how I remember it. Must be a glitch in your memory.;Vraiment? Pas dans mon souvenir. Ta mémoire doit buguer.;Vraiment ? Pas dans mon souvenir. Ta mémoire doit buguer.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;372;560c405b1dc90255;See what I mean?;Tu vois?;Tu vois ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;382;5d0d405b1dc90255;You are... joking, right?;Tu plaisantes, pas vrai?;Tu plaisantes, pas vrai ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;385;560e405b1dc90255;What do you think is holding your shell together right now?;À ton avis, qu'est-ce qui tient ton châssis ensemble?;À ton avis, qu'est-ce qui tient ton châssis ensemble ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;388;590e405b1dc90255;What happened to all the duct tape on your suit?;Où est passé le ruban adhésif de ta tenue?;Où est passé le ruban adhésif de ta tenue ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;399;5a0f405b1dc90255;That was what? Our first week together?;C'était quoi? Notre première semaine?;C'était quoi ? Notre première semaine ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;408;5b02415b1dc90255;Is it possible Apollo might still be online?;Apollo pourrait encore être en ligne?;Apollo pourrait encore être en ligne ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;409;5d02415b1dc90255;Well I wasn't about to go anywhere without you, was I?;J'allais tout de même pas partir sans toi, pas vrai?;J'allais tout de même pas partir sans toi, pas vrai ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;413;5b03415b1dc90255;You really don't know what happened to me?;Tu sais vraiment pas ce qui m'est arrivé?;Tu sais vraiment pas ce qui m'est arrivé ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;418;5d08415b1dc90255;Self-destruct?;Autodétruire?;Autodétruire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;424;5e09415b1dc90255;I meant how did we get here. To this habitat.;Je veux dire: comment est-on arrivés ici?;Je veux dire : comment est-on arrivés ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;425;560a415b1dc90255;How exactly did we get here?;Comment est-on arrivés ici?;Comment est-on arrivés ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;436;590c415b1dc90255;What happened to the fore section?;Qu'est-il arrivé à l'avant?;Qu'est-il arrivé à l'avant ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;454;5b0f415b1dc90255;To get us to trust you... you lied?;Pour nous convaincre... mensonge?;Pour nous convaincre... mensonge ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;457;5e0f415b1dc90255;Rescue pilot?;Pilote SOS?;Pilote SOS ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;458;5f0f415b1dc90255;Do you mean this rescue pilot?;Ce pilote de secours?;Ce pilote de secours ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;466;5f02425b1dc90255;And what exactly caused that flare up?;Et qu'est-ce qui a causé ça?;Et qu'est-ce qui a causé ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;480;580c425b1dc90255;Why not?;Pourquoi;Pourquoi pas ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+80;163;492;5a0e425b1dc90255;This device connects to the exterior?;Cet appareil mène dehors?;Cet appareil mène dehors ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;505;5e03435b1dc90255;How long do we have to remain here?;On reste ici combien de temps?;On reste ici combien de temps ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;533;5b08455b1dc90255;Have you been to Callisto?;Déjà allé sur Callisto?;Déjà allé sur Callisto ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;534;5c08455b1dc90255;What happened?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;549;570a455b1dc90255;It's an idiom Jack. It means we're out of place.;Expression, Jack: on n'est pas à notre place.;Expression, Jack : on n'est pas à notre place.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;579;5603465b1dc90255;Perhaps they're for new colonies?;Peut-être pour des colonies?;Peut-être pour des colonies ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;610;570a465b1dc90255;So how do we test it?;Alors, on le teste?;Alors, on le teste ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;627;5e0b465b1dc90255;You do know I volunteered for the Kronos?;Tu sais que j'étais volontaire à Kronos?;Tu sais que j'étais volontaire à Kronos ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;671;5a02475b1dc90255;One of Apollo's AI cores?;Un cœur IA d'Apollo?;Un cœur IA d'Apollo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;672;5b02475b1dc90255;Liv, is that one of Apollo's AI cores?;Liv, un des cœurs IA d'Apollo?;Liv, un des cœurs IA d'Apollo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;674;5e02475b1dc90255;Juno, no one asked you.;Juno, qui t'a demandé?;Juno, qui t'a demandé ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;682;5d03475b1dc90255;What will fixing the holotable accomplish?;Réparer l'Holotable donnera quoi?;Réparer l'Holotable donnera quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;689;5809475b1dc90255;"You call him ""Popcorn?""";"Tu dis ""Popcorn""?";"Tu dis ""Popcorn"" ?";QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+80;163;711;5b0c475b1dc90255;"Captain Rhodes, are you aware of the phrase, ""ignorance is bliss?""";Capitaine Rhodes, connaissez-vous «l'ignorance est un bonheur»?;Capitaine Rhodes, connaissez-vous «l'ignorance est un bonheur» ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;74;23;12b94b03407ecf11;Well, we've got Dr. Harlan, right?;On a Dr Harlan, non?;On a Dr Harlan, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;74;46;40e44d504f7ec817;I'm not going to be able to change your mind, am I?;Je pourrai pas vous faire changer d'avis, si?;Je pourrai pas vous faire changer d'avis, si ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;74;57;42b8445213289b41;I'm not going to be able to change your mind, am I?;Je pourrai pas vous faire changer d'avis, si?;Je pourrai pas vous faire changer d'avis, si ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;74;63;44e51f5415739543;Are we sure this will work?;Sûrs que ça va marcher?;Sûrs que ça va marcher ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;100;52;29680adabe915003;See anything useful?;Rien d'utile?;Rien d'utile ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;100;53;2a680adabe915003;Do you see anything that might help?;Vous voyez quelque chose d'utile?;Vous voyez quelque chose d'utile ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;100;82;2c6c0adabe915003;What is it doing?;Il fait quoi?;Il fait quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;100;87;286e0adabe915003;What is that?;C'est quoi?;C'est quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;100;90;2d6e0adabe915003;What do you see?;Tu vois quoi?;Tu vois quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;100;93;296f0adabe915003;Why does it keep... following me like that?;Pourquoi continue-t-il à... me suivre?;Pourquoi continue-t-il à... me suivre ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;100;98;2f6f0adabe915003;Let me guess. Small, spongy and covered in tentacles?;Laisse-moi deviner. Petit, spongieux, à tentacules?;Laisse-moi deviner. Petit, spongieux, à tentacules ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;100;99;2c6d0bdabe915003;See anything?;Tu vois?;Tu vois ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;140;7;3d0cf1ce1bc07ff1;Use your thrusters to move to the door.;Propulseurs: allez jusqu'à la porte.;Propulseurs : allez jusqu'à la porte.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;194;13;aa03ee697bcac4ff;Could you join us up here?;Vous nous rejoignez ici?;Vous nous rejoignez ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;194;23;a209ee697bcac4ff;You're here to study the Bio Mass?;Ici pour étudier la biomasse?;Ici pour étudier la biomasse ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;194;25;a409ee697bcac4ff;What sort of work do you do?;Quel travail faites-vous?;Quel travail faites-vous ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;194;34;a50aee697bcac4ff;What exactly are you doing here, doctor?;Que faites-vous ici, Docteur?;Que faites-vous ici, Docteur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;194;43;a50cee697bcac4ff;How much longer can the ship operate on emergency power?;Combien de temps tiendra le vaisseau en mode secours?;Combien de temps tiendra le vaisseau en mode secours ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;194;47;ab0cee697bcac4ff;A few hours?;Des heures?;Des heures ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;4;ac261004af2d2e82;What are you waiting for?;Vous attendez quoi?;Vous attendez quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;9;ab731607ac2d7483;Were the lights supposed to turn off like that?;Les lumières devaient s'éteindre comme ça?;Les lumières devaient s'éteindre comme ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;33;aa7b1400ab297d86;What do I do first?;Quoi d'abord?;Quoi d'abord ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;43;fa271604fb7c75d1;Jack, are you ready for us to release the ticks?;Jack, prêt pour qu'on libère les Ticks?;Jack, prêt pour qu'on libère les Ticks ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;63;ad274351a8282fd4;What do I do first?;Quoi d'abord?;Quoi d'abord ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;64;f9731f02a87e74d4;Were the lights supposed to turn off like that?;Les lumières devaient s'éteindre comme ça?;Les lumières devaient s'éteindre comme ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;73;f8764052f97e2cd5;Any inspiring words?;Un mot inspirant?;Un mot inspirant ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;81;af214003ab292bd6;Uh, were the lights supposed to cut out like that?;Euh, les lumières devaient s’éteindre comme ça?;Euh, les lumières devaient s’éteindre comme ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;88;ad26160df97b74d6;Were the lights supposed to turn off like that?;Les lumières devaient s'éteindre comme ça?;Les lumières devaient s'éteindre comme ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;89;fa741505fe2175d6;Jack, are you ready for us to release the ticks?;Jack, prêt pour qu'on libère les Ticks?;Jack, prêt pour qu'on libère les Ticks ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;92;fd7b1f52ab207dd6;Uh, were the lights supposed to cut out like that?;Euh, les lumières devaient s’éteindre comme ça?;Euh, les lumières devaient s’éteindre comme ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;102;ff741702af7e7ade;Uh, were the lights supposed to cut out like that?;Euh, les lumières devaient s’éteindre comme ça?;Euh, les lumières devaient s’éteindre comme ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;105;fa27470ca82b7dde;Jack, are you ready for us to release the ticks?;Jack, prêt pour qu'on libère les Ticks?;Jack, prêt pour qu'on libère les Ticks ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;117;c6105ab3dc1b1e07;What are you waiting for?;Vous attendez quoi?;Vous attendez quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;123;c2115ab3dc1b1e07;Any inspiring words?;Un mot inspirant?;Un mot inspirant ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+90;201;178;c7165ab3dc1b1e07;Jack, are you ready for us to release the ticks?;Jack, prêt pour qu'on libère les Ticks?;Jack, prêt pour qu'on libère les Ticks ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;36;60;50558ae50e83ae1f;Apollo, should we respond?;Apollo, on répond?;Apollo, on répond ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;36;61;5054dde35d88fd1f;Very well. I am ready to engage: can you unlock the harness?;Très bien. Je suis prêt: pouvez-vous ouvrir le harnais?;Très bien. Je suis prêt : pouvez-vous ouvrir le harnais ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;36;70;50078ce60e87a942;Stay out of the light to avoid radiation. Copy that.;Reste hors de la lumière: radiation. Compris.;Reste hors de la lumière : radiation. Compris.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;11;7ab2cc28399d09a2;You really think there's that big of a risk?;Vous pensez vraiment le risque si grand?;Vous pensez vraiment le risque si grand ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;13;7ee59d7b3ac90da2;You really think there's that big of a risk?;Vous pensez vraiment le risque si grand?;Vous pensez vraiment le risque si grand ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;30;79b69f2a6b9d0ea5;Captain Rhodes?;Cap. Rhodes?;Cap. Rhodes ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;71;7db5c929319e59f6;Captain Rhodes?;Cap. Rhodes?;Cap. Rhodes ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;81;7ae49f273dc95df7;It worked?;Réussi?;Réussi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;154;a3925d7faf44025d;If I said yes, would it change your mind?;Si je disais oui, ça changerait quoi?;Si je disais oui, ça changerait quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;167;a7935d7faf44025d;Is there no other way to assess the risk?;Aucun autre moyen d'évaluer le risque?;Aucun autre moyen d'évaluer le risque ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;192;a49a5d7faf44025d;Now, what about the cure?;Et le remède?;Et le remède ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;201;a39b5d7faf44025d;Where are we on the cure?;Où en est le remède?;Où en est le remède ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;221;a39d5d7faf44025d;It what reality does your going first make any sense?;En quoi passer en premier aurait-il du sens?;En quoi passer en premier aurait-il du sens ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;227;af9d5d7faf44025d;That's it, is it?;C'est donc ça?;C'est donc ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;241;a39f5d7faf44025d;It worked?;Réussi?;Réussi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;249;a6985f7faf44025d;Is it acceptable to celebrate now?;On peut célébrer maintenant?;On peut célébrer maintenant ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;58;254;a3995f7faf44025d;Are you sure you don't want to tell her, Doctor?;Sûr de ne pas vouloir lui dire, Docteur?;Sûr de ne pas vouloir lui dire, Docteur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;77;0ea9e2d0113f9f0a;We need to connect the coupling to this Anode?;On doit connecter le couplage à cette anode?;On doit connecter le couplage à cette anode ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;85;0cfcb98e1368ce0a;The Astraea was designed for combat scenarios.;L'Astraea a été conçu pour le combat.;L'Astraea a été conçue pour le combat.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+95;75;99;0caaed8b1764cb0b;How are we doing on time?;On a combien de temps?;On a combien de temps ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;123;5eabebdf1368980d;How many were aboard when the Bio Mass was first released?;Combien étaient à bord quand la biomasse fut libérée?;Combien étaient à bord quand la biomasse fut libérée ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;132;0aacebd0466a9d0d;Rig's gone dark...;Plateforme HS...;Plateforme éteinte...;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+95;75;148;0bacebdc1a689c0f;I think that was the last one.;Je crois: c'était le dernier;Je crois : c'était le dernier;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;155;0af8bad84265ca0f;Heads up!;Gaffe!;Gaffe !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;156;02a5e38c113fcb0f;Watch it!;Gaffe!;Gaffe !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;158;5fafe2d8476ace0f;Behind us!;Derrière!;Derrière !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;187;59ffb8dd1a3ec151;More incoming.;Encore!;Encore !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;198;02f8eedf17389f58;Watch the rear!;Surveille!;Surveille !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;199;0bfbbdda1b65c158;More incoming.;Encore!;Encore !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;204;0dafeddf426ace58;More coming in.;Encore!;Encore !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;239;0df9bad817659a5b;The displacement field from a single drive is roughly spherical... to encompass us, it had to encompass those elements as well.;"Le champ d'un seul propulseur est presque sphérique; pour nous englober, il devait aussi englober ces éléments.";"Le champ d'un seul propulseur est presque sphérique ; pour nous englober, il devait aussi englober ces éléments.";QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;287;0fadbe8b403f985e;More coming in.;Encore!;Encore !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;293;02aaecde1238c15e;Behind us!;Derrière!;Derrière !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;302;58aaeadc456fcf5e;How many crew members does it take to run a ship of this size?;Combien de personnes faut-il pour piloter un vaisseau pareil?;Combien de personnes faut-il pour piloter un vaisseau pareil ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;303;5bafee8b1164985f;Watch it!;Gaffe!;Gaffe !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;310;0aade3da1a6e9f5f;(is this) The engineer you mentioned earlier?;(C'est) l'ingénieur mentionné plus tôt?;(C'est) l'ingénieur mentionné plus tôt ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;75;313;0bacb9d91b6cc05f;Keep it up.;Continuez!;Continuez !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;120;1;a9035b511743a980;Did we hit our window?;Sommes-nous à temps?;Sommes-nous à temps ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;120;17;ff055b511045ac81;Won't that pretty much fry the rig and everything on it?;Ça va griller la plateforme et tout ce qui est dessus?;Ça va griller la plateforme et tout ce qui est dessus ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;120;21;fa0508064112fb81;I should warn you, much of the Astraea remains highly irradiated.;Attention: une grande partie de l'Astraea reste très irradiée.;Attention : une grande partie de l'Astraea reste très irradiée.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;120;31;ab040a544348a982;Apollo, can you verify our timeframe?;Apollo, confirmez notre époque?;Apollo, confirmez notre époque ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;120;39;fb000a564842fb82;Exactly!;Exact!;Exact !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;120;40;ab045c081343fd82;Did we hit our window?;Sommes-nous à temps?;Sommes-nous à temps ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;120;99;ae015b514044a787;Distance to Primary Drive Exchange:;Distance au conduit FTL principal:;Distance au conduit FTL principal :;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;120;100;ab520a094245a787;Shit!;Zut!;Zut !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;120;105;ad5206024243ab87;I should warn you, much of the Astraea remains highly irradiated.;Attention: une grande partie de l'Astraea reste très irradiée.;Attention : une grande partie de l'Astraea reste très irradiée.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;120;255;ac005c554515fdd3;Apollo, what's our timeframe?;Apollo, combien de temps?;Apollo, combien de temps ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;134;47;f7f5542d47a952cb;Starting to get a feel for that cloak emitter, are we, Jack?;Vous prenez le coup avec ce camouflage, Jack?;Vous prenez le coup avec ce camouflage, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;134;55;afa0002c47f800cf;Can this door be bypassed?;Peut-on bypasser la porte?;Peut-on forcer la porte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+95;141;14;ee431841801dbaa2;Jack, you can hear that, right? I've not gone daft?;Jack, tu entends ça? Je suis pas devenue folle?;Jack, tu entends ça ? Je suis pas devenue folle ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;18;ea481841801dbaa2;This... this is Captain Olivia Rhodes. Who are you?;Ici la capitaine Olivia Rhodes. Qui êtes-vous?;Ici la capitaine Olivia Rhodes. Qui êtes-vous ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;19;eb481841801dbaa2;Olivia Rhod-- What are you doing on my ship?;Olivia Rhod-- Que faites-vous sur mon bord?;Olivia Rhod-- Que faites-vous sur mon bord ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;33;eb4c1841801dbaa2;Hear what, Liv?;Quoi, Liv?;Quoi, Liv ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;42;e14f1841801dbaa2;Warning. Bio-threat detected.;Alerte: menace biologique.;Alerte : menace biologique.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;73;ec431a41801dbaa2;I think you're right! Look... they have no idea we're here.;Tu as raison! Regarde... ils ignorent qu'on est là.;Tu as raison ! Regarde... ils ignorent qu'on est là.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;78;ef4c1a41801dbaa2;How's it looking in there? Did you find anything useful?;Ça donne quoi? Tu as trouvé quelque chose d'utile?;Ça donne quoi ? Tu as trouvé quelque chose d'utile ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;79;e04d1a41801dbaa2;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;86;ef4f1a41801dbaa2;Nothing wrong with being a bit cautious, right?;Mieux vaut être un peu prudent, non?;Mieux vaut être un peu prudent, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;89;e9421b41801dbaa2;It's amazing that, despite all odds, they somehow got uglier.;Incroyable: malgré tout, ils sont devenus encore plus laids.;Incroyable : malgré tout, ils sont devenus encore plus laids.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;113;ea421d41801dbaa2;Do you copy?;Reçu?;Reçu ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;114;eb421d41801dbaa2;What's happening over there?;Que se passe-t-il là-bas?;Que se passe-t-il là-bas ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;138;ea4a1d41801dbaa2;Get me power again!;Rends le courant!;Rends le courant !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;143;ef4a1d41801dbaa2;We don't have much time!;On a très peu de temps!;On a très peu de temps !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;146;e84b1d41801dbaa2;Could the field be keeping them docile?;Le champ les rendrait-il dociles?;Le champ les rendrait-il dociles ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;151;e14c1d41801dbaa2;My god! They're loose!;Dieu! Ils sont libres;Dieu ! Ils sont libres;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;156;e14d1d41801dbaa2;Jack! It's locked.;Jack! Verrouillé.;Jack ! Verrouillé.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;161;e24a5586824aeec4;Nothing wrong with being a bit cautious, right?;Mieux vaut être un peu prudent, non?;Mieux vaut être un peu prudent, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;164;e14500818349e9c5;Whoa!;Wow!;Wow !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;166;e5170e80814aebc8;Jack! It's locked.;Jack! Verrouillé.;Jack ! Verrouillé.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+95;141;167;e74350d1844befca;Yes, my ship. What are you doing out of the habitat?;Oui, mon vaisseau. Que faites-vous hors habitat?;Oui, mon vaisseau. Que faites-vous hors habitat ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;42;2;da229156282fbb45;The headlamp, Jack!;La lampe, Jack!;La lampe, Jack !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;42;5;d2239156282fbb45;Uhhh Jack?  The headlamp?;Euh Jack? La lampe?;Euh Jack ? La lampe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;57;40;2e863f7387e7e265;Good enough state to work, though, right?;Mais il marche assez bien, non?;Mais il marche assez bien, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;57;47;25873f7387e7e265;Good enough state to work, though, right?;Mais il marche assez bien, non?;Mais il marche assez bien, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;57;48;26873f7387e7e265;Good enough state to work, though, right?;Mais il marche assez bien, non?;Mais il marche assez bien, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;57;90;a0030460f5976e75;The reactor has quite the unique shape. An icosidodecahedron.;Le réacteur a une forme unique: un icosidodécaèdre.;Le réacteur a une forme unique : un icosidodécaèdre.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;93;19;f607b3b8cb7ab1d6;Someone programmed you for that?;On t'a programmé pour ça?;On t'a programmé pour ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;93;27;c0e01850fcf53e12;What are you, in charge of morale?;Tu gères le moral maintenant?;Tu gères le moral maintenant ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;93;33;cee01850fcf53e12;I'm glad you approve?;Ravie que ça plaise?;Ravie que ça plaise ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;93;34;cfe01850fcf53e12;What is that? What are you doing?;C'est quoi? Tu fais quoi?;C'est quoi ? Tu fais quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;93;54;cde31850fcf53e12;And now you somehow disapprove of me?!;Et maintenant tu me désapprouves?!;Et maintenant tu me désapprouves ?!;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;93;75;c9ef1850fcf53e12;What's your problem?;Quel est ton souci?;Quel est ton souci ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;93;77;cbef1850fcf53e12;So what's wrong with you?;Alors, tu as quoi?;Alors, tu as quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;154;0;401e282f3dd9e1fc;Get off.;Lâche!;Lâche !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;154;5;461f282f3dd9e1fc;Do you mind.;Ça te gêne?;Ça te gêne ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;172;4;cc2adfd826ba3f00;How goes it?;Ça avance?;Ça avance ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;186;11;979a9c2df6a486e5;Watch it!;Gaffe!;Gaffe !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;195;0;b0560844dae7d1f1;Apollo, could one of these infested fuel cells still be full?;Apollo, une de ces piles infestées peut-elle être pleine?;Apollo, une de ces piles infestées peut-elle être pleine ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;195;3;b5560844dae7d1f1;These cells are all empty.;Toutes les piles: vides;Toutes les piles : vides;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;195;35;bd520944dae7d1f1;Maybe your new tool could help?;Votre nouvel outil peut aider?;Votre nouvel outil peut aider ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;195;44;bc530944dae7d1f1;Maybe your new tool could help?;Votre nouvel outil peut aider?;Votre nouvel outil peut aider ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;195;88;b25e0944dae7d1f1;Apollo, you're sure there's a good fuel cell there?;Apollo, sûr qu'il y a une bonne pile là-bas?;Apollo, sûr qu'il y a une bonne pile là-bas ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;195;304;d775e9d625604021;I'm confused. Its A.I. pathing requires voice input?;Je comprends pas. Son IA exige une commande vocale?;Je comprends pas. Son IA exige une commande vocale ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+104;195;305;d522e1d5786c4421;Do they... still work?;Ça... marche encore?;Ça... marche encore ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+109;41;11;dc8ce400733e10a0;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+109;41;19;dc8de400733e10a0;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+109;41;33;1bda34ff44c5cfc9;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+110;133;21;393af1e5e4fa95e2;Remember: We still need a fuel cell for my FTL drive.;Rappel: il nous faut encore une pile pour mon FTL.;Rappel : il nous faut encore une pile pour mon FTL.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+110;133;64;3316c645dac2a15b;Care to give it the final touch?;Tu veux finir le travail?;Tu veux finir le travail ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+110;174;5;124fad63538be78d;So where is everyone? What could've happened here?;Où est tout le monde? Que s'est-il passé ici?;Où est tout le monde ? Que s'est-il passé ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+110;174;22;d10519085aebc0a3;What is that?;C'est quoi?;C'est quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+112;68;54;149620e34d39bdd3;How many people were in HAB A during the outbreak?;Combien dans l'Habitat A lors de l'épidémie?;Combien dans l'Habitat A lors de l'épidémie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+112;68;65;179f25e04e6decd6;The Habitat has its own backup power system?;L'Habitat a son propre courant de secours?;L'Habitat a son propre courant de secours ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+112;68;70;179f25b9496abdd7;Oh you think so, do you?;Ah oui? Tu crois ça?;Ah oui ? Tu crois ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;45;30;fb03684a3fe374e3;Some type of local data storage?;Stockage local de données?;Stockage local de données ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;45;74;f90a684a3fe374e3;Jack, have you tried opening the reactor yet?;Jack, avez-vous essayé d'ouvrir le réacteur?;Jack, avez-vous essayé d'ouvrir le réacteur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;45;89;fe0b684a3fe374e3;How's it looking in there, Jack? Find the reactor yet?;Ça donne quoi, Jack? Vous avez trouvé le réacteur?;Ça donne quoi, Jack ? Vous avez trouvé le réacteur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;45;354;f7006f4a3fe374e3;Juno, these pylons. What are they?;Juno, ces pylônes. C'est quoi?;Juno, ces pylônes. C'est quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;45;359;fd006f4a3fe374e3;Probably good to see what's under the hood?;Mieux vaut voir sous le capot, non?;Mieux vaut voir sous le capot, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;45;469;1655c09aea8cf551;How much more data?;Encore combien?;Encore combien ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;45;475;1352cdccef8ef452;How much more data?;Encore combien?;Encore combien ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;45;490;4355cc9fe7dcf254;Captain?;Chef?;Chef ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;45;519;43039dcee6d9fe5c;Great, can you pass  it to my arm computer, Juno?;Parfait, envoie-le à mon terminal de bras, Juno?;Parfait, envoie-le à mon terminal de bras, Juno ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;47;23;f33ea77993312cd0;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;47;26;f63ea77993312cd0;What do I need to do?;Je dois faire quoi?;Je dois faire quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;107;10;478582182c4d21bb;How certain are we that a functional container is still here?;Sommes-nous sûrs qu'un conteneur fonctionnel est encore ici?;Sommes-nous sûrs qu'un conteneur fonctionnel est encore ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;107;173;83a41967572ed639;Oh! What if we use Jack's cutter to just destroy the transformer?;Oh! Et si le découpeur de Jack détruisait le transformateur?;Oh ! Et si le découpeur de Jack détruisait le transformateur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;107;181;84f71937022cd03c;Any chance there's a bypass hooked up to it?;Un bypass serait branché dessus?;Un bypass serait branché dessus ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;107;184;d5a241335773d63c;Juno, these excavators are automated?;Juno, ces excavatrices sont auto?;Juno, ces excavatrices sont auto ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;107;202;8ca314315279d465;All this advanced tech... and the Bio Mass still broke containment?;Toute cette technologie... et la biomasse s'est échappée?;Toute cette technologie... et la biomasse s'est échappée ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;107;221;82ad4362062cd66b;Would my cloak emitter be effective?;Mon émetteur camouflage aiderait?;Mon émetteur camouflage aiderait ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;107;225;d0f61535577d816c;Test successful: The cloak emitter can insulate power transformers.;Test réussi: le camouflage peut isoler les transformateurs.;Test réussi : le camouflage peut isoler les transformateurs.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;107;229;d1f516670129d76c;Is the transformer small enough?;Transformateur assez petit?;Transformateur assez petit ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;107;239;82f5123a522c856e;Were these excavators being used to expand the containment area?;Ces excavatrices servaient-elles à agrandir le confinement?;Ces excavatrices servaient-elles à agrandir le confinement ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;107;244;85a54436547d856f;"""One of""? How many sensors does this web have?";Un des? Combien de capteurs a cette toile?;Un des ? Combien de capteurs a cette toile ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;107;245;d5a1413b542ed46f;Could that be what caused the accident?;Est-ce ce qui a causé l'accident?;Est-ce ce qui a causé l'accident ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;107;247;84a71065542bd66f;"Is this ""containment area"" where the outbreak started?";Cette «zone de confinement», tout a commencé là?;Cette «zone de confinement», tout a commencé là ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;119;80;f849bee37e758110;Still no signal from Delta Six?;Toujours rien de Delta Six?;Toujours rien de Delta Six ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;119;116;fa4febe12b2fd514;What should we do now?;Et maintenant, quoi?;Et maintenant, quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;119;163;fb1dbab52b2fd240;But what if someone knew to look?;Et si quelqu'un savait chercher?;Et si quelqu'un savait chercher ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;119;173;f149e8e779758641;How long can we remain in hibernation?;Combien dure notre hibernation?;Combien dure notre hibernation ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;119;178;ff4ebae375758743;What has our best odds of success?;Quelle option réussira le mieux?;Quelle option réussira le mieux ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;157;51;bbb00693d02dc939;Can you push the objective to my arm computer?;Envoyez l'objectif sur mon terminal de bras?;Envoyez l'objectif sur mon terminal de bras ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+113;157;180;e9b2549ed72c976f;'Chaperon Protocol' is still in effect--what is my assignment?;Le «protocole Chaperon» reste actif: quelle est ma mission?;Le «protocole Chaperon» reste actif : quelle est ma mission ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+120;66;4;2d70dcb5d3f166d8;Which is different how?;Différent comment?;Différent comment ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+120;66;221;34d6d446a6e91861;As part of the lockdown procedures?;Dans la procédure de confinement?;Dans la procédure de confinement ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+120;66;223;67838141a5b81961;Great. So what's this one do? Open doors?;Super. Il fait quoi? Ouvre les portes?;Super. Il fait quoi ? Ouvre les portes ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+120;66;234;6887811da3bb1763;These are auxiliary controls for the extension bridges?;Ce sont les commandes des passerelles extensibles?;Ce sont les commandes des passerelles extensibles ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+120;66;245;33d28644f1b24764;I believe this is a manual activation switch?;Je crois que c'est un interrupteur manuel?;Je crois que c'est un interrupteur manuel ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+120;66;249;36d38712f1b91565;Did they get everyone out?;Tout le monde évacué?;Tout le monde évacué ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+120;66;261;61d78344a4ed1667;Okay...And?;Bon... et?;Bon... et ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+122;116;7;cb27fd95d411873c;Just be careful, is all I'm saying.;Je dis juste: fais attention.;Je dis juste : fais attention.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+122;116;10;9476fdc7d242d63d;And before you ask, yes. That's an order.;Avant ta question: oui, c'est un ordre.;Avant ta question : oui, c'est un ordre.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+122;116;89;58677c6dffbec448;Not to worry, Captain.;Du calme, Capitaine.;Aucun souci, Capitaine;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+122;116;163;59657d6dffbec448;Just be careful, is all I'm saying.;Je dis juste: fais attention.;Je dis juste : fais attention.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+122;116;175;c420f2918210d561;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+122;116;189;9677af958616d66d;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+123;70;9;8f80fca868e59fe2;What's next?;Et après?;Et après ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+123;70;98;8a82fda868e59fe2;Does that mean there's another way in?;Il y a donc une autre entrée?;Il y a donc une autre entrée ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+123;70;191;e83039506194fa6b;What are you looking for?;Vous cherchez quoi?;Vous cherchez quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+123;70;193;ef67685233c7a86c;So you were here during the outbreak?;Vous étiez là pendant l'épidémie?;Vous étiez là pendant l'épidémie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+123;70;208;bf666e533292a66f;Wait. You two... used to work here?;Attendez. Vous travailliez ici?;Attendez. Vous travailliez ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+123;70;211;ea363e5731c0ff6f;What are you looking for?;Vous cherchez quoi?;Vous cherchez quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+123;188;14;9355789814069883;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+123;188;19;9457789814069883;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+123;188;32;d47359ed7fbcbd15;How long do you suppose it's been in service?;Depuis combien de temps est-il en service?;Depuis combien de temps est-il en service ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+123;188;36;d82003ec7ce5bb45;You're not gonna make me go in alone, are you?;Tu vas pas me faire entrer seule, quand même?;Tu vas pas me faire entrer seule, quand même ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+126;102;2;2e75d23c0dd9b8a0;Getting to be quite the tick expert, are we?;On devient expert des Ticks, non?;On devient expert des Ticks, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+126;102;6;7929863e0181e2aa;Getting to be quite the tick expert, are we?;On devient expert des Ticks, non?;On devient expert des Ticks, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+126;102;38;f59f4f5d2cc6ff1a;How much further, Juno?;Encore loin, Juno?;Encore loin, Juno ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;24;2e6571fb765cf080;What do I need to do?;Je dois faire quoi?;Je dois faire quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;43;7e6025ab2352a181;Can you engage the coupling?;Pouvez-vous coupler ça?;Pouvez-vous coupler ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;68;2c3371f82455f381;Apollo, can you fabricate another component?;Apollo, fabriquez un autre composant?;Apollo, fabriquez un autre composant ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;81;2e6576f42607a082;Can the coupling be repaired?;Peut-on réparer le couplage?;Peut-on réparer le couplage ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;84;793f26fc7153a082;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;91;283523ab7457a182;Can the coupling be repaired?;Peut-on réparer le couplage?;Peut-on réparer le couplage ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;94;7d3476af2107a382;The E.M. surge will fry the fabricator...;Surtension EM: fabricateur grillé...;Surtension EM : fabricateur grillé...;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;119;283220fc7607a083;Could the dead Bio Mass be impeding the connection?;La biomasse morte pourrait gêner la connexion?;La biomasse morte pourrait gêner la connexion ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;120;796527f97456a083;What if I used my shell to complete the connection?;Et si mon châssis complétait la connexion?;Et si mon châssis complétait la connexion ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;146;206072ab7753f383;What sort of problem?;Quel problème?;Quel problème ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;179;2d6025ac2103ad84;Can the coupling be repaired?;Peut-on réparer le couplage?;Peut-on réparer le couplage ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;189;7b3f21ae225df184;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;190;7e3221ac2601f384;What's wrong?;Qu'y a-t-il?;Qu'y a-t-il ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;202;213420ac7306a085;What if I used my shell to complete the connection?;Et si mon châssis complétait la connexion?;Et si mon châssis complétait la connexion ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;209;7b6271ae2350a485;Could we print something to bridge the connection?;Peut-on imprimer de quoi faire la connexion?;Peut-on imprimer de quoi faire la connexion ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;217;7a3623ae7155a685;What if I use my shell to complete the connection?;Et si mon châssis complétait la connexion?;Et si mon châssis complétait la connexion ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;252;28342fa97407a786;Are there any other components we can try?;D'autres composants à essayer?;D'autres composants à essayer ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;285;7e3172ae7651a287;What's happening?;Que se passe?;Que se passe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;409;2f3771a92103a2d0;The E.M. surge will fry the fabricator...;Surtension EM: fabricateur grillé...;Surtension EM : fabricateur grillé...;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;412;2b6775fa7f00a3d0;Remember, both controls must be operated simultaneously.;Rappel: les deux commandes doivent agir en même temps.;Rappel : les deux commandes doivent agir en même temps.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;426;796375ae7400a7d0;What if I used my shell to complete the connection?;Et si mon châssis complétait la connexion?;Et si mon châssis complétait la connexion ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;431;2d3622f52252add0;What if I use this shell?;Et avec ce châssis?;Et avec ce châssis ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;433;2b6572fd2154add0;What's wrong?;Qu'y a-t-il?;Qu'y a-t-il ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;439;293773fb7003f6d0;Could my Cloak Emitter be of any use?;Mon émetteur camouflage peut aider?;Mon émetteur camouflage peut aider ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;489;2f3e24fe7454a0d3;What's wrong?;Qu'y a-t-il?;Qu'y a-t-il ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;501;2f3324ae7e57a3d3;Could my Cloak Emitter be of any use?;Mon émetteur camouflage peut aider?;Mon émetteur camouflage peut aider ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;574;293f73a87107f0d4;Can you engage the coupling?;Pouvez-vous coupler ça?;Pouvez-vous coupler ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;593;7e3523a97106a2d5;You can't!;Peux pas!;Peux pas !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;633;7c6725fe2452a1d7;What's wrong?;Qu'y a-t-il?;Qu'y a-t-il ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;635;283321ac7303a2d7;Housing open.;Boîtier: OK;Boîtier : OK;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;638;2f3422a87e01a3d7;Still ineffective... perhaps there are other solutions to explore?;Toujours inefficace... peut-être explorer d'autres solutions?;Toujours inefficace... peut-être explorer d'autres solutions ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;645;216427f52355acd7;What if I use my shell to complete the connection?;Et si mon châssis complétait la connexion?;Et si mon châssis complétait la connexion ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+127;123;657;203725f5235cf1d7;What sort of problem?;Quel problème?;Quel problème ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;100;38e2f73708999af5;Jack, do you need something from me?;Jack, besoin de quelque chose?;Jack, besoin de quelque chose ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;113;39e5f73708999af5;What are you doing?;Tu fais quoi?;Tu fais quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;162;45d3a1532b18342b;You two getting along alright?;Vous vous entendez bien?;Vous vous entendez bien ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;178;46d2ab572b4f342c;Let's not get into this now.;Pas maintenant, d'accord?;Pas maintenant, d'accord ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;197;4583aa042c4c662c;Perhaps you can talk later?;Vous parlerez plus tard?;Vous parlerez plus tard ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;215;4683a1042f183d2d;What are they doing?;Ils font quoi?;Ils font quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;242;4181f7027c49612f;Taking the Cube-Sat somewhere, Jack?;Tu emmènes le CubeSat, Jack?;Tu emmènes le CubeSat, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;257;4682f5577b443676;Easy now.;Du calme.;Doucement.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+130;101;285;4282f5022d4c3c77;Need something, Jack?;Besoin de moi, Jack?;Besoin de moi, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;313;40d5a758214a3079;Jack, please be more careful, hmm?;Jack, sois plus prudent, hmm?;Jack, sois plus prudent, hmm ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;319;1183f6542c1b3c79;Why is he still here?;Pourquoi est-il là?;Pourquoi est-il là ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;353;41d3a1597c19607a;Why is he staring at me?;Pourquoi il me fixe?;Pourquoi il me fixe ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;368;48d4a6012d4f347b;Don't you think you should have a look around?;Tu crois pas que tu devrais regarder autour?;Tu crois pas que tu devrais regarder autour ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;390;1182f258781b357c;Are you really that clumsy?;Tu es vraiment maladroit?;Tu es vraiment maladroit ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;393;4785a7517d44367c;Whoah, he really got you good that time didn't he?;Waouh, cette fois il t'a vraiment pas raté, hein?;Waouh, cette fois il t'a vraiment pas raté, hein ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;395;438ef101214b367c;Did something happen?;Il s'est passé quoi?;Il s'est passé quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;449;11d6a458211f307f;Do you need something?;Besoin de quoi?;Besoin de quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;101;458;418ef651201b377f;Jack, are you... throwing objects at my hologram?;Jack, vous... jetez des objets sur l'hologramme?;Jack, vous... jetez des objets sur l'hologramme ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;9;d60545a7ec84b521;I'm not going to be able to change your mind, am I?;Je pourrai pas vous faire changer d'avis, si?;Je pourrai pas vous faire changer d'avis, si ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;22;d35412a1bed4e321;Then you wish that I remain? To excrete daisies?;Je reste donc? Pour excréter des pâquerettes?;Je reste donc ? Pour excréter des pâquerettes ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;30;875347a1bdd0e621;Have any personnel had direct contact?;Quelqu'un a eu un contact direct?;Quelqu'un a eu un contact direct ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;37;d05042f6ead4ed21;"Affirmative. Self-existence is ""X-3 Unit 12."" Refund question?";Affirmatif. Identité: «Unité X-3 12». Remboursement?;Affirmatif. Identité : «Unité X-3 12». Remboursement ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;41;d65c45a4eb84b122;Then... I'm going to stay on with you, okay?;Alors... je reste avec toi en ligne, OK?;Alors... je reste avec toi en ligne, OK ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;57;d75c45a1bad7e222;Shall I broaden our search criteria?;J'élargis les critères?;J'élargis les critères ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;59;80524fa5bbd2e322;Where is it now?;Où est-il là?;Où est-il là ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;73;875745f3bed2ec22;Hello. You are... operational?;Bonjour. Vous êtes... actif?;Bonjour. Vous êtes... actif ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;75;dd5512a0edd7ec22;"Idiom: ""Domicile exists where the love-organ remains.""";Dicton: «Le foyer est là où demeure le cœur.»;Dicton : «Le foyer est là où demeure le cœur.»;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;104;d65346a4bc82e523;Well, it's a start. How many shells did we lose in the process?;Bon début. Combien de châssis avons-nous perdus?;Bon début. Combien de châssis avons-nous perdus ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;119;d45d13f0b987b724;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;123;875244f7b185e024;Is Habitat A intact?;Habitat A intact?;Habitat A intact ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;170;d35c44f0ed82b026;That you should return to the Argos at once?;Que vous retourniez vite à l'Argos?;Que vous retourniez vite à l'Argos ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;176;825017f0ba80b526;"Do you mean, ""Home is where the heart is?""";Vous dites « le cœur fait le foyer »?;Vous dites « le cœur fait le foyer » ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;224;d30542f1ead2e370;Counterpoint: Two craniums exceed a singular.;Contrepoint: deux crânes valent mieux qu'un.;Contrepoint : deux crânes valent mieux qu'un.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;255;86514ea3bd80e471;The hell?;Putain?;Putain ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;270;dd5317f1b986ed71;"""Love vector?"" Elaborate.";Vecteur amour? Explique;Vecteur amour ? Explique;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;285;870542adea84b772;It appears so. Shall I make contact?;Apparemment. J'établis le contact?;Apparemment. J'établis le contact ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;319;d45342a6e880e273;Shall I broaden our search criteria?;J'élargis les critères?;J'élargis les critères ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;350;d45140a3b984b774;To engage a Type-3 containment firebreak, please follow these steps:;Pour activer un coupe-feu de confinement type 3, procédez ainsi:;Pour activer un coupe-feu de confinement type 3, procédez ainsi :;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;390;d00245f1ea8ee075;Juno, status!;Juno, état!;Juno, état !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;400;815c41f1b084e575;Ok, now, any questions?;Bon, des questions?;Bon, des questions ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;403;855313a0ec8ee775;Juno, do you know what this means?;Juno, qu'est-ce que ça signifie?;Juno, qu'est-ce que ça signifie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;435;d00610a6ead5ed76;Director? Pease verify last command.;Directrice? Confirmez cet ordre.;Directrice ? Confirmez cet ordre.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;447;805247a2ef84b677;We did it.;Réussi!;Réussi !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;448;d75614f1ebd3b677;It appears so. Shall I make contact?;Apparemment. J'établis le contact?;Apparemment. J'établis le contact ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;454;865c4eadb1d4e577;Six total.;Total: 6.;Total : 6.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;477;d50712a5bc85e178;That you should return to the Argos at once?;Que vous retourniez vite à l'Argos?;Que vous retourniez vite à l'Argos ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;519;d25543f4eb8ee779;"You... wish for me to take you ""home?""";Vous... voulez rentrer « chez vous »?;Vous... voulez rentrer « chez vous » ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;131;525;825242a2ba8eed79;"I, too, am designated ""X-3 Unit 12.""";"Moi aussi: ""Unité X-3 12"".";"Moi aussi : ""Unité X-3 12"".";QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;26;d50e420cd8892eae;Warning: Losing connection. Emergency reboot imminent.;Attention: connexion perdue. Redémarrage d'urgence.;Attention : connexion perdue. Redémarrage d'urgence.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;33;dc0f420cd8892eae;Warning: Now leaving mission area. Emergency reboot initiated.;Attention: sortie de zone. Redémarrage d'urgence lancé.;Attention : sortie de zone. Redémarrage d'urgence lancé.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;86;db0e440cd8892eae;What is that?;C'est quoi?;C'est quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;142;d50b450cd8892eae;How'd we do?;Alors?;Alors ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;160;d50e450cd8892eae;Guess you'll be heading to the research facility, then?;Tu vas donc au centre de recherche, j'imagine?;Tu vas donc au centre de recherche, j'imagine ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;277;db08470cd8892eae;What happened?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;364;a5932dab313abe08;How shall I proceed?;Comment je procède?;Comment je procède ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;389;f3c078a96c3ce508;Find something to pull yourself free!;Trouvez de quoi vous dégager!;Trouvez de quoi vous dégager !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;410;a0927dfb673ee908;That is why we primed the drive beforehand: without doing so, the generator would burn out before we completed the jump.;C'est pour ça que nous avons amorcé le propulseur au préalable: sans ça, le générateur grillerait avant la fin du saut.;C'est pour ça que nous avons amorcé le propulseur au préalable : sans ça, le générateur grillerait avant la fin du saut.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;483;a69478af316abd0a;What are the new specifications?;Nouvelles spécifications?;Nouvelles spécifications ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;586;f3c07ea86d68b80b;Is Habitat B reachable?;Habitat B accessible?;Habitat B accessible ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;610;aec82ba8643ebd0b;Where's David Deutsch when you need him?;Où est David Deutsch quand il faut?;Où est David Deutsch quand il faut ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;615;f3c97efa336fbe0b;Am I really that predictable?;Je suis si prévisible?;Je suis si prévisible ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;673;f5932afb6737ec0b;Juno, is this some kind of communication device?;Juno, c'est un appareil de communication?;Juno, c'est un appareil de communication ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;674;f0c07aaf6c37ec0b;The one you heard when you first got back here?;Celui entendu quand vous êtes revenu ici?;Celui entendu quand vous êtes revenu ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;680;a5c97fae3468ec0b;These units were used to refuel ships?;Ça ravitaillait les vaisseaux?;Ça ravitaillait les vaisseaux ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;736;a4c47fff643eba0c;Then I presume additional data-scans would be of value after all?;Donc, des scans de données supplémentaires seraient utiles?;Donc, des scans de données supplémentaires seraient utiles ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;744;f2c97fab663bbd0c;That's it! You did it!;Ça y est! Réussi!;Ça y est ! Réussi !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;753;aec72af4613cbe0c;Until faced with the Bio Mass, the Astraea was undefeated in battle.;Jusqu'à sa confrontation avec la biomasse, l'Astraea était invaincu au combat.;Jusqu'à sa confrontation avec la biomasse, l'Astraea était invaincue au combat.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+130;160;778;f5c47ef93068e50c;Orange for light intensity, and red for heavy.;Orange: faible intensité. Rouge: forte.;Orange : faible intensité. Rouge : forte.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;794;a0962aa8636aea0c;Warning: Grip Projection field collapsed.;Alerte: champ Grip Projector effondré.;Alerte : champ Grip Projector effondré.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;796;a0c029fd316cea0c;I am curious Juno, why is my shielding not already optimized?;Juno, pourquoi mon blindage n'est-il pas déjà optimisé?;Juno, pourquoi mon blindage n'est-il pas déjà optimisé ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;822;a7927caf313cee0c;Any luck with that manifest, though?;Du nouveau sur ce manifeste?;Du nouveau sur ce manifeste ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;845;f3927bac346cb80d;Scanning further docks should provide the necessary data?;Scanner d'autres quais devrait fournir assez de données?;Scanner d'autres quais devrait fournir assez de données ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;846;a4912ea8603db90d;Connection re-established: this cluster is now fully operational.;Connexion rétablie: ce groupe est pleinement opérationnel.;Connexion rétablie : ce groupe est pleinement opérationnel.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;851;f3c87cff6d3aba0d;Auxiliary drive bay? There's more than one?;Baie FTL auxiliaire? Il y en a plusieurs?;Baie FTL auxiliaire ? Il y en a plusieurs ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;877;f2c77faf3036e40d;Connection re-established: this cluster is now fully operational.;Connexion rétablie: ce groupe est pleinement opérationnel.;Connexion rétablie : ce groupe est pleinement opérationnel.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;908;f79429fc3668e90d;How will we safely transfer them into the ship?;Comment les transférer à bord sans risque?;Comment les transférer à bord sans risque ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;964;f2c07fa96739b80f;Liv, you're hoping they contain coffee, aren't you?;Liv, tu espères qu'ils contiennent du café?;Liv, tu espères qu'ils contiennent du café ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;968;f4c42ef43068b80f;Was the fuel cell depleted by my time jump?;Mon saut a vidé la pile FTL?;Mon saut a vidé la pile FTL ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;996;a39176fd643abe0f;Through a combination of high-strength shielding and remote power transmission, the Astraea can continue fighting, even when severely compromised.;Grâce à une combinaison de blindage haute résistance et de transmission d'énergie à distance, l'Astraea peut continuer à combattre même lorsqu'il est gravement endommagé.;Grâce à une combinaison de blindage haute résistance et de transmission d'énergie à distance, l'Astraea peut continuer à combattre même lorsqu'elle est gravement endommagée.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+130;160;1114;f0c17cf46037b950;Warning: velocity decreasing.;Alerte: vitesse en baisse.;Alerte : vitesse en baisse.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1204;a6c92cfa623eec50;Not just me, but, humanity.;Pas que moi: l'humanité.;Pas que moi : l'humanité.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1375;a79478fd6237b958;This equipment is some form of dock or buoy?;Cet équipement est un quai ou une balise?;Cet équipement est un quai ou une balise ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1428;a2932afc6c3ae558;Tick incoming!;Tick arrive!;Tick arrive !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1430;af952cff623ee558;So... what do they contain?;Alors... dedans, quoi?;Alors... dedans, quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1441;f7c52df9303de958;I wonder why the accident only caused my software to time travel.;Pourquoi l'accident n'a-t-il fait voyager que mon logiciel?;Pourquoi l'accident n'a-t-il fait voyager que mon logiciel ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1446;aec67afa3368e958;Juno, are any of the station's X-3 units still active?;Juno, reste-t-il des unités X-3 actives?;Juno, reste-t-il des unités X-3 actives ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1457;a5c77ba9346aeb58;All this advanced tech and the Bio Mass still broke containment?;Toute cette technologie, et la biomasse s'est échappée?;Toute cette technologie, et la biomasse s'est échappée ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1473;f5c67cff673dee58;How many reprints of my shell will it be able to produce?;Combien de châssis pourra-t-il réimprimer?;Combien de châssis pourra-t-il réimprimer ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1497;f0c178ff6639b959;Oh! You just activated a signal relay.;Oh! Vous avez activé un relais.;Oh ! Vous avez activé un relais.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1505;a7c17cf9316bba59;When did you two become a pair of doting parents?;Depuis quand vous jouez les parents poules?;Depuis quand vous jouez les parents poules ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1534;a6c72cfe373ce559;More that got pulled through with the Astraea, huh?;Encore un truc entraîné avec l'Astraea, hein?;Encore un truc entraîné avec l'Astraea, hein ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1612;f5967ff4313cbd5a;The what, now?;Le quoi?;Le quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1646;f5942afa606be55a;Ah, didn't quite make them compute themselves out of a job then?;Ah, ils n'ont donc pas calculé jusqu'à devenir inutiles?;Ah, ils n'ont donc pas calculé jusqu'à devenir inutiles ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1708;afc62aaf313def5a;How much more power will the FTL require to engage?;Combien d'énergie faut-il encore au FTL?;Combien d'énergie faut-il encore au FTL ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1741;a3c977af6d6abe5b;Apollo, can we rely on the remaining munitions to stay in place?;Apollo, les munitions restantes resteront-elles en place?;Apollo, les munitions restantes resteront-elles en place ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1750;a19377fb366bbf5b;Warning: Projector field collapsed.;Alerte: champ projecteur effondré.;Alerte : champ projecteur effondré.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1785;a0c52dac653cea5b;The one you heard when you first got back here?;Celui entendu quand vous êtes revenu ici?;Celui entendu quand vous êtes revenu ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1786;a2c476f96c6aea5b;What happened? I lost you on comms.;Que s'est-il passé? Comms perdues.;Que s'est-il passé ? Comms perdues.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1790;f4967cf8363eeb5b;In terms of construction quality, or statistical probability?;Qualité de fabrication ou probabilité statistique?;Qualité de fabrication ou probabilité statistique ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1829;f3c17afd6236b85c;Just one apple?;Une pomme?;Une pomme ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1837;f7912cfd6236b95c;This is where we'll place one of the Astraea's FTL drives?;C'est ici qu'on place un propulseur FTL de l'Astraea?;C'est ici qu'on place un propulseur FTL de l'Astraea ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1843;f7932af86d68ba5c;All within that part of the ship?;Tout ça dans cette zone?;Tout ça dans cette zone ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1869;a4c429ff643bbf5c;Is it possible to get a straight answer?;Possible d'avoir une réponse claire?;Possible d'avoir une réponse claire ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;1919;ae9176af6d6fea5c;Well cheers to that.;Alors, à ça!;Alors, à ça !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;2049;a5967fff676aea5d;Warning: Ten seconds remaining to complete linking sequence.;Attention: dix secondes pour finir la liaison.;Attention : dix secondes pour finir la liaison.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;2161;aec52ba96339ea5e;Shield failure: too much radiation. I'll need to be more careful.;Bouclier défaillant: trop de radiation. Je dois faire attention.;Bouclier défaillant : trop de radiation. Je dois faire attention.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;2202;f09277ff343fb85f;Prolonged radiation exposure is ill-advised.;Longue exposition aux radiations: risquée.;Longue exposition aux radiations : risquée.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;2260;af912ef5643ce55f;Impressive. So what will this new coating do?;Impressionnant. À quoi sert ce revêtement?;Impressionnant. À quoi sert ce revêtement ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;2280;f7c42dfb613eea5f;Do you concur with this assessment?;D'accord avec cette évaluation?;D'accord avec cette évaluation ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;2284;f09178fb616bea5f;Warning: Radiation field nearby.;Alerte: radiation proche.;Alerte : radiation proche.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+130;160;2305;f4c92ba8336bee5f;When did you become a marksman?;Depuis quand es-tu tireur?;Depuis quand es-tu tireur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;38;25;2cf568c4a9a1bd06;How much longer?;Encore combien?;Encore combien ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;38;38;7cf1689eacf0ee07;How much longer?;Encore combien?;Encore combien ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;38;82;7da33a9ea0f2e65c;Jack, will you be joining us in the lab?;Jack, vous venez au labo?;Jack, vous venez au labo ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;38;129;f77b32e9c7ff1960;How much longer?;Encore combien?;Encore combien ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;60;6;d5883034a01852a0;Apollo, are these the door controls you mentioned?;Apollo, ce sont les commandes de porte?;Apollo, ce sont les commandes de porte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;60;48;d2dc363aa21a53ad;Speaking of functionality, any luck finding a good fuel cell?;Côté fonctionnement, une bonne pile à combustible trouvée?;Côté fonctionnement, une bonne pile à combustible trouvée ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;60;88;818c623fab4c50fa;Gratitude?;Merci?;Merci ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;60;98;83dd633fa44c07fb;Through a combination of high-strength shielding and remote power transmission, the Astraea can continue fighting, even when severely compromised.;Grâce à une combinaison de blindage haute résistance et de transmission d'énergie à distance, l'Astraea peut continuer à combattre même lorsqu'il est gravement endommagé.;Grâce à une combinaison de blindage haute résistance et de transmission d'énergie à distance, l'Astraea peut continuer à combattre même lorsqu'elle est gravement endommagée.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+134;60;108;858c356ff21a06fc;What is the purpose of retaining multiple F-T-L drives?;Pourquoi conserver plusieurs propulseurs FTL?;Pourquoi conserver plusieurs propulseurs FTL ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;60;110;d3df6739ab4b07fc;Not to interrupt your self-congratulations but, going forward, is there anything else I should know about your countermeasures? In regards to my...vessel?;Sans vouloir interrompre vos autosatisfactions, y a-t-il autre chose que je devrais savoir sur vos contre-mesures pour la suite? Pour mon... vaisseau?;Sans vouloir interrompre vos autosatisfactions, y a-t-il autre chose que je devrais savoir sur vos contre-mesures pour la suite ? Pour mon... vaisseau ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;60;140;24834480e89ed572;Wait, you're powering the bridge?;Vous alimentez la passerelle?;Vous alimentez la passerelle ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;60;171;28864480e89ed572;Until faced with the Bio Mass, the Astraea was undefeated in battle.;Jusqu'à sa confrontation avec la biomasse, l'Astraea était invaincu au combat.;Jusqu'à sa confrontation avec la biomasse, l'Astraea était invaincue au combat.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+134;60;175;2c864480e89ed572;Apollo, is this the only way into the drive bay?;Apollo, seul accès à la baie du propulseur?;Apollo, seul accès à la baie du propulseur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;60;191;2a804580e89ed572;The Astraea is too damaged to be of much further use, and we're putting ourselves in great peril by continuing to tinker with it.;L'Astraea est trop endommagé pour nous être encore vraiment utile, et nous nous mettons gravement en danger en continuant à y bricoler.;L'Astraea est trop endommagée pour nous être encore vraiment utile, et nous nous mettons gravement en danger en continuant à y bricoler.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+134;60;198;25814580e89ed572;Until the biomass, the Astraea had stood undefeated in battle.;Jusqu'à la biomasse, l'Astraea était resté invaincu au combat.;Jusqu'à la biomasse, l'Astraea était restée invaincue au combat.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+134;60;220;2c844580e89ed572;Some of your equipment, Dr. Harlan?;Votre équipement, Dr Harlan?;Votre équipement, Dr Harlan ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;60;221;2d844580e89ed572;The Astraea's energy output must be incredible. It's got an entire array of FTL drives.;La puissance énergétique de l'Astraea doit être incroyable. Il possède toute une série de propulseurs FTL.;La puissance énergétique de l'Astraea doit être incroyable. Elle possède toute une série de propulseurs FTL.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+134;60;240;25874580e89ed572;Apollo, do these controls operate the door?;Apollo, ces commandes ouvrent la porte?;Apollo, ces commandes ouvrent la porte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;60;257;2c8f4580e89ed572;The Astraea is too damaged to be of further use realizing our goals, and we would direly imperil ourselves by continuing to tinker with it.;L'Astraea est trop endommagé pour nous aider davantage à atteindre nos objectifs, et nous nous mettrions gravement en danger en continuant à y bricoler.;L'Astraea est trop endommagée pour nous aider davantage à atteindre nos objectifs, et nous nous mettrions gravement en danger en continuant à y bricoler.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+134;60;258;2d8f4580e89ed572;Until faced with the biomass, the Astraea was undefeated in battle.;Jusqu'à sa confrontation avec la biomasse, l'Astraea était invaincu au combat.;Jusqu'à sa confrontation avec la biomasse, l'Astraea était invaincue au combat.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;ASTRAEA_FEMININE
+134;60;319;288f4680e89ed572;What is this?;C'est quoi?;C'est quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;67;96;452ad03f4623b8bf;Is it possible to make contact from here?;Peut-on établir le contact d'ici?;Peut-on établir le contact d'ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;67;98;4a2ed63a1073bcbf;Where should we begin searching?;Où commencer les recherches?;Où commencer les recherches ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;67;218;24ffd5b1ffa052e3;Where should we begin searching?;Où commencer les recherches?;Où commencer les recherches ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;67;227;1778d86a1427bce8;As such, successfully hitting a given target may require you to aim ahead of it's movement: the ionized bolts of your armament are... surprisingly slow.;Donc, pour toucher une cible en mouvement, vous devrez peut-être viser devant elle: les projectiles ionisés de votre arme sont... étonnamment lents.;Donc, pour toucher une cible en mouvement, vous devrez peut-être viser devant elle : les projectiles ionisés de votre arme sont... étonnamment lents.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;95;0;20a0460e8ef42310;Not to worry, Captain.;Du calme, Capitaine.;Aucun souci, Capitaine;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+134;95;12;79ad4104dba67416;Not to worry, Captain.;Du calme, Capitaine.;Aucun souci, Capitaine;QA_RECOVERY_CERTAIN_V0.8.58.4.5;USER_LOCKED
+134;95;13;21fa110f8ff22017;Well? What do you think? Bit of a step up wouldn't you say?;Alors? Qu'en penses-tu? Sacrée amélioration, non?;Alors ? Qu'en penses-tu ? Sacrée amélioration, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;95;32;4a51550367be3923;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;95;37;4f51550367be3923;Bit of a harrowing experience?;Expérience assez éprouvante?;Expérience assez éprouvante ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;95;41;4b52550367be3923;'Hardly?';'Peu?';'Peu ?';QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;95;49;4a54550367be3923;Was that a brag I just heard?;C'était de la frime?;C'était de la frime ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;95;65;4c56550367be3923;How would I know?;Comment savoir?;Comment savoir ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;95;66;4d56550367be3923;Well? What do you think? Bit of a step up wouldn't you say?;Alors? Qu'en penses-tu? Sacrée amélioration, non?;Alors ? Qu'en penses-tu ? Sacrée amélioration, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;95;71;4857550367be3923;Can't we just print the suit and I'll put it on out here?;On peut pas imprimer la combinaison et je l'enfile ici?;On peut pas imprimer la combinaison et je l'enfile ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;95;93;4c53560367be3923;Can you restore power to the door?;Peux-tu alimenter la porte?;Peux-tu alimenter la porte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;95;95;4e53560367be3923;What's the hold up with the door?;Qu'est-ce qui bloque la porte?;Qu'est-ce qui bloque la porte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;95;99;7da84405d9a67141;What makes you say that?;Pourquoi tu dis ça?;Pourquoi tu dis ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;96;39;216db4a0cd1fb381;Could I have a moment?;Un instant, svp?;Un instant, svp ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;96;60;2564b5a0cd1fb381;Because of all the Kronos II mementos?;À cause des souvenirs du Kronos II?;À cause des souvenirs du Kronos II ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;96;86;2e6bb5a0cd1fb381;What do you think?;T'en penses quoi?;T'en penses quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;96;103;276eb5a0cd1fb381;What happened?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;96;105;2f6eb5a0cd1fb381;Captain Rhodes?;Cap. Rhodes?;Cap. Rhodes ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;96;117;80b68fe3e5865bc2;Juno says it's standard procedure.;Juno dit: procédure standard.;Juno dit : procédure standard.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;96;118;88b788e0e1825ec6;There's no one else here?;Personne d'autre ici?;Personne d'autre ici ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;112;26;8c229c8005a49ffc;What are our options with limited power?;Quelles options avec peu d'énergie?;Quelles options avec peu d'énergie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;112;38;88249c8005a49ffc;Apollo, what's causing the alarm?;Apollo, cause de l'alarme?;Apollo, cause de l'alarme ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;112;61;82229d8005a49ffc;How long before it reaches our position?;Quand atteindra-t-il notre position?;Quand atteindra-t-il notre position ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;112;135;38104c3ce05fbdfc;Is there no other way to provide sufficient power?;Aucun autre moyen de fournir assez d'énergie?;Aucun autre moyen de fournir assez d'énergie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;130;11;e5b09788e7ba0910;Are these controls for the bay door?;Commandes de la porte de baie?;Commandes de la porte de baie ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;130;140;b1bf928fe6e80314;Juno, can you open the door?;Juno, ouvrez la porte?;Juno, ouvrez la porte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;130;402;e3edc589e3b00d42;Juno, can you identify this device?;Juno, identifiez cet appareil?;Juno, identifiez cet appareil ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;130;453;eaebc4dfeaef0f43;Juno... is there a way to restore power to this disposal unit?;Juno... peut-on réalimenter cette unité d'éjection?;Juno... peut-on réalimenter cette unité d'éjection ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;151;7;bd40d47b5c2d9f9c;Can you let us up?;Vous nous montez?;Vous nous montez ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;151;19;ba42d47b5c2d9f9c;The man we heard over the comms?;L'homme entendu aux comms?;L'homme entendu aux comms ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;151;29;ba43d47b5c2d9f9c;It's me!;Moi!;Moi !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;151;33;be43d47b5c2d9f9c;Liv, something's happened.;Liv, il s'est passé quoi?;Liv, il s'est passé quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;151;55;b947d47b5c2d9f9c;Jack, what is all this?;Jack, c'est quoi ça?;Jack, c'est quoi ça ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;151;77;bf4dd47b5c2d9f9c;What's going on?;Quoi encore?;Quoi encore ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;151;82;ba45d57b5c2d9f9c;What is it?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;151;83;bb45d57b5c2d9f9c;What's wrong?;Qu'y a-t-il?;Qu'y a-t-il ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;151;95;c0c2bb828910fd7e;Can you let us up?;Vous nous montez?;Vous nous montez ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;13;5c5192dcae3ca1c5;Can you please press the button again.;Pouvez-vous presser encore le bouton?;Pouvez-vous presser encore le bouton ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;17;525292dcae3ca1c5;You mentioned a control console?;Vous avez dit console?;Vous avez dit console ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;23;5d5292dcae3ca1c5;You mentioned manual controls?;Des contrôles manuels?;Des contrôles manuels ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;40;505592dcae3ca1c5;Presumably that's the next step?;Sans doute l'étape suivante?;Sans doute l'étape suivante ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;42;535592dcae3ca1c5;Tricky but getting there. You?;Dur, mais j'y arrive. Et toi?;Dur, mais j'y arrive. Et toi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;47;5c5592dcae3ca1c5;"""Oops?"" Been a while since you've ""oops""'ed. What happened?";«Oups?» Ça faisait longtemps. Qu'est-ce qui s'est passé?;«Oups ?» Ça faisait longtemps. Qu'est-ce qui s'est passé ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;60;535e92dcae3ca1c5;How's moving the tram under the transit rail line?;Le déplacement du tram sous le rail avance?;Le déplacement du tram sous le rail avance ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;62;555e92dcae3ca1c5;Nothing's ever easy, is it?;Rien n'est simple, hein?;Rien n'est simple, hein ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;67;505f92dcae3ca1c5;Maybe try beneath the tram?;Essaie sous le tram?;Essaie sous le tram ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;69;565f92dcae3ca1c5;Any luck on finding those tram release controls?;Trouvé les commandes de libération du tram?;Trouvé les commandes de libération du tram ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;76;04dcd6263d421921;What's first?;On commence?;On commence ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;77;05d7822465461921;Perhaps with the release control I found under the Tram earlier?;Peut-être avec la commande trouvée sous le tram plus tôt?;Peut-être avec la commande trouvée sous le tram plus tôt ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;164;b58e31cced6c173a;Nothing's ever easy, is it?;Rien n'est simple, hein?;Rien n'est simple, hein ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;211;b18934cced6c173a;I don't know. Maybe see if there's a manual control?;J'ignore. Cherchez peut-être une commande manuelle?;J'ignore. Cherchez peut-être une commande manuelle ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;213;b38934cced6c173a;Why would someone destroy the controls?;Pourquoi détruire les commandes?;Pourquoi détruire les commandes ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;217;b78934cced6c173a;Affirmative. Suggestions?;Affirmatif. Des idées?;Affirmatif. Des idées ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;233;b68c34cced6c173a;What's next?;Et après?;Et après ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;279;b98b35cced6c173a;What's first?;On commence?;On commence ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;339;b58c37cced6c173a;How's getting those stasis projector sorted?;Ça avance, ces projecteurs de stase?;Ça avance, ces projecteurs de stase ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;360;b0823acced6c173a;How's it going over there, Jack?;Ça va de ton côté, Jack?;Ça va de ton côté, Jack ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;361;b1823acced6c173a;Any issues releasing the tram?;Souci pour libérer le tram?;Souci pour libérer le tram ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;385;b9883acced6c173a;Orrrrr... Popcorn can just point out the rail lines? Works also.;Ou... Popcorn peut juste montrer les rails? Ça marche aussi.;Ou... Popcorn peut juste montrer les rails ? Ça marche aussi.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;388;b2893acced6c173a;Divide and conquer?;On se sépare?;On se sépare ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;414;b98b3acced6c173a;Can -- hear me?;-- m'entendez?;-- m'entendez ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;434;b68e3acced6c173a;Are there alternatives?;D'autres options?;D'autres options ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;436;b88e3acced6c173a;Can they be repaired?;On peut les réparer?;On peut les réparer ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;458;b1833bcced6c173a;What happened?;Quoi donc?;Quoi donc ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;464;b7833bcced6c173a;Still having trouble finding the control console?;Toujours du mal à trouver la console?;Toujours du mal à trouver la console ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;470;b3883bcced6c173a;Good luck.;Courage!;Courage !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;508;b18c3bcced6c173a;So I need to move it all the way over?;Je dois le déplacer jusqu'au bout?;Je dois le déplacer jusqu'au bout ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;570;5edd80766f124a71;Exactly!;Exact!;Exact !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;153;577;5183862268454876;I just need to press the manual rail link button?;J'appuie juste sur le bouton de liaison au rail?;J'appuie juste sur le bouton de liaison au rail ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;167;63;e114458e6ebf9614;So, the Display Emitter is inside?;Donc l'émetteur est dedans?;Donc l'émetteur est dedans ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;167;80;e112478e6ebf9614;The emitter is in the delivery chute?;L'émetteur est dans la goulotte?;L'émetteur est dans la goulotte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;167;88;e110488e6ebf9614;You've used this delivery chute many times with success I assume?;Vous avez souvent utilisé cette goulotte avec succès, non?;Vous avez souvent utilisé cette goulotte avec succès, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;167;90;e112488e6ebf9614;Where exactly is it located?;Où est-ce exactement?;Où est-ce exactement ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;167;93;e115488e6ebf9614;Having trouble finding the delivery chute?;Du mal à trouver la goulotte?;Du mal à trouver la goulotte ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;167;97;e117498e6ebf9614;I said decon!;Décontamine!;Décontamine !;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;167;130;e114478f6ebf9614;"Don't you mean it might, ""come in handy?""";Vous voulez dire « être utile »?;Vous voulez dire « être utile » ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;167;146;e11c498f6ebf9614;Sorry... Adam?;Pardon, Adam?;Pardon, Adam ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;167;187;9facadb82bdfc240;"You call him ""Popcorn?""";"Tu dis ""Popcorn""?";"Tu dis ""Popcorn"" ?";QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;202;4;4305d2d229bf3328;It's a weapon?;Une arme?;Une arme ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;202;22;1c008f812fbf3629;...that's exactly what you're planning to do, isn't it?;...c'est exactement ce que vous comptez faire, non?;...c'est exactement ce que vous comptez faire, non ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;202;64;420cdc8178ed312e;How did we end up in the future again?;Comment sommes-nous revenus au futur?;Comment sommes-nous revenus au futur ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;202;76;4b05d3d47bb7652e;You're saying we might be able go home.;Vous dites qu'on pourrait rentrer?;Vous dites qu'on pourrait rentrer ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+134;202;301;1c008d852ce8627e;Hey, Jack. Taking one last gander for old time's sake?;Hé, Jack. Un dernier coup d'œil en souvenir du passé?;Hé, Jack. Un dernier coup d'œil en souvenir du passé ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+147;182;55;a4e4b4da7a754c66;What do you think?;T'en penses quoi?;T'en penses quoi ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+147;182;98;a0e9b4da7a754c66;I must say, you made that look incredibly easy.;Je dois dire: vous avez rendu ça très facile.;Je dois dire : vous avez rendu ça très facile.;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+147;182;139;a5e3b5da7a754c66;Could you go back to the window?;Retournez à la fenêtre?;Retournez à la fenêtre ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE
+147;182;146;a2e4b5da7a754c66;Is there an electrical bypass nearby?;Un bypass électrique est proche?;Un bypass électrique est proche ?;QA_RECOVERY_CERTAIN_V0.8.58.4.5;TYPO_SAFE

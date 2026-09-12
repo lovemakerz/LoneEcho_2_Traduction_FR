@@ -1,0 +1,493 @@
+﻿chunk;assetRecord;slot;idHex;textEN;oldTextFR;newTextFR;status;reason
+16;125;9;b568928fdbdb0fb2;What was that?;C'etait quoi?;C'était quoi ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+16;125;89;51fc98065c97fa1f;What was that?;C'etait quoi?;C'était quoi ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+16;138;11;7e6b9cad5366850d;There you go.;Et voila.;Et voilà.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+16;138;20;2d3bc9a45262865d;There you go.;Et voila.;Et voilà.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+16;138;31;998e50a02aabf16d;There you go.;Et voila.;Et voilà.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+16;169;179;0d55123b4fa5eeb2;What was that?;C'etait quoi?;C'était quoi ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+21;77;22;abac640d11ba1313;Jack...?;Jack...?;Jack... ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+21;77;47;f7ab315a14b2121f;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+25;83;99;015dbd04f216a6e1;After you.;Apres toi.;Après toi.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+26;92;155;facb739c7ada73b0;Yes, of course.;Oui, bien sur.;Oui, bien sûr.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+30;197;18;a361ca7f5fbd8fb2;Everything all right?;Tout va bien?;Tout va bien ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;0;4b4e421e5f24958c;CREDITS;CREDITS;Crédits;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;3;43341ebf2791fe9a;Load Saved Game;CHARGER SAUVEGARDE;Charger sauvegarde;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;4;86c7d688be6267b6;START;DEMARRER;Démarrer;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;5;6c5db7f941a2f3c2;LOADING;CHARGEMENT;Chargement;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;6;9d3670a15ecf0dc3;NEW GAME;NOUVELLE PARTIE;Nouvelle partie;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;7;f4fe446fda231fc8;SMOOTH;CONTINUE;Continue;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;8;9d2e7faf75d607ce;CONTINUE;CONTINUER;Continuer;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;9;8b3c7faf75cc0dde;SETTINGS;OPTIONS;Options;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;10;fb65b0448adcc3e4;RESUME;REPRENDRE;Reprendre;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;11;416c1eb11605ebeb;DELETE;SUPPRIMER;Supprimer;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;12;04854a4a9498edec;QUIT;QUITTER;Quitter;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;13;1b8f5e599498edec;BACK;RETOUR;Retour;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;14;ad0300d97b4487f0;Warning;ATTENTION;Attention;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;15;b91f0cc1605794f0;Drivers;PILOTES;Pilotes;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;16;b01c9203fdffcefd;NEXT;SUIVANT;Suivant;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;17;b201851dfdffcefd;PREVIOUS;PRECEDENT;Précédent;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;18;4cc1a2808f48cb0b;RESET;REINIT.;Réinit.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;19;41c8a1959c48cb0b;APPLY;APPLIQUER;Appliquer;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;20;b1f5090203566e11;Memory;MEMOIRE;Mémoire;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;21;5cea0b0bf11ce81a;Last Saved: %secs Seconds Ago;SAUVEGARDE : IL Y A %secs S;Sauvegarde : il y a %secs s;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;22;5eb85b00a44ae01e;Last Saved: 1 Second Ago;SAUVEGARDE : IL Y A 1 S;Sauvegarde : il y a 1 s;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;23;5fe85b51f049e841;Last Saved: %mins Minutes Ago;SAUVEGARDE : IL Y A %mins MIN;Sauvegarde : il y a %mins min;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;24;5cec0a50a04ce949;MAIN MENU;MENU PRINCIPAL;Menu principal;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;25;0abf0853f31db14c;Last Saved: 1 Minute Ago;SAUVEGARDE : IL Y A 1 MIN;Sauvegarde : il y a 1 min;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;26;8f698040b0fe5a56;LOAD GAME;CHARGER PARTIE;Charger partie;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;27;7a6a742374858e69;INCREMENTAL;PAR PALIERS;Par paliers;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;79;28;de3e48956b47187f;LOAD;CHARGER;Charger;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;0;8d2d0f222f167b80;Resolution description;DESCRIPTION RESOLUTION;Description résolution;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;1;958288edbd2ef680;Written Language;LANGUE ECRITE;Langue écrite;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;2;c7e46484eee01c83;Espanol;ESPAGNOL;Espagnol;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;3;dae46484eee01c83;English;ANGLAIS;Anglais;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;4;d1e56484eee01c83;Deutsch;ALLEMAND;Allemand;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;5;c6e76484eee01c83;Francais;FRANCAIS;Français;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;6;dbea6484eee01c83;Korean;COREEN;Coréen;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;7;d5eb6484eee01c83;Japanese;JAPONAIS;Japonais;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;8;7dc6af0553d2a187;Volumetrics;VOLUMETRIQUES;Volumétriques;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;9;ddc328a2e0390c8c;Sharpening;NETTETE;Netteté;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;10;41371c086c44258d;Enable Pitch Rotation;ACTIVER ROTATION HAUT/BAS;Activer rotation haut/bas;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;11;e3bd277db2417092;Light Quality Description;DESCRIPTION QUALITE ECLAIRAGE;Description qualité éclairage;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;12;af46cbfdc8b8ba93;Colorblind Settings;OPTIONS DALTONISME;Options daltonisme;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;13;e097e848ea1317b3;Off;NON;Non;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;14;e294ea48ea1317b3;Medium;MOYEN;Moyen;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;15;f19eeb48ea1317b3;Low;BAS;Bas;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;16;fe97f448ea1317b3;SFX;EFFETS;Effets;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;17;f190fe48ea1317b3;Enable Yaw;GAUCHE/DROITE;Gauche/droite;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;18;f594fe48ea1317b3;Yes;OUI;Oui;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;19;c178b05b516ffbb9;Textures Quality Description;DESCRIPTION QUALITE TEXTURES;Description qualité textures;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;20;9d83aafd2ce831ba;Speed to rotate;VITESSE DE ROTATION;Vitesse de rotation;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;22;25f2efccfbd70ac6;MSAA description;DESCRIPTION MSAA;Description MSAA;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;23;ffaa1eed3847fec9;Left;GAUCHE;Gauche;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;24;f9ac09fd3847fec9;Handedness description;DESCRIPTION MAIN DOMINANTE;Description main dominante;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;25;be284c5e945b89cc;Enable Smooth Rotation;ACTIVER ROTATION CONTINUE;Activer rotation continue;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;26;6dc8d28827ebe0cf;Language/Subtitles;LANGUE / SOUS-TITRES;Langue / sous-titres;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;27;e73c6f13de9f62d0;Overall Graphics Quality;QUALITE VIDEO GENERALE;Qualité vidéo générale;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;28;f03c7f14de9f62d0;Custom;PERSONNALISE;Personnalisé;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;30;f8ffd137c2de62d7;Smooth Rotation Speed;VITESSE ROTATION CONTINUE;Vitesse rotation continue;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;31;ffe9d123eede62d7;Enable Smooth Rotation;ACTIVER ROTATION CONTINUE;Activer rotation continue;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;32;f3637bba92e480e4;Volumetrics Description;DESCRIPTION VOLUMETRIQUES;Description volumétriques;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;33;b837f30b4f3cf3e4;Fullscreen;PLEIN ECRAN;Plein écran;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;34;c3a7cc0aec7ed3e5;Enable Roll Rotation;ACTIVER INCLINAISON;Activer inclinaison;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;35;ff77b748b156b0eb;Enable/Disable colorblind mode;ACTIVE OU COUPE LE MODE DALTONIEN;Active ou coupe le mode daltonien;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;36;0fba1fb5116073ed;Shadow Quality;QUALITE OMBRES;Qualité ombres;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;37;f96a7bd9a5af28ef;High;ELEVE;Élevé;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;38;ff6c7bd9a5af28ef;No;NON;Non;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;39;fe6d7bd9a5af28ef;On;OUI;Oui;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;40;df8eb5ff4c910df5;Right;DROITE;Droite;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;41;a15bc698436e88fd;Subtitles Description;DESCRIPTION SOUS-TITRES;Description sous-titres;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;42;91bc88f403435001;CONTROLS;COMMANDES;Commandes;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;43;9bb18bf612405e05;GAMEPLAY;JEU;Jeu;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;44;4934b2ae926ecc05;Texture Quality;QUALITE TEXTURES;Qualité textures;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;45;27dc94124a16720a;Spoken Language;LANGUE DES VOIX;Langue des voix;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;46;3d638aebc9b71a0b;FX Quality;QUALITE EFFETS;Qualité effets;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;47;873d8830b362040d;Handedness;MAIN DOMINANTE;Main dominante;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;48;cff44ba01874650e;Auto-Res description;DESCRIPTION RESOLUTION AUTO;Description résolution auto;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;49;91b595ef03414a0f;Multi-Resolution Shading;OMBRAGE MULTI-RESOLUTION;Ombrage multi-résolution;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;50;81a382e228555911;SFX Description;DESCRIPTION EFFETS;Description effets;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;51;8ffdf83108b2f013;Fullscreen the app;AFFICHER LE JEU EN PLEIN ECRAN;Afficher le jeu en plein écran;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;52;3175a3fc15b1e117;Shadow Quality Description;DESCRIPTION QUALITE OMBRES;Description qualité ombres;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;53;32b164cc4f06dd18;Enable Roll;INCLINAISON;Inclinaison;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;54;3fbc78d34f06dd18;Anti-Aliasing;ANTICRENELAGE;Anticrénelage;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;55;a9477f1dcfc76019;FX Quality Description;DESCRIPTION QUALITE EFFETS;Description qualité effets;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;56;317da6539d28451b;Monitor the app should be on;ECRAN UTILISE PAR LE JEU;Écran utilisé par le jeu;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;57;81a382e2285a5e1b;Enable Yaw Rotation;ACTIVER GAUCHE/DROITE;Activer gauche/droite;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;58;69c6f452b7cb411c;Temporal AA;AA TEMPOREL;AA temporel;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;59;e905e4713d485422;Language all characters will speak;LANGUE PARLEE PAR LES PERSONNAGES;Langue parlée par les personnages;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;60;65afa4ac9b30772a;Language used to display all text and subtitles;LANGUE UTILISEE POUR TEXTES ET SOUS-TITRES;Langue utilisée pour textes et sous-titres;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;61;cd1f01415ec1482b;Prop scaling description;DESCRIPTION ECHELLE OBJETS;Description échelle objets;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;62;ab3a16b23f82202e;Graphics Quality;QUALITE VIDEO;Qualité vidéo;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;63;98906c2f61185d32;Enable Pitch;HAUT/BAS;Haut/bas;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;64;9f9a7c3370185d32;AUDIO;AUDIO;Audio;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;65;9d9c772a73185d32;Bloom;LUEUR;Lueur;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;66;939a6b337c185d32;Music;MUSIQUE;Musique;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;67;aa06624a49691d33;LOCALIZATION;LANGUES;Langues;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;68;a1dee6a888842a36;Temporal AA description;DESCRIPTION AA TEMPOREL;Description AA temporel;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;69;465c17042cd0ce36;Colorblind Strength;INTENSITE DALTONISME;Intensité daltonisme;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;70;eaab73b83ac4e337;Colorblind Mode;MODE DALTONIEN;Mode daltonien;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;71;43ff0a16bdd2be39;Mesh Quality;QUALITE MAILLAGES;Qualité maillages;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;72;7f54f9c96bf5213e;Multi-Res description;DESCRIPTION MULTI-RESOLUTION;Description multi-résolution;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;73;b335941fae71f641;Modify the strength of colorblind mode;AJUSTE L'INTENSITE DU MODE DALTONIEN;Ajuste l'intensité du mode daltonien;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;74;8700128557c30447;Sharpening description;DESCRIPTION NETTETE;Description netteté;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;75;cda88016b9719955;Mesh Quality Description;DESCRIPTION QUALITE MAILLAGES;Description qualité maillages;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;76;9bd27cfa10b0e355;DISPLAY;AFFICHAGE;Affichage;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;77;91d662e517ace655;Auto Resolution;RESOLUTION AUTO;Résolution auto;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;80;90dc64e30db6ea55;Monitor;ECRAN;Écran;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;81;9bc779e602acf655;QUALITY;QUALITE;Qualité;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;82;e8ae38ee2869c557;Resolution;RESOLUTION;Résolution;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;83;fd2aa2f1ae70285c;Bloom Description;DESCRIPTION LUEUR;Description lueur;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;84;e35ac9808d7a0562;Music Description;DESCRIPTION MUSIQUE;Description musique;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;85;b77818fce9487a62;Lights;ECLAIRAGE;Éclairage;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;110;86;c985be5103748566;Prop scaling;ECHELLE OBJETS;Échelle objets;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;0;e20a1fe457cca8b6;Adjusts the number of polygons used by 3D meshes;AJUSTE LE NOMBRE DE POLYGONES DES OBJETS 3D;Ajuste le nombre de polygones des objets 3D;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;1;b0081fe2029aafb6;Scales the base resolution. Default is 100% scale (recommended);AJUSTE LA RESOLUTION DE BASE. 100 % RECOMMANDE;Ajuste la résolution de base. 100 % recommandé;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;2;e55d4de655cdf8b6;Modify gameplay settings;MODIFIE LES OPTIONS DE JEU;Modifie les options de jeu;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;4;b00c1ee5059dfcb6;FX Quality;QUALITE EFFETS;Qualité effets;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;6;e20f1eb35096feb6;Toggles bloom/glare effects;ACTIVE LES EFFETS DE LUEUR;Active les effets de lueur;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;7;b55d49b6079affb6;GAMEPLAY;JEU;Jeu;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;8;be0e1ae2049bafb7;Toggles yaw (spin left/right) stick-turning;ACTIVE LA ROTATION GAUCHE/DROITE AU STICK;Active la rotation gauche/droite au stick;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;10;b00b4fe358ccfcb7;Enables the Heads-Up Display;ACTIVE LE HUD;Active le HUD;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;12;e45a4de6599da8b8;Temporal AA;AA TEMPOREL;AA temporel;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;13;bf0b4eb2039aabb8;Adjusts the resolution and sharpness of textures;AJUSTE RESOLUTION ET NETTETE DES TEXTURES;Ajuste résolution et netteté des textures;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;14;e45c1de556c9acb8;Fullscreen;PLEIN ECRAN;Plein écran;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;15;e35b4fb454ccacb8;Color Blind Secondary Hue Shift;DECALAGE TEINTE SECONDAIRE;Décalage teinte secondaire;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;16;e70849e258ceafb8;Medium;MOYEN;Moyen;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;17;e75b42e307caf3b8;Selects a preset. Exceeding defaults may reduce framerate!;CHOISIT UN PREREGLAGE. PLUS ELEVE PEUT REDUIRE LES FPS;Choisit un préréglage. Plus élevé peut réduire les FPS;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;21;b6594ee200c9ffb8;Master Volume;VOLUME GENERAL;Volume général;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;23;b20e48e259cbaeb9;Toggles automatic resolution-reduction to maintain framerate;REDUIT LA RESOLUTION POUR MAINTENIR LES FPS;Réduit la résolution pour maintenir les FPS;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;24;b5081fb105cef9b9;Adjusts the number and quality of shadow-casting light sources;AJUSTE LES SOURCES D'OMBRE ET LEUR QUALITE;Ajuste les sources d'ombre et leur qualité;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;25;e70a4bb45998fab9;Enable Smooth Rotation;ACTIVER ROTATION CONTINUE;Activer rotation continue;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;27;e30d4ae3509eacba;Type of colorblindeness to correct;TYPE DE DALTONISME CORRIGE;Type de daltonisme corrigé;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;28;e25d48b4529facba;Colorblindness Strength;INTENSITE DALTONISME;Intensité daltonisme;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;29;e70f4de0039eaeba;Modify graphics settings;MODIFIE LES OPTIONS VIDEO;Modifie les options vidéo;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;30;e75919e85497f8ba;Adjusts the volume of sound effects;AJUSTE LE VOLUME DES EFFETS SONORES;Ajuste le volume des effets sonores;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;31;e20f1ee0049ff8ba;Toggles roll (tilt left/right) stick-turning;ACTIVE L'INCLINAISON AU STICK;Active l'inclinaison au stick;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;32;bf5d4cb4529ff9ba;Strength of colorblindeness correction;INTENSITE DE CORRECTION DU DALTONISME;Intensité de correction du daltonisme;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;34;b35d49e7579efaba;View controller diagram;VOIR LE SCHEMA DES COMMANDES;Voir le schéma des commandes;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;36;b05a1db600ccfcba;Smooth Stick-Turning Speed;VITESSE ROTATION CONTINUE;Vitesse rotation continue;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;37;be0e4ee5579eabbb;Handedness;MAIN DOMINANTE;Main dominante;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;38;e20f1eb551cdf8bb;GRAPHICS;VIDEO;Vidéo;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;41;e20c4ce9509fafbc;Adjusts the overall volume of all sounds;AJUSTE LE VOLUME GENERAL;Ajuste le volume général;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;42;b7091ee405c9afbc;Yaw Stick-Turning;ROTATION GAUCHE/DROITE;Rotation gauche/droite;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;43;b15c19e0549cf2bc;Pitch Stick-Turning;ROTATION HAUT/BAS;Rotation haut/bas;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;44;b55b1ae100cbf3bc;Enable Subtitles;ACTIVER SOUS-TITRES;Activer sous-titres;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;45;b25942b15198f8bc;Colorblind Mode;MODE DALTONIEN;Mode daltonien;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;46;b50e1ee10799f8bc;Dialogue Volume;VOLUME DIALOGUES;Volume dialogues;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;48;e70b4ee15498f9bc;Texture Quality;QUALITE TEXTURES;Qualité textures;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;49;e25b4ce50597fbbc;Selects which hand to consider dominant;CHOISIT LA MAIN DOMINANTE;Choisit la main dominante;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;50;bf0c43b100cafebc;Adjusts the level of MSAA (reduces jagged edges/pixelation);AJUSTE LE MSAA POUR REDUIRE L'ALIASING;Ajuste le MSAA pour réduire l'aliasing;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;51;e70d1fb3569dffbc;ACCESSIBILITY;ACCESSIBILITE;Accessibilité;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;52;e3084cb1569ea8bd;Menu Music Volume;VOLUME MUSIQUE MENU;Volume musique menu;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;54;b4074cb1529eacbd;Adaptive Resolution;RESOLUTION ADAPTATIVE;Résolution adaptative;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;55;b2094ae654c9acbd;DRIVERS;PILOTES;Pilotes;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;56;b1594eb35898aebd;Toggles pitch (tilt up/down) stick-turning;ACTIVE LA ROTATION HAUT/BAS AU STICK;Active la rotation haut/bas au stick;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;57;e45c43b60296f2bd;High;ELEVE;Élevé;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;58;b70c4ee80799f3bd;CONTROLS;COMMANDES;Commandes;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;59;b25d4ae603c9fabd;Variable Resolution Shading;OMBRAGE RESOLUTION VARIABLE;Ombrage résolution variable;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;60;e0094eb65797a9be;Enabled;ACTIVE;Activé;APPROVED;MENU_EXACT_LABEL_FIX
+31;118;61;e55942e607caacbe;Left Handed;GAUCHER;Gaucher;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;62;e05b1ab454ceacbe;Roll Stick-Turning;INCLINAISON AU STICK;Inclinaison au stick;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;63;b55d43e80596aebe;Adjusts the number of dynamic light sources;AJUSTE LE NOMBRE DE SOURCES LUMINEUSES;Ajuste le nombre de sources lumineuses;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;64;e40a1ab1559af3be;Modify accessibility settings;MODIFIE LES OPTIONS D'ACCESSIBILITE;Modifie les options d'accessibilité;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;65;e75b18e5529bf8be;Modify display settings;MODIFIE LES OPTIONS D'AFFICHAGE;Modifie les options d'affichage;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;66;b55b49e6049effbe;Enables ambient occlusion;ACTIVE L'OCCLUSION AMBIANTE;Active l'occlusion ambiante;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;67;e75e4fe65597a8bf;Toggles fullscreen (vs. windowed) monitor rendering;BASCULE L'AFFICHAGE EN PLEIN ECRAN;Bascule l'affichage en plein écran;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;68;e40d4ce550cba8bf;Camera Shake Strength;INTENSITE SECOUSSES CAMERA;Intensité secousses caméra;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;69;e40e4db658c9abbf;SFX Volume;VOLUME EFFETS;Volume effets;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;71;be0c43e0009dfabf;Adjusts the volume of spoken/character dialogue;AJUSTE LE VOLUME DES VOIX;Ajuste le volume des voix;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;72;e45d4eb35596fbbf;Low;BAS;Bas;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;73;b40e1ae605cafbbf;Adjusts which monitor displays a copy of the (left-eye) render;CHOISIT L'ECRAN DE COPIE DE L'OEIL GAUCHE;Choisit l'écran de copie de l'oeil gauche;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;76;e40c49e8079cabe9;Modify audio settings;MODIFIE LES OPTIONS AUDIO;Modifie les options audio;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;77;b2081ab6579dfae9;Incremental Stick-Turning;ROTATION PAR PALIERS;Rotation par paliers;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;78;bf0e4fe3079fffe9;Volumetrics;VOLUMETRIQUES;Volumétriques;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;79;e20c18e5599fa8ea;Sharpening;NETTETE;Netteté;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;80;e2074cb600cbacea;Disabled;DESACTIVE;Désactivé;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;82;b55b49b350cbf9ea;Smooth Stick-Turning;ROTATION CONTINUE;Rotation continue;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;83;be5c18e257cafaea;Resolution Scale;ECHELLE RESOLUTION;Échelle résolution;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;84;b10a19e3569cfbea;MEMORY;MEMOIRE;Mémoire;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;85;e00b19e852cdfbea;Toggles frame-blending to reduce flickering and jagged edges;ACTIVE LE LISSAGE TEMPOREL POUR REDUIRE LE SCINTILLEMENT;Active le lissage temporel pour réduire le scintillement;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;86;b70c48e2059afdea;Multisample Antialiasing;ANTICRENELAGE MSAA;Anticrénelage MSAA;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;87;bf5b1fe0029affea;Scales the overall strength of camera shake effects;AJUSTE L'INTENSITE DES SECOUSSES CAMERA;Ajuste l'intensité des secousses caméra;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;89;b10a1fe900caaeeb;Graphics Quality;QUALITE VIDEO;Qualité vidéo;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;91;e55b1ab30799afeb;Toggles volumetric lighting/fog effects;ACTIVE L'ECLAIRAGE ET LE BROUILLARD VOLUMETRIQUES;Active l'éclairage et le brouillard volumétriques;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;92;e40b4ae003caafeb;Reduces shading rate at the edge of the headset's viewable area;REDUIT LA QUALITE D'OMBRAGE EN PERIPHERIE DU CASQUE;Réduit la qualité d'ombrage en périphérie du casque;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;93;b10c4ce6059ba8ec;Adjust the number particle effects that are spawned;AJUSTE LE NOMBRE D'EFFETS DE PARTICULES;Ajuste le nombre d'effets de particules;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;94;bf074be3549dabec;Bloom;LUEUR;Lueur;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;95;e2094de959cbafec;Selects a stick-turn mode. Smooth turning may cause discomfort!;CHOISIT LE MODE DE ROTATION. CONTINUE PEUT INCOMMODER;Choisit le mode de rotation. Continue peut incommoder;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;96;b1591db556cbf3ec;AUDIO;AUDIO;Audio;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;97;be0c19e902cafbec;Adjusts the volume of music in the menus;AJUSTE LE VOLUME DE LA MUSIQUE DES MENUS;Ajuste le volume de la musique des menus;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;99;e25a48b35196f2ed;Mesh Quality;QUALITE MAILLAGES;Qualité maillages;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;100;b60d48b659c9f8ed;DISPLAY;AFFICHAGE;Affichage;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;101;b70a4cb103cdf8ed;Ambient Occlusion;OCCLUSION AMBIANTE;Occlusion ambiante;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;102;bf0d43e7579bfced;Light Quality;QUALITE ECLAIRAGE;Qualité éclairage;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;103;bf0b4ab65496ffed;Monitor;ECRAN;Écran;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;104;b1084ee5599effed;Custom;PERSONNALISE;Personnalisé;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;105;b75b1fe607ccaeee;Right Handed;DROITIER;Droitier;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;107;bf5b19e4539af9ee;Reduces blur by enhancing contrast on edges and details;REDUIT LE FLOU EN RENFORCANT LES CONTOURS;Réduit le flou en renforçant les contours;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;108;b60a48e000cdfaee;Adjusts the speed of smooth stick-turning (if enabled);AJUSTE LA VITESSE DE ROTATION CONTINUE;Ajuste la vitesse de rotation continue;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;110;b45c43e505cefdee;Shifts the secondary hue down;DECALE LA TEINTE SECONDAIRE;Décale la teinte secondaire;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;118;111;be0a43e754cdfeee;Shadow Quality;QUALITE OMBRES;Qualité ombres;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;126;77;c8c50559c9e6e000;What was that?;C'etait quoi?;C'était quoi ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+31;126;111;99c7500ecbe8e757;What was that?;C'etait quoi?;C'était quoi ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;0;1759a251adad3b90;Protanopia;PROTANOPIE;Protanopie;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;1;155da101fbaf6792;Tritanomaly;TRITANOMALIE;Tritanomalie;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;2;450ca204fefa6792;BACK;RETOUR;Retour;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;3;1004f103a8f83d93;Color Blind Secondary Hue Shift;DECALAGE TEINTE SECONDAIRE;Décalage teinte secondaire;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;4;105ef402fbf96b93;Right Handed;DROITIER;Droitier;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;5;135ff505fcae6d93;Protanomaly;PROTANOMALIE;Protanomalie;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;6;1404a303f3a33a94;WARNING:;ATTENTION :;Attention :;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;7;130bf356f3fd6b94;Adjusts secondary color blind hue shift;AJUSTE LA TEINTE SECONDAIRE DU MODE DALTONIEN;Ajuste la teinte secondaire du mode daltonien;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;8;465ff058ffad3b95;Toggles subtitles for dialogue;ACTIVE OU COUPE LES SOUS-TITRES DES DIALOGUES;Active ou coupe les sous-titres des dialogues;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;9;4004f050aeff3f95;Stick-turn continuously (may cause discomfort);ROTATION CONTINUE AU STICK (PEUT INCOMMODER);Rotation continue au stick (peut incommoder);APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;10;1005a202adfd6c95;Stick-turn in discrete increments (recommended);ROTATION PAR PALIERS AU STICK (RECOMMANDEE);Rotation par paliers au stick (recommandée);APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;12;170ca353afac3b97;Tritanopia;TRITANOPIE;Tritanopie;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;13;1058a552a9af6697;Deuteranomaly;DEUTERANOMALIE;Deutéranomalie;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;14;1058f055aeaf6a97;- SAMPLE COLORS -;- COULEURS EXEMPLE -;- Couleurs d'exemple -;APPROVED;MENU_SAMPLE_LABEL_FIX
+31;185;15;1408a556fbac6f97;Configure gameplay settings;CONFIGURE LES OPTIONS DE JEU;Configure les options de jeu;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;16;125af151ffad6f97;Handedness;MAIN DOMINANTE;Main dominante;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;17;430ea356aeff38c0;Off;NON;Non;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;18;100cf602f8fa3ac0;SMOOTH TURNING ;ROTATION CONTINUE;Rotation continue;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;19;420cf301faa93cc0;Color Blind Primary Hue Shift;DECALAGE TEINTE PRINCIPALE;Décalage teinte principale;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;20;4709f204f8fa3dc0;- SAMPLE COLORS -;- COULEURS EXEMPLE -;- Couleurs d'exemple -;APPROVED;MENU_SAMPLE_LABEL_FIX
+31;185;21;120fa451affe66c0;Deuteranopia;DEUTERANOPIE;Deutéranopie;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;22;4f0aa305a8ff3cc1;INCREMENTAL TURNING;ROTATION PAR PALIERS;Rotation par paliers;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;23;450ba156fdfa6ec1;On;OUI;Oui;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;24;170df553aaad66c2;This setting may resuilt in motion sickness!;PEUT PROVOQUER LE MAL DES TRANSPORTS !;Peut provoquer le mal des transports !;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;25;145dff03adaa6bc2;NEXT;SUIVANT;Suivant;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;26;4e0ca501f2a93ac3;- SAMPLE TEXT -;- TEXTE EXEMPLE -;- Exemple de texte -;APPROVED;MENU_SAMPLE_LABEL_FIX
+31;185;27;125ffe04f2aa69c3;GAMEPLAY;JEU;Jeu;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;29;120ba650faab6ac4;START;DEMARRER;Démarrer;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;30;4405a306fff93cc5;QUIT;QUITTER;Quitter;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;31;1205f005faaf3fc5;Adjusts primary color blind hue shift;AJUSTE LA TEINTE PRINCIPALE DU MODE DALTONIEN;Ajuste la teinte principale du mode daltonien;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;32;4305ff56fef93fc6;NEXT;SUIVANT;Suivant;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;33;1559a358aeab38c7;Color Blindness;DALTONISME;Daltonisme;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;34;4205f150f2fd69c8;Left Handed;GAUCHER;Gaucher;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;35;105df451aea96cc8;Selects which hand to consider dominant;CHOISIT LA MAIN DOMINANTE;Choisit la main dominante;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;36;130bf058fbad38c9;ACCESSIBILITY;ACCESSIBILITE;Accessibilité;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;38;130ca152faad6ac9;Configure accessibility settings;CONFIGURE LES OPTIONS D'ACCESSIBILITE;Configure les options d'accessibilité;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+31;185;39;410fa659fff86cc9;Selects between forms of color blindness;CHOISIT LE TYPE DE DALTONISME;Choisit le type de daltonisme;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+38;85;122;d39925ce73c795aa;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+38;85;131;12743da221804f21;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+38;85;138;182168f529d61d29;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+38;85;157;4f7138a77dd3192b;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+45;35;717;44257fefa3ac93cd;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+45;76;19;e70c56e3a6304eed;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+45;76;50;105bfcd71454805c;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;0;a69170c794d478b0;His digital cortex is showing minimal synapse activity...;Son cortex numerique montre tres peu d'activite synaptique...;Son cortex numérique montre très peu d'activité synaptique...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;2;a49076cac4d17ab1;Come on Jack... wake up...;Allez, Jack... reveille-toi...;Allez, Jack... réveille-toi...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;3;f3c270c7c2d378b2;Jack? I think he can hear me.;Jack? Je crois qu'il m'entend.;Jack ? Je crois qu'il m'entend.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;5;f59777c894d529bc;I wish you had told me sooner that you were trying to repair him. I might have been more of a help.;J'aurais aime savoir plus tot que vous le repariez. J'aurais pu aider.;J'aurais aimé savoir plus tôt que vous le répariez. J'aurais pu aider.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;6;f0c523c694852ce0;It's working. He's online.;Ca marche. Il est en ligne.;Ça marche. Il est en ligne.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;10;075014d2fbe19d7b;Are you injured?;Tu es blessee?;Tu es blessée ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;11;095014d2fbe19d7b;You are the only person who calls me Jack.;Tu es la seule a m'appeler Jack.;Tu es la seule à m'appeler Jack.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;12;0a5014d2fbe19d7b;I'm one week from leaving and you're just now telling me Jack's not coming?;Je pars dans une semaine et tu me dis seulement maintenant que Jack ne vient pas?;Je pars dans une semaine et tu me dis seulement maintenant que Jack ne vient pas ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;13;0b5014d2fbe19d7b;Liv? Liv, do you copy?;Liv? Liv, tu me recois?;Liv ? Liv, tu me reçois ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;15;0d5014d2fbe19d7b;Morning Sunshine. And how are we feeling today?;Bonjour, mon rayon de soleil. Comment tu vas?;Bonjour, mon rayon de soleil. Comment tu vas ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;16;0f5014d2fbe19d7b;Command splitting us up. It bothers you?;Le commandement nous separe. Ca te derange?;Le commandement nous sépare. Ça te dérange ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;18;085114d2fbe19d7b;I don't know why I keep doing that.;Je ne sais pas pourquoi je fais ca.;Je ne sais pas pourquoi je fais ça.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;19;095114d2fbe19d7b;It's not a problem. You can call me Jack if you like.;Ca ne me derange pas. Tu peux m'appeler Jack si tu veux.;Ça ne me dérange pas. Tu peux m'appeler Jack si tu veux.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;20;0a5114d2fbe19d7b;I called you Jack again, didn't I?;Je t'ai encore appele Jack, c'est ca?;Je t'ai encore appelé Jack, c'est ça ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;22;0c5114d2fbe19d7b;Hello?;Allo?;Allo ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;23;0d5114d2fbe19d7b;I just need you to hold on, okay? I'm going to get you patched up. I promise...;Tiens bon, d'accord? Je vais te reparer. Je te le promets...;Tiens bon, d'accord ? Je vais te réparer. Je te le promets...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;24;0e5114d2fbe19d7b;What the hell does that mean?;Qu'est-ce que ca veut dire?;Qu'est-ce que ça veut dire ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;25;085214d2fbe19d7b;Come on Jack... wake up...;Allez, Jack... reveille-toi...;Allez, Jack... réveille-toi...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;26;0a5214d2fbe19d7b;I wish you had told me much sooner that you were trying to repair him. I could have been more of a help.;J'aurais aime savoir plus tot que vous le repariez. J'aurais pu aider.;J'aurais aimé savoir plus tôt que vous le répariez. J'aurais pu aider.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;29;0d5214d2fbe19d7b;Jack? I think he can hear me.;Jack? Je crois qu'il m'entend.;Jack ? Je crois qu'il m'entend.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;30;0e5214d2fbe19d7b;Neural scans showing minimal digital synapse activity...;Les scans montrent une activite synaptique numerique minimale...;Les scans montrent une activité synaptique numérique minimale...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;31;0f5214d2fbe19d7b;It's working. He's online.;Ca marche. Il est en ligne.;Ça marche. Il est en ligne.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;34;085314d2fbe19d7b;It seems to be growing more unstable.;Ca devient de plus en plus instable.;Ça devient de plus en plus instable.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;36;0a5314d2fbe19d7b;What the hell is this?;C'est quoi ce truc?;C'est quoi ce truc ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;37;0b5314d2fbe19d7b;Incoming, Jack!;Attention, Jack!;Attention, Jack !;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;39;0f5314d2fbe19d7b;Is that your way of saying you're going to miss me?;C'est ta facon de dire que je vais te manquer?;C'est ta façon de dire que je vais te manquer ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;40;065414d2fbe19d7b;The energy buildup is accelerating. We don't have much time.;L'energie monte vite. On n'a plus beaucoup de temps.;L'énergie monte vite. On n'a plus beaucoup de temps.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;41;075414d2fbe19d7b;Wait, you... you're saying if we jump we're going to time travel?;Attends... tu dis que si on saute, on va voyager dans le temps?;Attends... tu dis que si on saute, on va voyager dans le temps ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;42;085414d2fbe19d7b;Please Liv... don't do this.;Liv... ne fais pas ca.;Liv... ne fais pas ça.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;43;095414d2fbe19d7b;Clear!;Degage!;Dégage !;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;44;0a5414d2fbe19d7b;Jack! You're here? You're really here!;Jack! Tu es la? Tu es vraiment la!;Jack ! Tu es là ? Tu es vraiment là !;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;45;0b5414d2fbe19d7b;She's going into cardiac arrest.;Elle fait un arret cardiaque.;Elle fait un arrêt cardiaque.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;48;0e5414d2fbe19d7b;Mayday mayday. Kronos II is lost. Say again, my station has been compromised.;Mayday, mayday. Kronos II est perdu. Je repete, ma station est compromise.;Mayday, mayday. Kronos II est perdu. Je répète, ma station est compromise.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;49;0f5414d2fbe19d7b;I have no choice but to take my chances aboard the unknown vessel...;Je n'ai pas le choix. Je dois tenter ma chance a bord du vaisseau inconnu...;Je n'ai pas le choix. Je dois tenter ma chance à bord du vaisseau inconnu...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;51;075514d2fbe19d7b;My god... Incoming! Jack, cut the panel!;Mon Dieu... Attention! Jack, coupe le panneau!;Mon Dieu... Attention ! Jack, coupe le panneau !;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;52;085514d2fbe19d7b;What the hell is that?;C'est quoi ce truc?;C'est quoi ce truc ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;54;0a5514d2fbe19d7b;Why that name?;Pourquoi ce nom?;Pourquoi ce nom ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;55;0b5514d2fbe19d7b;I don't know. I guess you just remind me of a Jack.;J'ignore pourquoi. Tu as juste une tete de Jack.;J'ignore pourquoi. Tu as juste une tête de Jack.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;56;0c5514d2fbe19d7b;And what should I call you?;Et toi, je t'appelle comment?;Et toi, je t'appelle comment ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;57;0d5514d2fbe19d7b;"What about... ""Jack?""";"Et... ""Jack""?";"Et... ""Jack"" ?";APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;60;065614d2fbe19d7b;What about Jack? He still needs a lot of work.;Et Jack? Il reste encore beaucoup a faire.;Et Jack ? Il reste encore beaucoup à faire.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;62;085614d2fbe19d7b;But how long do we have to stay in quarantine?;Mais combien de temps doit durer la quarantaine?;Mais combien de temps doit durer la quarantaine ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;64;0a5614d2fbe19d7b;Jack!;Jack!;Jack !;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;66;0c5614d2fbe19d7b;Jack? What is it?;Jack? Qu'y a-t-il?;Jack ? Qu'y a-t-il ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;67;0d5614d2fbe19d7b;Something's wrong... I don't--;Il y a un probleme... Je ne--;Il y a un problème... Je ne--;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;68;0e5614d2fbe19d7b;Astrometric positioning would suggest we have arrived sometime in the mid twenty sixth century.;D'apres nos coordonnees, nous sommes au milieu du vingt-sixieme siecle.;D'après nos coordonnées, nous sommes au milieu du vingt-sixième siècle.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;69;0f5614d2fbe19d7b;We jumped forward four hundred years?;On a avance de quatre cents ans?;On a avancé de quatre cents ans ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;70;065714d2fbe19d7b;Where... are we?;Ou... sommes-nous?;Où... sommes-nous ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;71;075714d2fbe19d7b;Apollo, what is the current date?;Apollo, quelle est la date?;Apollo, quelle est la date ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;72;085714d2fbe19d7b;Here we go!;C'est parti!;C'est parti !;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;122;74;0b5714d2fbe19d7b;FTL engaged. Jumping in three... two...;FTL engagee. Saut dans trois... deux...;FTL engagée. Saut dans trois... deux...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+45;181;92;44c3333700032c90;After you.;Apres toi.;Après toi.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+45;198;123;6079ef5c4f378044;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+51;111;159;3c61cc50feaf7024;"""...will not allow me to do that."" Yeah, okay.";"""... ne me permet pas de faire cela."" Oui, bien sur.";"""... ne me permet pas de faire cela."" Oui, bien sûr.";APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+51;187;26;31003a0c702d36ee;Hello?;Allo?;Allo ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+51;187;32;0a32de77781b77f9;Hello?;Allo?;Allo ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+53;132;233;a605249f23e0d9ff;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+53;132;246;ab06249f23e0d9ff;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+53;132;388;a505269f23e0d9ff;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+53;164;170;01fb43e922f7473d;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;18;f76b90f032555003;I beg your pardon. I am a fully transient artificial intelligence matrix. I have been assigned as your caretaker.;Pardon? Je suis une matrice d'IA entierement mobile, assignee a votre surveillance.;Pardon ? Je suis une matrice d'IA entièrement mobile, assignée à votre surveillance.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;56;f96b91f032555003;Liv, who is this hologram?;Liv, qui est cet hologramme?;Liv, qui est cet hologramme ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;57;fa6b91f032555003;That's the fourth one just this morning. What the hell's going on out there?;C'est le quatrieme ce matin. Qu'est-ce qui se passe la-dehors?;C'est le quatrième ce matin. Qu'est-ce qui se passe là-dehors ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;58;fb6b91f032555003;No, of course not. Power loss on a space station? Nothing troubling there at all.;Bien sur que non. Une panne sur une station spatiale? Rien d'inquietant.;Bien sûr que non. Une panne sur une station spatiale ? Rien d'inquiétant.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;59;fe6b91f032555003;There you go.;Et voila.;Et voilà.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;60;ff6b91f032555003;Still plenty left to do yet. Now off you go. Let us know when the next drone arrives.;Il reste encore du travail. Allez-y. Prevenez-nous quand le prochain drone arrive.;Il reste encore du travail. Allez-y. Prévenez-nous quand le prochain drone arrive.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;61;f66c91f032555003;That's one word for it.;On peut dire ca.;On peut dire ça.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;62;f76c91f032555003;Now Captain, let's not start that again.;Capitaine, ne recommencons pas.;Capitaine, ne recommençons pas.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;63;f86c91f032555003;She's been tasked with watching over us.;Elle est chargee de veiller sur nous.;Elle est chargée de veiller sur nous.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;65;fa6c91f032555003;This is Juno, by the way. She's an AI, like you. Only more irritating.;Au fait, voici Juno. Une IA comme toi, mais plus agacante.;Au fait, voici Juno. Une IA comme toi, mais plus agaçante.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;66;fb6c91f032555003;Hello!;Bonjour!;Bonjour !;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;67;ff6c91f032555003;Well now, welcome back to the real world. Everything checks out. You're all set.;Bon retour dans le monde reel. Tout est en ordre. Tu es pret.;Bon retour dans le monde réel. Tout est en ordre. Tu es prêt.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;68;f66d91f032555003;I beg your pardon. I am a fully transient artificial intelligence matrix. I have been assigned as your caretaker.;Pardon? Je suis une matrice d'IA entierement mobile, assignee a votre surveillance.;Pardon ? Je suis une matrice d'IA entièrement mobile, assignée à votre surveillance.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;69;f76d91f032555003;That's Juno. She's an A.I. Like you. Only more irritating.;C'est Juno. Une IA comme toi, mais plus agacante.;C'est Juno. Une IA comme toi, mais plus agaçante.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;70;f86d91f032555003;"""...will not allow me to do that."" Yeah, okay.";"""... ne me permet pas de faire cela."" Oui, bien sur.";"""... ne me permet pas de faire cela."" Oui, bien sûr.";APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;73;fc6d91f032555003;Prison guard, more like.;Geoliere, plutot.;Geôlière, plutôt.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;74;fd6d91f032555003;Captain, please, as I have explained numerous times, you and your companion are not prisoners.;Capitaine, je vous l'ai deja explique: vous et votre compagnon n'etes pas prisonniers.;Capitaine, je vous l'ai déjà expliqué : vous et votre compagnon n'êtes pas prisonniers.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;75;fe6d91f032555003;Who are you?;Qui etes-vous?;Qui êtes-vous ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;76;ff6d91f032555003;I am Juno. An all-purpose, transient Artificial Intelligence. I have been assigned as your caretaker.;Je suis Juno, une IA mobile polyvalente. Je suis chargee de veiller sur vous.;Je suis Juno, une IA mobile polyvalente. Je suis chargée de veiller sur vous.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;77;fd6e91f032555003;Give it some time. Might still be a few kinks to work out.;Laisse-lui un peu de temps. Il reste peut-etre quelques reglages.;Laisse-lui un peu de temps. Il reste peut-être quelques réglages.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;80;f76692f032555003;What was that?;C'etait quoi?;C'était quoi ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;82;f96692f032555003;Well we're all just going to have to learn to live with your disappointment.;Il va falloir apprendre a vivre avec votre deception.;Il va falloir apprendre à vivre avec votre déception.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;83;f66792f032555003;I'm... a little stiff. You may have left out a part or two.;Je suis... un peu raide. Tu as peut-etre oublie une piece ou deux.;Je suis... un peu raide. Tu as peut-être oublié une pièce ou deux.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;84;f76792f032555003;Wait, really? Can you tell me which ones? I'll try and--;Attends, vraiment? Lesquelles? Je vais essayer de--;Attends, vraiment ? Lesquelles ? Je vais essayer de--;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;85;f86792f032555003;It's all right, Jack. I'm just giving you a hard time.;Ca va, Jack. Je te taquine.;Ça va, Jack. Je te taquine.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;86;fa6792f032555003;There you go, Jack. Come on out.;Voila, Jack. Allez, sors de la.;Voilà, Jack. Allez, sors de là.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;87;fb6792f032555003;Oh. No... I'm sorry. I didn't mean to--;Oh. Non... desolee. Je ne voulais pas--;Oh. Non... désolée. Je ne voulais pas--;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;88;fc6792f032555003;I assure you, Captain, it's nothing to be concerned about.;Je vous assure, Capitaine, il n'y a aucune raison de s'inquieter.;Je vous assure, Capitaine, il n'y a aucune raison de s'inquiéter.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;89;fd6792f032555003;No, you're right. Electrical problems on a space station? Nothing to worry about there at all.;Oui, bien sur. Des problemes electriques sur une station spatiale? Rien d'inquietant.;Oui, bien sûr. Des problèmes électriques sur une station spatiale ? Rien d'inquiétant.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;90;fe6792f032555003;Just a minor power fluctuation. Not to worry.;Une petite baisse de courant. Rien d'inquietant.;Une petite baisse de courant. Rien d'inquiétant.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;91;ff6792f032555003;That makes three in the past hour. What's going on out there?;Ca fait trois en une heure. Qu'est-ce qui se passe la-dehors?;Ça fait trois en une heure. Qu'est-ce qui se passe là-dehors ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;92;fc6897f032555003;I'd say it's high time we got you out of there.;Il est grand temps de te sortir de la.;Il est grand temps de te sortir de là.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;95;f66a97f032555003;I could possibly do with some catching up, yes.;Oui, j'aurais bien besoin d'une mise a jour.;Oui, j'aurais bien besoin d'une mise à jour.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;96;f76a97f032555003;You bet. Ask me whatever you like.;Bien sur. Demande-moi ce que tu veux.;Bien sûr. Demande-moi ce que tu veux.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;97;f86a97f032555003;There we are. Come on out.;Et voila. Allez, sors de la.;Et voilà. Allez, sors de là.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;100;fb6a97f032555003;Mind your head.;Baisse la tete.;Baisse la tête.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;101;fc6a97f032555003;This is Juno, by the way. She's an A.I., like you. Except, you know, irritating.;Au fait, voici Juno. Une IA comme toi, mais agacante.;Au fait, voici Juno. Une IA comme toi, mais agaçante.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;104;ff6a97f032555003;Jack. Yes, of course. I meant no offense. You may call me Juno. I am a fully transient Artificial Intelligence. I've been assigned as your caretaker.;Jack. Bien sur. Sans vouloir vous offenser. Appelez-moi Juno. Je suis une IA mobile chargee de veiller sur vous.;Jack. Bien sûr. Sans vouloir vous offenser. Appelez-moi Juno. Je suis une IA mobile chargée de veiller sur vous.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;106;f76b97f032555003;Well go on then. It's time we got him out of there.;Allez. Il est temps de le sortir de la.;Allez. Il est temps de le sortir de là.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;109;fa6b97f032555003;Just give us a shout when you're ready to go.;Dis-nous quand tu es pret.;Dis-nous quand tu es prêt.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;110;fb6b97f032555003;Whenever you're ready, just say the word.;Quand tu es pret, dis-le.;Quand tu es prêt, dis-le.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;112;fd6b97f032555003;It'll give me a chance to spot check your diagnostics.;Ca me laisse le temps de verifier tes diagnostics.;Ça me laisse le temps de vérifier tes diagnostics.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;113;fe6b97f032555003;I could use a moment if that's alright.;J'aurais besoin d'un instant, si ca va.;J'aurais besoin d'un instant, si ça va.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;114;ff6b97f032555003;By all means. Take all the time you need.;Bien sur. Prends tout le temps qu'il te faut.;Bien sûr. Prends tout le temps qu'il te faut.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;116;fc6c97f032555003;Android? He has a name you know... and he's right here.;Androide? Il a un nom, tu sais... et il est juste la.;Androide ? Il a un nom, tu sais... et il est juste là.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;117;f66d97f032555003;I'll just be monitoring your systems...;Je vais simplement surveiller tes systemes...;Je vais simplement surveiller tes systèmes...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;120;fe6d97f032555003;After you.;Apres toi.;Après toi.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;123;fd6e97f032555003;What is your purpose Juno?;Quel est ton role, Juno?;Quel est ton rôle, Juno ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;127;ad032fb2fffc460f;Oh, hi. You okay Jack?;Oh, salut. Ca va, Jack?;Oh, salut. Ça va, Jack ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;128;fd5825bfabf5490f;Forgive me, but... who are you?;Pardon, mais... qui etes-vous?;Pardon, mais... qui êtes-vous ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;133;ab5e27e1fcab495b;Everything all right?;Tout va bien?;Tout va bien ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+53;203;134;f85927b1f2ac405d;How does that feel?;Ca te fait quoi?;Ça te fait quoi ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+58;81;220;0e5fab426e3cfcf2;What was that?;C'etait quoi?;C'était quoi ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+58;81;258;5d5afa126c68f4f5;That won't be necessary.;Ce ne sera pas necessaire.;Ce ne sera pas nécessaire.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+58;105;20;fa4a9ed0ab13548f;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+58;105;26;fd4ec6d3fc4257d3;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+58;117;0;8215e747d9d59784;PRIMARY BOOSTERS;PROPULSEURS PRINCIPAUX;Propulseurs principaux;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;117;1;4687e39a9eb3d68f;MANEUVERING THRUSTERS;PROPULSEURS DE MANOEUVRE;Propulseurs de manoeuvre;GLYPH_SAFE_REVISED;LEVEL_TITLE_CASE_AND_FIT
+58;117;2;9a93583b1afcfba7;MODULE M-116;MODULE M-116;Module M-116;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;117;3;56b775650aa24ca8;MANUAL DEXTERITY;DEXTÉRITÉ MANUELLE;Dextérité manuelle;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;117;4;c08b36cb304a1bac;BASIC MOTOR FUNCTIONS;FONCTIONS MOTRICES DE BASE;Motricité de base;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;117;5;a8e0544cab0585c0;MODULE M-201;MODULE M-201;Module M-201;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;117;6;4ab9bd88d9432edb;MODULE M-101;MODULE M-101;Module M-101;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;117;7;b066eb30682ce9e3;BRAKING THRUSTERS;PROPULSEURS DE FREINAGE;Rétropropulseurs;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;117;8;7c42c66e78725eec;MODULE D-221;MODULE D-221;Module D-221;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;117;9;acf1c96bcf5c1d21;MODULE C-111;MODULE C-111;Module C-111;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;117;10;0ccd00cc01029d2b;DATA INTERFACES;INTERFACES DE DONNÉES;Interfaces de données;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;117;11;26c3422826552856;COMMUNICATIONS;COMMUNICATIONS;Communications;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;117;12;86ff8b8fe80ba85c;MODULE J-101;MODULE J-101;Module J-101;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;117;13;30745824ed92af62;MODULE M-205;MODULE M-205;Module M-205;TRANSLATED_PRODUCTION;LEVEL_TITLE_CASE_AND_FIT
+58;121;218;a7cadfe5096f3772;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+58;166;18;478ba053c8221560;There you go.;Et voila.;Et voilà.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+73;171;27;cceffc9e6235b026;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+79;98;6;b46eb9fc28d0c642;Whenever you're ready, just say the word.;Quand tu es pret, dis-le.;Quand tu es prêt, dis-le.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+80;69;7;088d81cac13244bf;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+80;69;369;00d8cc34941ce857;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+80;73;156;e904bd07bf82e92c;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+80;148;161;81db2c61f515f3c7;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+80;163;678;5903475b1dc90255;"""...will not allow me to do that."" Yeah, okay.";"""... ne me permet pas de faire cela."" Oui, bien sur.";"""... ne me permet pas de faire cela."" Oui, bien sûr.";APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+90;194;10;a503ee697bcac4ff;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+90;201;259;cd175bb3dc1b1e07;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;58;9;7fe5cb7a3ac45ea0;Yes, of course.;Oui, bien sur.;Oui, bien sûr.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;58;123;a39b5c7faf44025d;Yes, of course.;Oui, bien sur.;Oui, bien sûr.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;75;161;02aeec8b426c9850;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;75;163;0daee28a146d9a50;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;75;177;08f9ecdf416d9851;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;75;201;5faeedd0136cca58;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;75;202;08f8eeda133fcb58;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;75;265;03a9b88e416b9a5d;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;75;274;5faeba89423ec15d;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;75;277;5cffbedf473dc95d;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;120;177;d7b54dba0f19d0a4;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;141;100;e84b1b41801dbaa2;Hello?;Allo?;Allo ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;141;154;ed4c1d41801dbaa2;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+95;141;162;e24752d6d14eb9c5;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+104;42;6;d3239156282fbb45;There you go.;Et voila.;Et voilà.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+123;70;4;8a80fca868e59fe2;That won't be necessary.;Ce ne sera pas necessaire.;Ce ne sera pas nécessaire.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;0;53ffb720071b68a0;Welcome back sunshine.;Te revoila, mon soleil.;Te revoilà, mon soleil.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;1;50f4e12257193da1;Fifth memory. Liv is on board the rescue ship. Liv struggles to keep Jack 'alive' and asks the rescue pilot for help. It is revealed that the rescue pilot is an AI named JUNO and can't physically help Liv.;Cinquieme souvenir. Liv est a bord du vaisseau de secours. Elle tente de maintenir Jack en vie et demande de l'aide au pilote, une IA nommee Juno.;Cinquième souvenir. Liv est à bord du vaisseau de secours. Elle tente de maintenir Jack en vie et demande de l'aide au pilote, une IA nommée Juno.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;2;50f8e12257193da1;First memory is of Olivia Rhodes interacting with Jack. We learn they are good friends.;Premier souvenir: Olivia Rhodes parle avec Jack. Ils semblent tres proches.;Premier souvenir : Olivia Rhodes parle avec Jack. Ils semblent très proches.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;3;50f9e12257193da1;Second memory. We see an Anomaly form and we hear Liv remark about it.;Deuxieme souvenir: une anomalie se forme et Liv la remarque.;Deuxième souvenir : une anomalie se forme et Liv la remarque.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;4;50fae12257193da1;Third memory. We see a person stuck in the bio threat onboard the Astraea. We then see Jack's hand touching the bio threat it begining to kill him.;Troisieme souvenir: une personne est prise dans la biomasse de l'Astraea. Jack la touche et commence a mourir.;Troisième souvenir : une personne est prise dans la biomasse de l'Astraea. Jack la touche et commence à mourir.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;5;50fbe12257193da1;Fourth memory. We see Liv and Apollo on board the Astraea as they jump 400 years into the future.;Quatrieme souvenir: Liv et Apollo sont sur l'Astraea lors du saut de quatre cents ans.;Quatrième souvenir : Liv et Apollo sont sur l'Astraea lors du saut de quatre cents ans.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;6;50f9e22257193da1;Shall I run the calibration now?;Je lance la calibration?;Je lance la calibration ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;8;50fee22257193da1;Sorry Juno. He's not interested.;Desolee, Juno. Ca ne l'interesse pas.;Désolée, Juno. Ça ne l'intéresse pas.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;10;50fae32257193da1;I just spent the past three months patching him up. You think I made a mistake?;Je viens de passer trois mois a le reparer. Tu crois que j'ai fait une erreur?;Je viens de passer trois mois à le réparer. Tu crois que j'ai fait une erreur ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;11;50fee72257193da1;As the game starts up inside the construct of Jack's software he begins witnessing memories of what has recently transpired.;Dans son environnement logiciel, Jack revoit des souvenirs recents.;Dans son environnement logiciel, Jack revoit des souvenirs récents.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;13;50faec2257193da1;How about we ask him.;Et si on lui demandait?;Et si on lui demandait ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;14;50f4ed2257193da1;There. There, you see?;La. Tu vois?;Là. Tu vois ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;15;50f9ed2257193da1;I wish you had told me much sooner that you were trying to repair him. I could have been more of a help.;J'aurais aime savoir plus tot que vous le repariez. J'aurais pu aider.;J'aurais aimé savoir plus tôt que vous le répariez. J'aurais pu aider.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;17;50fbed2257193da1;Come on Jack... wake up...;Allez, Jack... reveille-toi...;Allez, Jack... réveille-toi...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;19;50feed2257193da1;It's working. He's online.;Ca marche. Il est en ligne.;Ça marche. Il est en ligne.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;21;50f4e02d57193da1;Jack?;Jack?;Jack ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;22;50f5e02d57193da1;Hold on. I can fix this. I just need to run your calibration program.;Attends. Je peux arranger ca. Il faut juste lancer ta calibration.;Attends. Je peux arranger ça. Il faut juste lancer ta calibration.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;23;50f8e02d57193da1;Welcome back to the real world.;Bon retour dans le monde reel.;Bon retour dans le monde réel.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;25;50ffe02d57193da1;Now here's a sight for sore eyes.;Ah, ca fait plaisir a voir.;Ah, ça fait plaisir à voir.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;26;50f4e12d57193da1;Yeah, time-traveling four hundred years into the future will do that to you.;Oui, un saut de quatre cents ans dans le futur, ca laisse des traces.;Oui, un saut de quatre cents ans dans le futur, ça laisse des traces.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;27;50f5e12d57193da1;Are you certain he's fully functional?;Il fonctionne vraiment?;Il fonctionne vraiment ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;28;50f8e12d57193da1;Jack? I think he can hear me.;Jack? Je crois qu'il m'entend.;Jack ? Je crois qu'il m'entend.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;29;50f9e12d57193da1;His digital cortex is showing minimal synapse activity...;Son cortex numerique montre tres peu d'activite synaptique...;Son cortex numérique montre très peu d'activité synaptique...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;30;50fae12d57193da1;I wish you had told me sooner that you were trying to repair him. I might have been more of a help.;J'aurais aime savoir plus tot que vous le repariez. J'aurais pu aider.;J'aurais aimé savoir plus tôt que vous le répariez. J'aurais pu aider.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;31;50fbe12d57193da1;The unit appears disoriented.;L'unite semble desorientee.;L'unité semble désorientée.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;32;50ffe12d57193da1;Yes, of course.;Oui, bien sur.;Oui, bien sûr.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;34;50f9e22d57193da1;I'm sure all this must seem a bit strange.;Tout ca doit te sembler un peu etrange.;Tout ça doit te sembler un peu étrange.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;35;50fae22d57193da1;Probably because it is. Don't worry. We'll get you sorted. Just sit tight. I'll be right here when you get back.;C'est normal. Ne t'inquiete pas, on va s'occuper de toi. Je serai la a ton retour.;C'est normal. Ne t'inquiète pas, on va s'occuper de toi. Je serai là à ton retour.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;37;50fde22d57193da1;It's all right, Jack. Just need to put you through your paces a bit. Sit tight. I'll be right here when you get back.;Tout va bien, Jack. On va juste faire quelques tests. Je serai la a ton retour.;Tout va bien, Jack. On va juste faire quelques tests. Je serai là à ton retour.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;38;50fee22d57193da1;I don't doubt it. You've been out of commission ever since our little time jump on the Astraea.;Ca ne m'etonne pas. Tu es hors service depuis notre petit saut temporel sur l'Astraea.;Ça ne m'étonne pas. Tu es hors service depuis notre petit saut temporel sur l'Astraea.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;40;50f4e42d57193da1;So glad you agree, Echo One. You're much more intelligent than I expected.;Ca me rassure qu'on soit d'accord, Echo One. Tu es plus malin que prevu.;Ça me rassure qu'on soit d'accord, Echo One. Tu es plus malin que prévu.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;41;50f5e42d57193da1;... Thank you?;... Merci?;... Merci ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;42;50f8e42d57193da1;I don't doubt it. You've been out of commission for some time.;Ca ne m'etonne pas. Tu es hors service depuis un moment.;Ça ne m'étonne pas. Tu es hors service depuis un moment.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;43;50f9e42d57193da1;Maybe we should run through his calibration program...;On devrait peut-etre lancer sa calibration...;On devrait peut-être lancer sa calibration...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;45;50fbe42d57193da1;What do you think, Jack? You want run your calibration program?;Alors, Jack? Tu veux lancer ta calibration?;Alors, Jack ? Tu veux lancer ta calibration ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;49;50f8e52d57193da1;An android willing to blatantly disregard protocol. I wonder where he learned that.;Un androide qui ignore le protocole... Je me demande ou il a appris ca.;Un androide qui ignore le protocole... Je me demande où il a appris ça.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;50;50f9e52d57193da1;It's a mystery.;Mystere.;Mystère.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;54;50fde52d57193da1;See you soon, Echo One.;A bientot, Echo One.;À bientôt, Echo One.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;55;50fee52d57193da1;Always so thorough.;Toujours aussi precis.;Toujours aussi précis.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;56;50ffe52d57193da1;Sit tight. This shouldn't take long.;Patiente. Ca ne devrait pas etre long.;Patiente. Ça ne devrait pas être long.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;57;50f5e62d57193da1;The unit appears disoriented. Are you sure he's fully functional?;L'unite semble desorientee. Il fonctionne vraiment?;L'unité semble désorientée. Il fonctionne vraiment ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;60;50fce72d57193da1;Jack? Okay... don't worry. I can fix this.;Jack? Ca va... je peux arranger ca.;Jack ? Ça va... je peux arranger ça.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;61;50fde72d57193da1;Jack...?;Jack...?;Jack... ?;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;62;50fee72d57193da1;Okay... okay, hang on. I can fix this. Don't worry.;D'accord... attends. Je peux arranger ca.;D'accord... attends. Je peux arranger ça.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;63;50ffe72d57193da1;Neural scans showing minimal digital synapse activity...;Les scans montrent une activite synaptique numerique minimale...;Les scans montrent une activité synaptique numérique minimale...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;64;52afb573514d3ea4;That won't be necessary.;Ce ne sera pas necessaire.;Ce ne sera pas nécessaire.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;65;06a9e42052183ca5;I should be able to repurpose his existing calibration modules to suit our current needs.;Je peux adapter ses modules de calibration a nos besoins.;Je peux adapter ses modules de calibration à nos besoins.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;66;55afb12553433da5;Now here's a sight for sore eyes. Good morning sunshine. How're we feeli-;Ah, ca fait plaisir a voir. Bonjour, mon rayon de soleil. Alors, comment tu te...;Ah, ça fait plaisir à voir. Bonjour, mon rayon de soleil. Alors, comment tu te...;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;67;07f5b626504e69a5;I should be able to repurpose your existing calibration modules to suit our current needs.;Je peux adapter tes modules de calibration a nos besoins.;Je peux adapter tes modules de calibration à nos besoins.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;68;57ffe570564860aa;Right... okay. I can fix this.;Bon... je peux arranger ca.;Bon... je peux arranger ça.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;69;57aab12650186ef0;I should be able to repurpose your existing calibration modules to suit our current needs.;Je peux adapter tes modules de calibration a nos besoins.;Je peux adapter tes modules de calibration à nos besoins.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;70;04aeb67356196cf1;I should be able to repurpose his existing calibration modules to suit our current needs.;Je peux adapter ses modules de calibration a nos besoins.;Je peux adapter ses modules de calibration à nos besoins.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;71;06fcec71051e3bf6;I should be able to repurpose your existing calibration modules to suit our current needs.;Je peux adapter tes modules de calibration a nos besoins.;Je peux adapter tes modules de calibration à nos besoins.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;37;72;00fbec2753196ff7;I should be able to repurpose his existing calibration modules to suit our current needs.;Je peux adapter ses modules de calibration a nos besoins.;Je peux adapter ses modules de calibration à nos besoins.;APPROVED;LEGACY_APPROVED_TYPOGRAPHY
+127;123;9;7a3076fc2104a480;Jack...?;Jack...?;Jack... ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+127;123;105;7d3123f87104f182;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+127;123;111;2a6571ab7f51f482;Jack...?;Jack...?;Jack... ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+127;123;203;2d6327ac745da085;Jack...?;Jack...?;Jack... ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+127;123;339;7c3e72f47007a788;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+127;123;417;7c3020f87457a3d0;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+127;123;434;7d3625fa2503f1d0;Jack...?;Jack...?;Jack... ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+127;123;460;7a602ea82601a4d2;Jack...?;Jack...?;Jack... ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+127;123;466;7e302ffa775da5d2;Jack...?;Jack...?;Jack... ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+130;101;137;168ef2512e446328;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+130;160;49;dc08440cd8892eae;I wish you had told me much sooner that you were trying to repair him. I could have been more of a help.;J'aurais aime savoir plus tot que vous le repariez. J'aurais pu aider.;J'aurais aimé savoir plus tôt que vous le répariez. J'aurais pu aider.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+130;160;51;de08440cd8892eae;Come on Jack... wake up...;Allez, Jack... reveille-toi...;Allez, Jack... réveille-toi...;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+130;160;54;d509440cd8892eae;Jack? I think he can hear me.;Jack? Je crois qu'il m'entend.;Jack ? Je crois qu'il m'entend.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+130;160;57;da09440cd8892eae;Neural scans showing minimal digital synapse activity...;Les scans montrent une activite synaptique numerique minimale...;Les scans montrent une activité synaptique numérique minimale...;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+130;160;58;db09440cd8892eae;It's working. He's online.;Ca marche. Il est en ligne.;Ça marche. Il est en ligne.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+130;160;1065;af9676f5333bec0f;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+134;38;131;fd7b32e9c7ff1960;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+134;95;75;445a550367be3923;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+134;95;84;4f5a550367be3923;Yes, of course.;Oui, bien sur.;Oui, bien sûr.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+134;96;38;206db4a0cd1fb381;Whenever you're ready, just say the word.;Quand tu es pret, dis-le.;Quand tu es prêt, dis-le.;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+134;151;31;bc43d47b5c2d9f9c;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+134;151;91;cbc6e8d68840f974;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+134;153;161;b88d31cced6c173a;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+134;153;257;b68335cced6c173a;What was that?;C'etait quoi?;C'était quoi ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+134;153;271;b98935cced6c173a;Jack?;Jack?;Jack ?;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY
+147;182;65;a5e5b4da7a754c66;Jack!;Jack!;Jack !;APPROVED_PROPAGATED;LEGACY_APPROVED_TYPOGRAPHY

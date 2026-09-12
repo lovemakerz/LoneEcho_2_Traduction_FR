@@ -1,0 +1,8 @@
+LIBRARY ADVAPI32.dll
+EXPORTS
+ RegOpenKeyExW
+ RegEnumKeyExW
+ RegQueryValueExW
+ RegCloseKey
+ OpenProcessToken
+ GetTokenInformation
