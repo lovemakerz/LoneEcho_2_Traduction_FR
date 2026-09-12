@@ -9,6 +9,8 @@ La traduction couvre les **dialogues, sous-titres, interfaces, objectifs, descri
 > **42 180 entrées traduites sur 42 180 identifiées.**  
 > Ce chiffre couvre l’ensemble des entrées identifiées, mais ne garantit pas que chaque variante ait pu être vérifiée en jeu.
 
+![](assets/ui_skin_reference.png)
+
 ## Installation
 
 Le téléchargement comprend un **installateur portable** spécialement conçu pour le patch. Il ne s’installe pas dans Windows et ne crée pas de programme permanent sur votre système.
