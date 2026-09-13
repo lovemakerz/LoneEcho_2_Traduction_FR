@@ -11,7 +11,7 @@ La traduction couvre les **dialogues, sous-titres, interfaces, objectifs, descri
 
 ![](assets/ui_skin_reference.png)
 
-## Installation
+## Installation auto
 
 Le téléchargement comprend un **installateur portable** spécialement conçu pour le patch. Il ne s’installe pas dans Windows et ne crée pas de programme permanent sur votre système.
 
@@ -25,6 +25,12 @@ Avant toute modification, les fichiers nécessaires sont sauvegardés afin de pe
 | --- | --- |
 | **Installer la traduction** | Installe les fichiers français dans Lone Echo II. |
 | **Désinstaller la traduction** | Restaure les fichiers anglais d’origine sauvegardés lors de l’installation. |
+
+## Installation Manuelle
+
+Une installation manuelle est disponible et utilise Xdelta, spécialement conçu pour la plateforme NexusMods, qui refuse tout hébergement de fichiers exécutables (.exe, .bat, .cmd, .ps1, etc.).
+Veuillez suivre le guide directement sur cette plateforme. (La version manuelle est disponible ici même ainsi que sur NexusMods.)
+https://www.nexusmods.com/loneecho2/mods/4
 
 ## Qualité de la traduction
 
