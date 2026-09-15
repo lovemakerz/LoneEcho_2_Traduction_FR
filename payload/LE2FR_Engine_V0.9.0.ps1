@@ -900,7 +900,7 @@ function Ensure-CleanScriptsBase($Resolved,[object[]]$Plan) {
 
 function Build-ScriptDlls([string]$SourceRoot,[object[]]$Plan,[string]$OutputRoot) {
     $patch=[IO.File]::ReadAllBytes($ScriptPatchDataPath)
-    if((Get-ShaBytes $patch) -ne '1575d175d8fd10315cfcf16925865af4b2a05037e336036314c9c6df7f6556c5') {
+    if((Get-ShaBytes $patch) -ne 'c0297d7b7f0b1a735367fe153d5184533686329f4cbeafc7ba18abeb7ab5a769') {
         throw 'Empreinte des donnees de patch SCRIPT_DLL incorrecte.'
     }
     New-Item -ItemType Directory -Path $OutputRoot -Force | Out-Null

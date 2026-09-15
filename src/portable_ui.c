@@ -254,11 +254,19 @@ extern unsigned char _binary_skin_bgra_start[];
 #define BASE_W 1200
 #define BASE_H 651
 #define SKIN_BYTES (BASE_W*BASE_H*4)
-#define APP_VERSION L"V0.9.0"
-#define ENGINE_NAME L"LE2FR_Engine_V0.9.0.ps1"
+#define APP_VERSION L"v1.2.0"
+#define ENGINE_BASE L"LE2FR_Engine_V0.9.0.ps1"
+#define ENGINE_CAL L"LE2FR_Correctif_Calibration_NON_V0.9.0_R1_Engine.exe"
+#define ENGINE_RES L"LE2FR_Correctif_ResidusFinaux_V0.9.0_R2_Engine.exe"
+#define ENGINE_READY L"LE2FR_ReadyFix_V0.9.0_R4_Engine.exe"
+#define BACKUP_CAL_REL L"LE2_FR_Backup_CALIBRATION_NON_R1"
+#define BACKUP_RES_REL L"LE2_FR_V090_RESIDUS_FINAUX_R1_BACKUP"
+#define BACKUP_READY_REL L"LE2_FR_READY_V090_R4_BACKUP"
 #define GAME_MANIFEST_REL L"_data\\5932408047\\rad16\\win10\\manifests\\ff715342fa4b2d8f"
 #define GAME_PACKAGE_REL L"_data\\5932408047\\rad16\\win10\\packages\\ff715342fa4b2d8f_0"
 #define GAME_SCRIPTS_REL L"bin\\win10\\scripts"
+#define GAME_V090_STATE_REL L"LE2_FR_V0.9.0_STATE.txt"
+#define TYPO_DLL_REL L"bin\\win10\\scripts\\0b5f1fcaa265a681.dll"
 
 static HWND gHwnd=NULL;
 static WCHAR gExePath[32768];
@@ -268,7 +276,7 @@ static WCHAR gFailureReport[32768];
 static WCHAR gModalTitle[256];
 static WCHAR gModalBody[4096];
 static int gClientW=BASE_W,gClientH=BASE_H;
-static int gGameValid=0,gTranslationPresent=0,gBusy=0,gOperation=0,gHover=0,gModal=0,gAnim=0;
+static int gGameValid=0,gTranslationPresent=0,gFinalActive=0,gV090Base=0,gCalActive=0,gResActive=0,gReadyActive=0,gTyposActive=0,gBusy=0,gOperation=0,gHover=0,gModal=0,gAnim=0,gStage=0;
 static DWORD gLastCode=0;
 static HCURSOR gArrow=NULL,gHand=NULL;
 
@@ -277,7 +285,7 @@ static void wcopy(LPWSTR d,ULONG_PTR cap,LPCWSTR s){ULONG_PTR i=0;if(!cap)return
 static void wcat(LPWSTR d,ULONG_PTR cap,LPCWSTR s){ULONG_PTR i=wlen(d),j=0;while(s&&s[j]&&i+1<cap)d[i++]=s[j++];d[i]=0;}
 static int weq(LPCWSTR a,LPCWSTR b){ULONG_PTR i=0;if(!a||!b)return 0;while(a[i]&&b[i]){WCHAR x=a[i],y=b[i];if(x>='A'&&x<='Z')x+=32;if(y>='A'&&y<='Z')y+=32;if(x!=y)return 0;i++;}return a[i]==0&&b[i]==0;}
 static int wpref(LPCWSTR s,LPCWSTR p){ULONG_PTR i=0;if(!s||!p)return 0;while(p[i]){if(s[i]!=p[i])return 0;i++;}return 1;}
-static int wcontains(LPCWSTR s,LPCWSTR q){ULONG_PTR i,j,n=wlen(s),m=wlen(q);if(!m)return 1;for(i=0;i+m<=n;i++){for(j=0;j<m&&s[i+j]==q[j];j++);if(j==m)return 1;}return 0;}
+static int wcontains(LPCWSTR s,LPCWSTR q){ULONG_PTR i,j,n=wlen(s),m=wlen(q);if(!m)return 1;for(i=0;i+m<=n;i++){for(j=0;j<m&&s[i+j]==q[j];j++){/* compare */}if(j==m)return 1;}return 0;}
 static void uint_to_w(DWORD v,LPWSTR out,ULONG_PTR cap){WCHAR t[16];int n=0;if(v==0){wcopy(out,cap,L"0");return;}while(v&&n<15){t[n++]=(WCHAR)(L'0'+v%10);v/=10;}int k=0;while(n&&k+1<(int)cap)out[k++]=t[--n];out[k]=0;}
 static COLORREF RGBc(BYTE r,BYTE g,BYTE b){return (COLORREF)(r | ((DWORD)g<<8) | ((DWORD)b<<16));}
 static int Sx(int v){return (int)(((LONGLONG)v*gClientW)/BASE_W);} static int Sy(int v){return (int)(((LONGLONG)v*gClientH)/BASE_H);}
@@ -318,11 +326,32 @@ static int DetectGame(LPWSTR out,ULONG_PTR cap){
     DWORD n=GetEnvironmentVariableW(L"ProgramFiles",pf,32768);if(!n)wcopy(pf,32768,L"C:\\Program Files");JoinPath(root,32768,pf,L"Oculus\\Software\\Software");if(FindGameUnderSoftwareRoot(root,out,cap))return 1;
     if(FindGameUnderSoftwareRoot(L"C:\\Program Files\\Oculus\\Software\\Software",out,cap))return 1;return 0;
 }
-static int FindTranslationState(LPCWSTR game,LPWSTR ver,ULONG_PTR cap){
-    WCHAR pat[32768];WIN32_FIND_DATAW fd;HANDLE h;int found=0;ver[0]=0;JoinPath(pat,32768,game,L"LE2_FR_V*_STATE.txt");h=FindFirstFileW(pat,&fd);if(h==INVALID_HANDLE_VALUE)return 0;
-    do{if(!(fd.dwFileAttributes&FILE_ATTRIBUTE_DIRECTORY)&&wpref(fd.cFileName,L"LE2_FR_V")&&wcontains(fd.cFileName,L"_STATE.txt")){LPCWSTR s=fd.cFileName+7;ULONG_PTR i=0;while(s[i]&&!(s[i]==L'_'&&wpref(s+i,L"_STATE.txt"))&&i+1<cap){ver[i]=s[i];i++;}ver[i]=0;found=1;if(weq(ver,L"V0.9.0"))break;}}while(FindNextFileW(h,&fd));FindClose(h);return found;
+static int ReadExact(HANDLE h,void* dst,DWORD n);
+static int SeekAbs(HANDLE h,ULONGLONG off);
+static int BackupDirPresent(LPCWSTR game,LPCWSTR rel){WCHAR p[32768];JoinPath(p,32768,game,rel);return DirExists(p);}
+static int CheckBytesAt(LPCWSTR path,ULONGLONG off,const BYTE* expected,DWORD n){HANDLE h=CreateFileW(path,GENERIC_READ,FILE_SHARE_READ,NULL,OPEN_EXISTING,FILE_ATTRIBUTE_NORMAL,NULL);BYTE buf[64];int ok=0;if(h==INVALID_HANDLE_VALUE||n>sizeof(buf))goto done;if(!SeekAbs(h,off)||!ReadExact(h,buf,n))goto done;ok=(memcmp(buf,expected,n)==0);done:if(h!=INVALID_HANDLE_VALUE)CloseHandle(h);return ok;}
+static int CheckFinalTypos(LPCWSTR game){
+    static const BYTE a[]={'I','n','c','r','o','y','a','b','l','e',' ','?',0};
+    static const BYTE b[]={0xC3,0x80,' ','l','a',' ','b','o','n','n','e',' ',0xC3,0xA9,'p','o','q','u','e',' ','?',0};
+    WCHAR p[32768];JoinPath(p,32768,game,TYPO_DLL_REL);
+    if(!FileExists(p))return 0;
+    return CheckBytesAt(p,0x1D640,a,(DWORD)sizeof(a))&&CheckBytesAt(p,0x1D678,b,(DWORD)sizeof(b));
 }
-static void RefreshState(void){gGameValid=ValidateGameRoot(gGamePath);gTranslationPresent=0;gDetectedVersion[0]=0;if(gGameValid)gTranslationPresent=FindTranslationState(gGamePath,gDetectedVersion,128);}
+static int HasAnyTranslationState(LPCWSTR game){WCHAR pat[32768];WIN32_FIND_DATAW fd;JoinPath(pat,32768,game,L"LE2_FR_V*_STATE.txt");HANDLE h=FindFirstFileW(pat,&fd);if(h==INVALID_HANDLE_VALUE)return 0;int found=0;do{if(!(fd.dwFileAttributes&FILE_ATTRIBUTE_DIRECTORY)&&wpref(fd.cFileName,L"LE2_FR_V")&&wcontains(fd.cFileName,L"_STATE.txt")){found=1;break;}}while(FindNextFileW(h,&fd));FindClose(h);return found;}
+static int FindTranslationState(LPCWSTR game,LPWSTR ver,ULONG_PTR cap){
+    WCHAR st[32768];
+    JoinPath(st,32768,game,GAME_V090_STATE_REL);gV090Base=FileExists(st);
+    gCalActive=BackupDirPresent(game,BACKUP_CAL_REL);
+    gResActive=BackupDirPresent(game,BACKUP_RES_REL);
+    gReadyActive=BackupDirPresent(game,BACKUP_READY_REL);
+    gTyposActive=gV090Base?CheckFinalTypos(game):0;
+    gFinalActive=gV090Base&&gCalActive&&gResActive&&gReadyActive&&gTyposActive;
+    ver[0]=0;
+    if(gFinalActive){wcopy(ver,cap,L"v1.2.0");return 1;}
+    if(gV090Base||gCalActive||gResActive||gReadyActive||HasAnyTranslationState(game)){wcopy(ver,cap,L"ANCIENNE / PARTIELLE");return 1;}
+    return 0;
+}
+static void RefreshState(void){gGameValid=ValidateGameRoot(gGamePath);gTranslationPresent=0;gFinalActive=0;gV090Base=0;gCalActive=0;gResActive=0;gReadyActive=0;gTyposActive=0;gDetectedVersion[0]=0;if(gGameValid)gTranslationPresent=FindTranslationState(gGamePath,gDetectedVersion,128);}
 
 static int IsElevated(void){HANDLE tok=NULL;TOKEN_ELEVATION te;DWORD got=0;memset(&te,0,sizeof(te));if(!OpenProcessToken(GetCurrentProcess(),TOKEN_QUERY,&tok))return 0;BOOL ok=GetTokenInformation(tok,TokenElevation,&te,sizeof(te),&got);CloseHandle(tok);return ok&&te.TokenIsElevated;}
 static void EnsureElevatedOrExit(void){if(IsElevated())return;ULONG_PTR r=ShellExecuteW(NULL,L"runas",gExePath,NULL,NULL,SW_SHOWNORMAL);if(r>32)ExitProcess(0);ExitProcess(1);}
@@ -369,53 +398,92 @@ static void CleanupGameArtifacts(LPCWSTR game){
     WCHAR pat[32768],p[32768];WIN32_FIND_DATAW fd;JoinPath(pat,32768,game,L"*");HANDLE h=FindFirstFileW(pat,&fd);if(h==INVALID_HANDLE_VALUE)return;do{if(weq(fd.cFileName,L".")||weq(fd.cFileName,L".."))continue;JoinPath(p,32768,game,fd.cFileName);if(fd.dwFileAttributes&FILE_ATTRIBUTE_DIRECTORY){if(wpref(fd.cFileName,L"LE2_FR_Backup_BEFORE_")||wpref(fd.cFileName,L"LE2_FR_ORIGINAL_ENGLISH_BASE_")||wpref(fd.cFileName,L"LE2_FR_ORIGINAL_SCRIPTS_BASE_"))RemoveTree(p);}else if(wpref(fd.cFileName,L"LE2_FR_V")&&wcontains(fd.cFileName,L"_STATE.txt"))DeleteFileW(p);}while(FindNextFileW(h,&fd));FindClose(h);
 }
 static void MakeTempDir(LPWSTR out,ULONG_PTR cap){WCHAR t[32768],pid[32];DWORD n=GetTempPathW(32768,t);if(!n)wcopy(t,32768,L"C:\\Windows\\Temp\\");uint_to_w(GetCurrentProcessId(),pid,32);wcopy(out,cap,t);wcat(out,cap,L"LE2FR_PORTABLE_");wcat(out,cap,pid);}
-static DWORD RunEngine(LPCWSTR temp,LPCWSTR game,int restore){
-    WCHAR* ps=(WCHAR*)HeapAlloc(GetProcessHeap(),0,65536);WCHAR* reports=(WCHAR*)HeapAlloc(GetProcessHeap(),0,65536);WCHAR* cmd=(WCHAR*)HeapAlloc(GetProcessHeap(),0,131072);STARTUPINFOW si;PROCESS_INFORMATION pi;DWORD code=1;if(!ps||!reports||!cmd){code=8;goto done;}JoinPath(ps,32768,temp,ENGINE_NAME);JoinPath(reports,32768,temp,L"reports");CreateDirectoryW(reports,NULL);wcopy(cmd,65536,L"powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File \"");wcat(cmd,65536,ps);wcat(cmd,65536,L"\" ");if(restore)wcat(cmd,65536,L"-RestoreEnglish ");wcat(cmd,65536,L"-GamePath \"");wcat(cmd,65536,game);wcat(cmd,65536,L"\" -ReportRoot \"");wcat(cmd,65536,reports);wcat(cmd,65536,L"\" -NoPause");memset(&si,0,sizeof(si));memset(&pi,0,sizeof(pi));si.cb=sizeof(si);si.dwFlags=STARTF_USESHOWWINDOW;si.wShowWindow=SW_HIDE;if(!CreateProcessW(NULL,cmd,NULL,NULL,FALSE,CREATE_NO_WINDOW,NULL,temp,&si,&pi)){code=GetLastError();goto done;}WaitForSingleObject(pi.hProcess,INFINITE);GetExitCodeProcess(pi.hProcess,&code);CloseHandle(pi.hThread);CloseHandle(pi.hProcess);
+static DWORD RunBaseEngine(LPCWSTR temp,LPCWSTR game,int restore){
+    WCHAR* ps=(WCHAR*)HeapAlloc(GetProcessHeap(),0,65536);WCHAR* reports=(WCHAR*)HeapAlloc(GetProcessHeap(),0,65536);WCHAR* cmd=(WCHAR*)HeapAlloc(GetProcessHeap(),0,131072);STARTUPINFOW si;PROCESS_INFORMATION pi;DWORD code=1;if(!ps||!reports||!cmd){code=8;goto done;}JoinPath(ps,32768,temp,ENGINE_BASE);JoinPath(reports,32768,temp,L"reports");CreateDirectoryW(reports,NULL);wcopy(cmd,65536,L"powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File \"");wcat(cmd,65536,ps);wcat(cmd,65536,L"\" ");if(restore)wcat(cmd,65536,L"-RestoreEnglish ");wcat(cmd,65536,L"-GamePath \"");wcat(cmd,65536,game);wcat(cmd,65536,L"\" -ReportRoot \"");wcat(cmd,65536,reports);wcat(cmd,65536,L"\" -NoPause");memset(&si,0,sizeof(si));memset(&pi,0,sizeof(pi));si.cb=sizeof(si);si.dwFlags=STARTF_USESHOWWINDOW;si.wShowWindow=SW_HIDE;if(!CreateProcessW(NULL,cmd,NULL,NULL,FALSE,CREATE_NO_WINDOW,NULL,temp,&si,&pi)){code=GetLastError();goto done;}WaitForSingleObject(pi.hProcess,INFINITE);GetExitCodeProcess(pi.hProcess,&code);CloseHandle(pi.hThread);CloseHandle(pi.hProcess);
 done:if(ps)HeapFree(GetProcessHeap(),0,ps);if(reports)HeapFree(GetProcessHeap(),0,reports);if(cmd)HeapFree(GetProcessHeap(),0,cmd);return code;
 }
-static void PreserveFailureReport(LPCWSTR temp){
-    WCHAR dir[32768],pat[32768],src[32768],dst[32768],exeDir[32768],tmpRoot[32768];WIN32_FIND_DATAW fd;gFailureReport[0]=0;JoinPath(dir,32768,temp,L"reports");JoinPath(pat,32768,dir,L"*.zip");HANDLE h=FindFirstFileW(pat,&fd);if(h==INVALID_HANDLE_VALUE)return;JoinPath(src,32768,dir,fd.cFileName);FindClose(h);ExeDir(exeDir,32768);JoinPath(dst,32768,exeDir,L"Rapport_LoneEcho2_FR_ECHEC.zip");if(CopyFileW(src,dst,FALSE)){wcopy(gFailureReport,32768,dst);return;}if(GetTempPathW(32768,tmpRoot)){JoinPath(dst,32768,tmpRoot,L"Rapport_LoneEcho2_FR_ECHEC.zip");if(CopyFileW(src,dst,FALSE))wcopy(gFailureReport,32768,dst);}
+static DWORD RunEngineNamed(LPCWSTR temp,LPCWSTR game,LPCWSTR engineName,int restore){
+    WCHAR* eng=(WCHAR*)HeapAlloc(GetProcessHeap(),0,65536);WCHAR* reports=(WCHAR*)HeapAlloc(GetProcessHeap(),0,65536);WCHAR* cmd=(WCHAR*)HeapAlloc(GetProcessHeap(),0,131072);STARTUPINFOW si;PROCESS_INFORMATION pi;DWORD code=1;if(!eng||!reports||!cmd){code=8;goto done;}JoinPath(eng,32768,temp,engineName);JoinPath(reports,32768,temp,L"reports");CreateDirectoryW(reports,NULL);wcopy(cmd,65536,L"\"");wcat(cmd,65536,eng);wcat(cmd,65536,L"\" ");if(restore)wcat(cmd,65536,L"--restore ");wcat(cmd,65536,L"--game \"");wcat(cmd,65536,game);wcat(cmd,65536,L"\" --report-root \"");wcat(cmd,65536,reports);wcat(cmd,65536,L"\"");memset(&si,0,sizeof(si));memset(&pi,0,sizeof(pi));si.cb=sizeof(si);si.dwFlags=STARTF_USESHOWWINDOW;si.wShowWindow=SW_HIDE;if(!CreateProcessW(NULL,cmd,NULL,NULL,FALSE,CREATE_NO_WINDOW,NULL,temp,&si,&pi)){code=GetLastError();goto done;}WaitForSingleObject(pi.hProcess,INFINITE);GetExitCodeProcess(pi.hProcess,&code);CloseHandle(pi.hThread);CloseHandle(pi.hProcess);
+done:if(eng)HeapFree(GetProcessHeap(),0,eng);if(reports)HeapFree(GetProcessHeap(),0,reports);if(cmd)HeapFree(GetProcessHeap(),0,cmd);return code;
+}
+static int WriteAsciiFile(LPCWSTR path,const char* text){HANDLE h=CreateFileW(path,GENERIC_WRITE,0,NULL,CREATE_ALWAYS,FILE_ATTRIBUTE_NORMAL,NULL);if(h==INVALID_HANDLE_VALUE)return 0;DWORD n=0;while(text[n])n++;int ok=WriteExact(h,text,n);CloseHandle(h);return ok;}
+static void CopyOneReport(LPCWSTR temp,LPCWSTR name){WCHAR reports[32768],src[32768],dst[32768],exeDir[32768];JoinPath(reports,32768,temp,L"reports");JoinPath(src,32768,reports,name);ExeDir(exeDir,32768);JoinPath(dst,32768,exeDir,name);if(FileExists(src))CopyFileW(src,dst,FALSE);}
+static void PreserveChildReports(LPCWSTR temp){
+    CopyOneReport(temp,L"Rapport_LoneEcho2_FR_Correctif_Calibration_NON_V0.9.0_R1.txt");
+    CopyOneReport(temp,L"Rapport_LoneEcho2_FR_Correctif_ResidusFinaux_V0.9.0_R2.txt");
+    CopyOneReport(temp,L"Rapport_LoneEcho2_FR_ReadyFix_V0.9.0_R4.txt");
+}
+static void PreserveBaseFailureReport(LPCWSTR temp){
+    WCHAR dir[32768],pat[32768],src[32768],dst[32768],exeDir[32768];WIN32_FIND_DATAW fd;JoinPath(dir,32768,temp,L"reports");JoinPath(pat,32768,dir,L"*.zip");HANDLE h=FindFirstFileW(pat,&fd);if(h==INVALID_HANDLE_VALUE)return;JoinPath(src,32768,dir,fd.cFileName);FindClose(h);ExeDir(exeDir,32768);JoinPath(dst,32768,exeDir,L"Rapport_LoneEcho2_FR_v1.2.0_ECHEC.zip");if(CopyFileW(src,dst,FALSE))wcopy(gFailureReport,32768,dst);
+}
+static void WriteFinalReport(int op,int stage,DWORD code){
+    WCHAR exeDir[32768],dst[32768];ExeDir(exeDir,32768);JoinPath(dst,32768,exeDir,L"Rapport_LoneEcho2_FR_v1.2.0_RC1.txt");
+    const char* text=NULL;
+    if(op==1&&code==0) text="LONE ECHO II - TRADUCTION FR v1.2.0 RC1\r\n==========================================\r\nRESULTAT: INSTALL_OK\r\nBASE: corpus complet V0.9.0 integre depuis jeu anglais propre.\r\nFINAUX: Calibration Non + 15 corrections ff715 + READY R4 + 2 corrections typographiques.\r\nRATIONS: exclu volontairement.\r\n";
+    else if(op==2&&code==0) text="LONE ECHO II - TRADUCTION FR v1.2.0 RC1\r\n==========================================\r\nRESULTAT: UNINSTALL_OK - jeu restaure en anglais.\r\n";
+    else if(stage==1) text="LONE ECHO II - TRADUCTION FR v1.2.0 RC1\r\nRESULTAT: ERROR_BASE - echec du moteur de traduction complet.\r\n";
+    else if(stage==2) text="LONE ECHO II - TRADUCTION FR v1.2.0 RC1\r\nRESULTAT: ERROR_CALIBRATION - rollback tente.\r\n";
+    else if(stage==3) text="LONE ECHO II - TRADUCTION FR v1.2.0 RC1\r\nRESULTAT: ERROR_RESIDUS - rollback tente.\r\n";
+    else if(stage==4) text="LONE ECHO II - TRADUCTION FR v1.2.0 RC1\r\nRESULTAT: ERROR_READY - rollback tente.\r\n";
+    else text="LONE ECHO II - TRADUCTION FR v1.2.0 RC1\r\nRESULTAT: ERROR_VERIFY - etat final incomplet ou verification typographique echouee.\r\n";
+    WriteAsciiFile(dst,text);if(code!=0)wcopy(gFailureReport,32768,dst);
 }
 static DWORD WINAPI WorkerProc(LPVOID p){
-    int op=(int)(ULONG_PTR)p;WCHAR temp[32768],err[512];DWORD code=1;MakeTempDir(temp,32768);RemoveTree(temp);err[0]=0;if(!ExtractPayload(temp,err,512)){code=0xE001;wcopy(gModalBody,4096,err);goto finish;}code=RunEngine(temp,gGamePath,op==2);if(code!=0)PreserveFailureReport(temp);else if(op==2)CleanupGameArtifacts(gGamePath);
-finish:RemoveTree(temp);PostMessageW(gHwnd,WM_APP_DONE,(WPARAM)code,(LPARAM)op);return 0;
+    int op=(int)(ULONG_PTR)p;WCHAR temp[32768],err[512],bp[32768],st[32768];DWORD code=1;int stage=0;int preBase=0,preCal=0,preRes=0,preReady=0;MakeTempDir(temp,32768);RemoveTree(temp);gFailureReport[0]=0;err[0]=0;gStage=0;
+    if(!ExtractPayload(temp,err,512)){code=0xE001;wcopy(gModalBody,4096,err);goto finish;}
+    JoinPath(st,32768,gGamePath,GAME_V090_STATE_REL);preBase=HasAnyTranslationState(gGamePath);JoinPath(bp,32768,gGamePath,BACKUP_CAL_REL);preCal=DirExists(bp);JoinPath(bp,32768,gGamePath,BACKUP_RES_REL);preRes=DirExists(bp);JoinPath(bp,32768,gGamePath,BACKUP_READY_REL);preReady=DirExists(bp);
+    if(op==1){
+        if(preBase||preCal||preRes||preReady){code=0xE100;stage=1;goto finish;}
+        gStage=1;stage=1;code=RunBaseEngine(temp,gGamePath,0);if(code)goto install_fail;
+        gStage=2;stage=2;code=RunEngineNamed(temp,gGamePath,ENGINE_CAL,0);if(code)goto install_fail;
+        gStage=3;stage=3;code=RunEngineNamed(temp,gGamePath,ENGINE_RES,0);if(code)goto install_fail;
+        gStage=4;stage=4;code=RunEngineNamed(temp,gGamePath,ENGINE_READY,0);if(code)goto install_fail;
+        gStage=5;stage=5;RefreshState();if(!gFinalActive){code=0xE105;goto install_fail;}code=0;goto finish;
+install_fail:
+        if(stage>=4&&BackupDirPresent(gGamePath,BACKUP_READY_REL))RunEngineNamed(temp,gGamePath,ENGINE_READY,1);
+        if(stage>=3&&BackupDirPresent(gGamePath,BACKUP_RES_REL))RunEngineNamed(temp,gGamePath,ENGINE_RES,1);
+        if(stage>=2&&BackupDirPresent(gGamePath,BACKUP_CAL_REL))RunEngineNamed(temp,gGamePath,ENGINE_CAL,1);
+        if(stage>=1)RunBaseEngine(temp,gGamePath,1);
+        goto finish;
+    }else{
+        gStage=1;stage=4;if(preReady){code=RunEngineNamed(temp,gGamePath,ENGINE_READY,1);if(code)goto finish;}
+        gStage=2;stage=3;if(preRes){code=RunEngineNamed(temp,gGamePath,ENGINE_RES,1);if(code)goto finish;}
+        gStage=3;stage=2;if(preCal){code=RunEngineNamed(temp,gGamePath,ENGINE_CAL,1);if(code)goto finish;}
+        gStage=4;stage=1;if(preBase){code=RunBaseEngine(temp,gGamePath,1);if(code)goto finish;}
+        gStage=5;CleanupGameArtifacts(gGamePath);stage=5;code=0;
+    }
+finish:
+    if(code!=0){PreserveChildReports(temp);PreserveBaseFailureReport(temp);}WriteFinalReport(op,stage,code);RemoveTree(temp);gStage=0;PostMessageW(gHwnd,WM_APP_DONE,(WPARAM)code,(LPARAM)op);return 0;
 }
 
 static void FillBox(HDC dc,int x1,int y1,int x2,int y2,COLORREF fill,COLORREF border,int radius){HBRUSH b=CreateSolidBrush(fill);HPEN p=CreatePen(PS_SOLID,Sy(2)<1?1:Sy(2),border);HGDIOBJ ob=SelectObject(dc,b),op=SelectObject(dc,p);RoundRect(dc,Sx(x1),Sy(y1),Sx(x2),Sy(y2),Sy(radius),Sy(radius));SelectObject(dc,op);SelectObject(dc,ob);DeleteObject(p);DeleteObject(b);}
 static void OutlineBox(HDC dc,int x1,int y1,int x2,int y2,COLORREF border,int radius,int width){HPEN p=CreatePen(PS_SOLID,Sy(width)<1?1:Sy(width),border);HGDIOBJ op=SelectObject(dc,p),ob=SelectObject(dc,GetStockObject(5));RoundRect(dc,Sx(x1),Sy(y1),Sx(x2),Sy(y2),Sy(radius),Sy(radius));SelectObject(dc,ob);SelectObject(dc,op);DeleteObject(p);}
 static void DrawTxt(HDC dc,LPCWSTR text,int x,int y,int w,int h,int px,COLORREF col,int weight,UINT fmt){HFONT f=CreateFontW(-Sy(px),0,0,0,weight,0,0,0,DEFAULT_CHARSET,OUT_DEFAULT_PRECIS,CLIP_DEFAULT_PRECIS,CLEARTYPE_QUALITY,DEFAULT_PITCH|FF_DONTCARE,L"Segoe UI");HGDIOBJ old=SelectObject(dc,f);SetBkMode(dc,TRANSPARENT);SetTextColor(dc,col);RECT r={Sx(x),Sy(y),Sx(x+w),Sy(y+h)};DrawTextW(dc,text,-1,&r,fmt);SelectObject(dc,old);DeleteObject(f);}
 static void DrawDynamic(HDC dc){
-    COLORREF panel=RGBc(4,22,29),field=RGBc(4,15,21),white=RGBc(234,241,245),muted=RGBc(173,190,201),cyan=RGBc(23,224,238),red=RGBc(242,91,96);
-    /* The selected PNG is the visual authority. We only replace truly dynamic text inside its existing panels. */
-    if(!gTranslationPresent){
-        FillBox(dc,306,443,391,468,panel,panel,1);
-        DrawTxt(dc,L"—",314,444,72,23,18,cyan,FW_SEMIBOLD,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
-        FillBox(dc,159,476,554,496,panel,panel,1);
-        DrawTxt(dc,L"La traduction française n'est pas installée.",162,476,388,19,13,muted,FW_NORMAL,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
-    }else if(gDetectedVersion[0] && !weq(gDetectedVersion,L"V0.9.0")){
-        FillBox(dc,306,443,391,468,panel,panel,1);
-        DrawTxt(dc,gDetectedVersion,314,444,74,23,18,cyan,FW_SEMIBOLD,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
-    }
-
-    /* Exact inner area of the baked-in game-path field: do not redraw its frame. */
+    COLORREF panel=RGBc(4,22,29),field=RGBc(4,15,21),white=RGBc(234,241,245),muted=RGBc(173,190,201),cyan=RGBc(23,224,238),red=RGBc(242,91,96),amber=RGBc(247,184,72);
+    /* Recouvre toujours la version V0.9.0 imprimee dans le skin de reference. */
+    FillBox(dc,150,438,558,505,panel,panel,1);
+    DrawTxt(dc,L"Version installée :",162,444,145,22,14,white,FW_NORMAL,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
+    DrawTxt(dc,gFinalActive?L"v1.2.0":(gTranslationPresent?L"Ancienne":L"—"),314,444,120,23,18,gFinalActive?cyan:(gTranslationPresent?amber:cyan),FW_SEMIBOLD,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
+    DrawTxt(dc,gFinalActive?L"La traduction française v1.2.0 est installée et à jour.":(gTranslationPresent?L"Une traduction existante est détectée — désinstallez-la avant v1.2.0.":L"La traduction française n'est pas installée."),162,476,388,19,12,muted,FW_NORMAL,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
     FillBox(dc,639,462,1017,485,field,field,1);
     if(gGameValid) DrawTxt(dc,gGamePath,647,464,362,18,12,white,FW_NORMAL,DT_LEFT|DT_VCENTER|DT_SINGLELINE|DT_END_ELLIPSIS);
     else DrawTxt(dc,L"Aucun dossier Lone Echo II valide sélectionné",647,464,362,18,12,red,FW_NORMAL,DT_LEFT|DT_VCENTER|DT_SINGLELINE|DT_END_ELLIPSIS);
-
-    if(!gGameValid){
-        FillBox(dc,635,489,820,507,panel,panel,1);
-        DrawTxt(dc,L"Jeu non détecté — utilisez Parcourir",641,489,360,17,11,red,FW_SEMIBOLD,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
-    }
-    /* No hover frames: the exact button frames are already baked into the PNG. */
+    FillBox(dc,635,489,1007,507,panel,panel,1);
+    if(!gGameValid) DrawTxt(dc,L"Jeu non détecté — utilisez parcourir",641,489,360,17,11,red,FW_SEMIBOLD,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
+    else if(gFinalActive) DrawTxt(dc,L"Installation complète vérifiée.",641,489,360,17,11,cyan,FW_SEMIBOLD,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
+    else if(gTranslationPresent) DrawTxt(dc,L"Désinstallation requise avant la v1.2.0.",641,489,360,17,11,amber,FW_SEMIBOLD,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
+    else DrawTxt(dc,L"Jeu détecté — prêt pour l'installation.",641,489,360,17,11,cyan,FW_SEMIBOLD,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
 }
+
 static void DrawModal(HDC dc){
     if(!gModal&&!gBusy)return;
     COLORREF panel=RGBc(5,20,29),edge=RGBc(57,205,220),white=RGBc(239,245,248),muted=RGBc(183,199,208),cyan=RGBc(34,226,238),red=RGBc(239,87,91),barbg=RGBc(15,32,43);
     if(gBusy){
         int x1=265,y1=190,x2=935;
         FillBox(dc,x1,y1,x2,468,panel,edge,18);
-        DrawTxt(dc,gOperation==1?L"INSTALLATION EN COURS":L"DÉSINSTALLATION EN COURS",x1+35,y1+34,600,34,24,white,FW_SEMIBOLD,DT_CENTER|DT_VCENTER|DT_SINGLELINE);
-        DrawTxt(dc,gOperation==1?L"Installation de la traduction française dans Lone Echo II.":L"Restauration du jeu en anglais et suppression de la traduction.",x1+50,y1+86,570,44,17,muted,FW_NORMAL,DT_CENTER|DT_WORDBREAK);
+        DrawTxt(dc,gOperation==1?L"INSTALLATION v1.2.0 EN COURS":L"RESTAURATION EN COURS",x1+35,y1+34,600,34,24,white,FW_SEMIBOLD,DT_CENTER|DT_VCENTER|DT_SINGLELINE);
+        DrawTxt(dc,gOperation==1?gStage==1?L"Installation du corpus français complet…":gStage==2?L"Correction Calibration Non…":gStage==3?L"Application des 15 corrections ff715…":gStage==4?L"Correction READY…":L"Vérification finale v1.2.0…":gStage==1?L"Restauration READY…":gStage==2?L"Restauration des corrections ff715…":gStage==3?L"Restauration Calibration…":gStage==4?L"Restauration du jeu anglais…":L"Nettoyage et vérification finale…",x1+50,y1+86,570,44,17,muted,FW_NORMAL,DT_CENTER|DT_WORDBREAK);
         FillBox(dc,x1+75,y1+150,x2-75,y1+182,barbg,RGBc(92,112,124),8);
         {int bw=(x2-x1)-170;int seg=180;int span=bw+seg;int pos=(gAnim*28)%span - seg;int sx=x1+85+(pos<0?0:pos);int ex=x1+85+((pos+seg)>bw?bw:(pos+seg));if(ex>sx)FillBox(dc,sx,y1+156,ex,y1+176,RGBc(10,90,108),cyan,6);} 
         DrawTxt(dc,L"Progression",x1+75,y1+189,120,18,13,cyan,FW_SEMIBOLD,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
@@ -428,7 +496,7 @@ static void DrawModal(HDC dc){
         DrawTxt(dc,L"Lone Echo II — Traduction française non officielle",225,198,750,34,22,white,FW_SEMIBOLD,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
         LPCWSTR body=L"Traduction française réalisée par LoVeMaKeRz.\nProjet communautaire gratuit et non affilié, approuvé ou sponsorisé par les détenteurs des droits de Lone Echo II.\nLone Echo II, ses marques, personnages, visuels et autres éléments associés restent la propriété de leurs détenteurs respectifs.\nCe patch nécessite une copie légitime de Lone Echo II et ne contient pas le jeu original.";
         DrawTxt(dc,body,225,246,750,118,15,muted,FW_NORMAL,DT_LEFT|DT_WORDBREAK);
-        DrawTxt(dc,L"V0.9.0  •  Utilitaire portable",225,384,300,20,13,RGBc(119,150,165),FW_NORMAL,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
+        DrawTxt(dc,L"v1.2.0  •  Installateur portable complet  •  RATIONS exclu",225,384,470,20,13,RGBc(119,150,165),FW_NORMAL,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
         FillBox(dc,815,382,955,420,RGBc(9,45,56),cyan,8);
         DrawTxt(dc,L"FERMER",815,388,140,26,15,white,FW_SEMIBOLD,DT_CENTER|DT_VCENTER|DT_SINGLELINE);
         return;
@@ -452,7 +520,7 @@ static int Hotspot(int bx,int by){
 static LRESULT CALLBACK WndProc(HWND hwnd,UINT msg,WPARAM wp,LPARAM lp){
     if(msg==WM_PAINT){Paint(hwnd);return 0;}if(msg==WM_DESTROY){PostQuitMessage(0);return 0;}if(msg==WM_CLOSE){if(!gBusy)DestroyWindow(hwnd);return 0;}
     if(msg==WM_TIMER){if(gBusy){gAnim++;InvalidateRect(hwnd,NULL,FALSE);}return 0;}
-    if(msg==WM_APP_DONE){KillTimer(hwnd,1);gBusy=0;gLastCode=(DWORD)wp;RefreshState();if(gLastCode==0){if((int)lp==1)ShowInfo(L"Installation terminée",L"La traduction française V0.9.0 a été installée et vérifiée avec succès.");else ShowInfo(L"Désinstallation terminée",L"La traduction française a été désinstallée. Lone Echo II a été restauré en anglais.");}else{WCHAR body[4096];wcopy(body,4096,L"L'opération a échoué. Le moteur a tenté de restaurer automatiquement l'état précédent. Consultez le rapport de diagnostic si celui-ci est disponible.");if(gFailureReport[0]){wcat(body,4096,L"\n\nRapport de diagnostic :\n");wcat(body,4096,gFailureReport);}ShowInfo(L"Erreur",body);}InvalidateRect(hwnd,NULL,FALSE);return 0;}
+    if(msg==WM_APP_DONE){KillTimer(hwnd,1);gBusy=0;gLastCode=(DWORD)wp;RefreshState();if(gLastCode==0){if((int)lp==1)ShowInfo(L"Installation terminée",L"La traduction française v1.2.0 a été installée et vérifiée avec succès.");else ShowInfo(L"Désinstallation terminée",L"La traduction française a été désinstallée. Lone Echo II a été restauré en anglais.");}else{WCHAR body[4096];wcopy(body,4096,L"L'opération a échoué. Un rollback automatique a été tenté. Consultez le rapport de diagnostic créé à côté de cet installateur.");if(gFailureReport[0]){wcat(body,4096,L"\n\nRapport :\n");wcat(body,4096,gFailureReport);}ShowInfo(L"Erreur",body);}InvalidateRect(hwnd,NULL,FALSE);return 0;}
     if(msg==WM_MOUSEMOVE){int x=(short)(lp&0xFFFF),y=(short)((lp>>16)&0xFFFF),bx,by;ClientToBase(x,y,&bx,&by);int h=(gModal||gBusy)?0:Hotspot(bx,by);if(h!=gHover){gHover=h;SetCursor(h?gHand:gArrow);InvalidateRect(hwnd,NULL,FALSE);}return 0;}
     if(msg==WM_SETCURSOR){SetCursor(gHover?gHand:gArrow);return TRUE;}
     if(msg==WM_KEYDOWN&&wp==VK_ESCAPE){if(gBusy)return 0;if(gModal){gModal=0;InvalidateRect(hwnd,NULL,FALSE);}else DestroyWindow(hwnd);return 0;}
@@ -461,16 +529,16 @@ static LRESULT CALLBACK WndProc(HWND hwnd,UINT msg,WPARAM wp,LPARAM lp){
         if(gBusy)return 0;
         if(gModal){if(gModal==1){if(InBaseRect(bx,by,815,382,955,420)){gModal=0;InvalidateRect(hwnd,NULL,FALSE);}}else if(gModal==2||gModal==3){if(InBaseRect(bx,by,380,365,560,405)){int op=gModal==2?1:2;StartOperation(op);}else if(InBaseRect(bx,by,640,365,820,405)){gModal=0;InvalidateRect(hwnd,NULL,FALSE);}}else if(InBaseRect(bx,by,520,365,680,405)){gModal=0;InvalidateRect(hwnd,NULL,FALSE);}return 0;}
         int h=Hotspot(bx,by);if(h==11){DestroyWindow(hwnd);return 0;}if(h==4){gModal=1;InvalidateRect(hwnd,NULL,FALSE);return 0;}if(h==3){WCHAR p[32768];if(BrowseForGame(hwnd,p,32768)){if(ValidateGameRoot(p)){wcopy(gGamePath,32768,p);RefreshState();InvalidateRect(hwnd,NULL,FALSE);}else ShowInfo(L"Dossier non valide",L"Ce dossier ne correspond pas à une installation compatible de Lone Echo II.");}return 0;}
-        if(h==1){if(!gGameValid){ShowInfo(L"Jeu introuvable",L"Sélectionnez d'abord le dossier racine de Lone Echo II avec le bouton Parcourir…");return 0;}if(gTranslationPresent){ShowInfo(L"Traduction déjà installée",L"Une traduction française est déjà détectée. Cette version portable ne réinstalle pas par-dessus une traduction existante. Désinstallez d'abord la traduction si vous souhaitez l'installer de nouveau.");return 0;}wcopy(gModalTitle,256,L"Installer la traduction ?");wcopy(gModalBody,4096,L"Le programme va sauvegarder les fichiers originaux, installer la traduction française V0.9.0 puis vérifier le résultat.\n\nL'utilitaire lui-même ne sera pas installé dans Windows.");gModal=2;InvalidateRect(hwnd,NULL,FALSE);return 0;}
-        if(h==2){if(!gGameValid){ShowInfo(L"Jeu introuvable",L"Sélectionnez d'abord le dossier racine de Lone Echo II avec le bouton Parcourir…");return 0;}if(!gTranslationPresent){ShowInfo(L"Aucune traduction détectée",L"Aucune traduction française gérée par cet outil n'est actuellement détectée dans ce dossier.");return 0;}wcopy(gModalTitle,256,L"Désinstaller la traduction ?");wcopy(gModalBody,4096,L"Lone Echo II sera restauré en anglais à partir des sauvegardes originales, puis les artefacts de sauvegarde de la traduction seront supprimés.\n\nLe jeu original ne sera pas désinstallé.");gModal=3;InvalidateRect(hwnd,NULL,FALSE);return 0;}
+        if(h==1){if(!gGameValid){ShowInfo(L"Jeu introuvable",L"Sélectionnez d'abord le dossier racine de Lone Echo II avec le bouton Parcourir…");return 0;}if(gFinalActive){ShowInfo(L"Déjà installée",L"La traduction française v1.2.0 est déjà installée et vérifiée.");return 0;}if(gTranslationPresent){ShowInfo(L"Traduction existante détectée",L"Une ancienne version ou une installation partielle est détectée. Utilisez d'abord Désinstaller la traduction pour restaurer le jeu en anglais, puis installez la v1.2.0.");return 0;}wcopy(gModalTitle,256,L"Installer la traduction v1.2.0 ?");wcopy(gModalBody,4096,L"Le programme va sauvegarder les fichiers anglais, installer la traduction française complète puis appliquer les correctifs finaux et vérifier le résultat. L'utilitaire lui-même ne sera pas installé dans Windows.");gModal=2;InvalidateRect(hwnd,NULL,FALSE);return 0;}
+        if(h==2){if(!gGameValid){ShowInfo(L"Jeu introuvable",L"Sélectionnez d'abord le dossier racine de Lone Echo II avec le bouton Parcourir…");return 0;}if(!gTranslationPresent){ShowInfo(L"Aucune traduction détectée",L"Aucune traduction française gérée par cet outil n'est actuellement détectée dans ce dossier.");return 0;}wcopy(gModalTitle,256,L"Désinstaller la traduction ?");wcopy(gModalBody,4096,L"Lone Echo II sera restauré en anglais à partir des sauvegardes originales. Les correctifs seront retirés en ordre inverse puis les fichiers français seront restaurés vers l'anglais.");gModal=3;InvalidateRect(hwnd,NULL,FALSE);return 0;}
         return 0;}
     return DefWindowProcW(hwnd,msg,wp,lp);
 }
 
 static int AppMain(void){
-    GetModuleFileNameW(NULL,gExePath,32768);EnsureElevatedOrExit();OleInitialize(NULL);SetProcessDPIAware();gArrow=LoadCursorW(NULL,IDC_ARROW);gHand=LoadCursorW(NULL,IDC_HAND);gGamePath[0]=0;DetectGame(gGamePath,32768);RefreshState();
-    WNDCLASSEXW wc;memset(&wc,0,sizeof(wc));wc.cbSize=sizeof(wc);wc.style=CS_HREDRAW|CS_VREDRAW;wc.lpfnWndProc=WndProc;wc.hInstance=GetModuleHandleW(NULL);wc.hCursor=gArrow;wc.lpszClassName=L"LE2FRPortableUI";if(!RegisterClassExW(&wc)){OleUninitialize();return 2;}
+    GetModuleFileNameW(NULL,gExePath,32768);OleInitialize(NULL);SetProcessDPIAware();gArrow=LoadCursorW(NULL,IDC_ARROW);gHand=LoadCursorW(NULL,IDC_HAND);gGamePath[0]=0;DetectGame(gGamePath,32768);RefreshState();
+    WNDCLASSEXW wc;memset(&wc,0,sizeof(wc));wc.cbSize=sizeof(wc);wc.style=CS_HREDRAW|CS_VREDRAW;wc.lpfnWndProc=WndProc;wc.hInstance=GetModuleHandleW(NULL);wc.hCursor=gArrow;wc.lpszClassName=L"LE2FRInstallerV120";if(!RegisterClassExW(&wc)){OleUninitialize();return 2;}
     RECT work;memset(&work,0,sizeof(work));SystemParametersInfoW(SPI_GETWORKAREA,0,&work,0);int w=BASE_W,h=BASE_H;int x=work.left+(work.right-work.left-w)/2,y=work.top+(work.bottom-work.top-h)/2;if(x<work.left)x=work.left;if(y<work.top)y=work.top;
-    gHwnd=CreateWindowExW(WS_EX_APPWINDOW,L"LE2FRPortableUI",L"Lone Echo II — Traduction française",WS_POPUP|WS_VISIBLE,x,y,w,h,NULL,NULL,wc.hInstance,NULL);if(!gHwnd){OleUninitialize();return 3;}ApplySkinRegion(gHwnd);ShowWindow(gHwnd,SW_SHOWNORMAL);UpdateWindow(gHwnd);MSG m;while(GetMessageW(&m,NULL,0,0)>0){TranslateMessage(&m);DispatchMessageW(&m);}OleUninitialize();return 0;
+    gHwnd=CreateWindowExW(WS_EX_APPWINDOW,L"LE2FRInstallerV120",L"Lone Echo II — Traduction française v1.2.0",WS_POPUP|WS_VISIBLE,x,y,w,h,NULL,NULL,wc.hInstance,NULL);if(!gHwnd){OleUninitialize();return 3;}ApplySkinRegion(gHwnd);ShowWindow(gHwnd,SW_SHOWNORMAL);UpdateWindow(gHwnd);MSG m;while(GetMessageW(&m,NULL,0,0)>0){TranslateMessage(&m);DispatchMessageW(&m);}OleUninitialize();return 0;
 }
 void WINAPI WinMainCRTStartup(void){int r=AppMain();ExitProcess((UINT)r);}

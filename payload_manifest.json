@@ -1,6 +1,5 @@
 {
-  "format": "LE2PAY01",
-  "count": 45,
+  "count": 48,
   "files": [
     {
       "name": "AIE_CORRECTIONS_V0.8.58.4.2.csv",
@@ -36,6 +35,106 @@
       "name": "FINAL_TEST_CORRECTIONS_V0.8.58.4.2.csv",
       "size": 12062,
       "sha256": "b33ef21929e767d98188e9115c834f1c5f33abe2f1a1c82808c22dd4d4a185e1"
+    },
+    {
+      "name": "GLOBAL_DIALOGUE_PACKAGE_UPGRADE_V0.8.58.4.2.csv",
+      "size": 2391656,
+      "sha256": "b48d0c5747bf56d30870f730f53064a917b910b90542e6ae627c64f4cc24322a"
+    },
+    {
+      "name": "GLYPH_COMPAT_PACKAGE_DELTA_FROM_V0.8.58.4.2_V0.8.58.4.6.csv",
+      "size": 60172,
+      "sha256": "8fc476d4035a80fdb2fb6cd7d4b298cd31ab72cb4a310623d278906d4b4e3591"
+    },
+    {
+      "name": "GLYPH_COMPAT_PACKAGE_DELTA_V0.8.58.4.6.csv",
+      "size": 56079,
+      "sha256": "256209fe958a48e25a1d34b3ebccf887c2930244acd05e726bbee5468ec22a31"
+    },
+    {
+      "name": "LE2FR_Correctif_Calibration_NON_V0.9.0_R1_Engine.exe",
+      "size": 26624,
+      "sha256": "70b9c2aede51586992a282c0a733d5ffae46bec2eb3ae3644f66f943e3a6a117"
+    },
+    {
+      "name": "LE2FR_Correctif_ResidusFinaux_V0.9.0_R2_Engine.exe",
+      "size": 52736,
+      "sha256": "cc2a6bcb3b18cf58eb2b2f043b3f0eb6c4f63f3484fd8f54f27062d040c3afc1"
+    },
+    {
+      "name": "LE2FR_Engine_V0.9.0.ps1",
+      "size": 83786,
+      "sha256": "139e5d2d73231333c0e514f2d95e9f86e67d56f81b3df89ff32577ca5b491c8f"
+    },
+    {
+      "name": "LE2FR_ReadyFix_V0.9.0_R4_Engine.exe",
+      "size": 54784,
+      "sha256": "b0501c0b08acbf4ff8fee5654786de4ec6c6bfc9ec863d7be2dcf3bd0eef9aeb"
+    },
+    {
+      "name": "NATURAL_RESIDUAL_QA_PACKAGE_DELTA_V0.8.58.4.13.csv",
+      "size": 3692,
+      "sha256": "f891863d89299b6ed9d68d86d42fa9200d6568166d3570a407f966d319e2f85b"
+    },
+    {
+      "name": "PACKAGE_TARGETS.csv",
+      "size": 4886058,
+      "sha256": "2767a924ba67d517a64ce0bba94c0308b5e83acdfff658b5b7a10f21185da5e0"
+    },
+    {
+      "name": "PUNCT_GRAMMAR_QA_PACKAGE_DELTA_V0.8.58.4.10.csv",
+      "size": 22412,
+      "sha256": "bd7be47a0aea267104dc957e84799bbc6054c351f8661ea0bcc36ce7cd67392c"
+    },
+    {
+      "name": "PUNCT_RESIDUAL_QA_PACKAGE_DELTA_V0.8.58.4.12.csv",
+      "size": 3108,
+      "sha256": "8b2d18563fe55123bc6d2b54f7cf85cab596850218116513a4620c7714deba62"
+    },
+    {
+      "name": "QA_RECOVERY_CORRECTIONS_V0.8.58.4.5.csv",
+      "size": 194554,
+      "sha256": "116a017aab65ad42b25c7ea6e6493f4dc4b093fecfe0fd27bb6e01553d4581cb"
+    },
+    {
+      "name": "QUESTION_QA_PACKAGE_DELTA_FROM_V0.8.58.4.6_V0.8.58.4.8.csv",
+      "size": 63817,
+      "sha256": "e18a105788a5d6e4c9e544207f6dcb8001bcd144f619ffa8420118be29710560"
+    },
+    {
+      "name": "QUESTION_QA_PACKAGE_DELTA_FROM_V0.8.58.4.7_V0.8.58.4.8.csv",
+      "size": 17846,
+      "sha256": "63eea83b3539f0f5cbe032fc9276575023151dda047cb90646dcc10d94e130ec"
+    },
+    {
+      "name": "QUOTE_TITLE_QA_PACKAGE_DELTA_V0.8.58.4.9.csv",
+      "size": 119941,
+      "sha256": "765eb1d5ad3ddd6703837d78d8f417113e35a781c99f9718108b9355b66a733d"
+    },
+    {
+      "name": "SCRIPT_DLL_FILE_PLAN_V0.8.58.4.12.csv",
+      "size": 43058,
+      "sha256": "7d70f87a040952d48687c35cd23f4a0406df1278f6342e4c1b021aec142ac392"
+    },
+    {
+      "name": "SCRIPT_DLL_FULL_V0.8.58.0_FILE_PLAN.csv",
+      "size": 876992,
+      "sha256": "824f45054e554eb74e6421fc48fd3a75bf1f762abc9057e02d36d0fa0a6ecd12"
+    },
+    {
+      "name": "SCRIPT_DLL_PATCH_DATA_V0.8.58.4.12.bin",
+      "size": 151812,
+      "sha256": "c0297d7b7f0b1a735367fe153d5184533686329f4cbeafc7ba18abeb7ab5a769"
+    },
+    {
+      "name": "TYPOGRAPHY_CORRECTIONS_V0.8.57.8.csv",
+      "size": 73071,
+      "sha256": "ff47c2476d894be71b20996f717fd2b9b3eac18750f98873b9f9fb9ccdded93e"
+    },
+    {
+      "name": "UNICODE_SAFE_PACKAGE_DELTA_V0.8.58.4.7.csv",
+      "size": 42172,
+      "sha256": "27d3566067117bc960d5b583e006f09f9f9d7a39984b99b8592d5abd7ca24ce3"
     },
     {
       "name": "font_assets/record_003.bin",
@@ -136,91 +235,6 @@
       "name": "font_assets/record_242.bin",
       "size": 12448,
       "sha256": "595f2aa53875c918a8466f16d19c0e8fe1e17c8e87b9db362f3dbef47d0ad611"
-    },
-    {
-      "name": "GLOBAL_DIALOGUE_PACKAGE_UPGRADE_V0.8.58.4.2.csv",
-      "size": 2391656,
-      "sha256": "b48d0c5747bf56d30870f730f53064a917b910b90542e6ae627c64f4cc24322a"
-    },
-    {
-      "name": "GLYPH_COMPAT_PACKAGE_DELTA_FROM_V0.8.58.4.2_V0.8.58.4.6.csv",
-      "size": 60172,
-      "sha256": "8fc476d4035a80fdb2fb6cd7d4b298cd31ab72cb4a310623d278906d4b4e3591"
-    },
-    {
-      "name": "GLYPH_COMPAT_PACKAGE_DELTA_V0.8.58.4.6.csv",
-      "size": 56079,
-      "sha256": "256209fe958a48e25a1d34b3ebccf887c2930244acd05e726bbee5468ec22a31"
-    },
-    {
-      "name": "LE2FR_Engine_V0.9.0.ps1",
-      "size": 83786,
-      "sha256": "985f6bfece8927a12ef966f21d12bb9ff5288dab7cf68330d3e49dafa321dc05"
-    },
-    {
-      "name": "NATURAL_RESIDUAL_QA_PACKAGE_DELTA_V0.8.58.4.13.csv",
-      "size": 3692,
-      "sha256": "f891863d89299b6ed9d68d86d42fa9200d6568166d3570a407f966d319e2f85b"
-    },
-    {
-      "name": "PACKAGE_TARGETS.csv",
-      "size": 4886058,
-      "sha256": "2767a924ba67d517a64ce0bba94c0308b5e83acdfff658b5b7a10f21185da5e0"
-    },
-    {
-      "name": "PUNCT_GRAMMAR_QA_PACKAGE_DELTA_V0.8.58.4.10.csv",
-      "size": 22412,
-      "sha256": "bd7be47a0aea267104dc957e84799bbc6054c351f8661ea0bcc36ce7cd67392c"
-    },
-    {
-      "name": "PUNCT_RESIDUAL_QA_PACKAGE_DELTA_V0.8.58.4.12.csv",
-      "size": 3108,
-      "sha256": "8b2d18563fe55123bc6d2b54f7cf85cab596850218116513a4620c7714deba62"
-    },
-    {
-      "name": "QA_RECOVERY_CORRECTIONS_V0.8.58.4.5.csv",
-      "size": 194554,
-      "sha256": "116a017aab65ad42b25c7ea6e6493f4dc4b093fecfe0fd27bb6e01553d4581cb"
-    },
-    {
-      "name": "QUESTION_QA_PACKAGE_DELTA_FROM_V0.8.58.4.6_V0.8.58.4.8.csv",
-      "size": 63817,
-      "sha256": "e18a105788a5d6e4c9e544207f6dcb8001bcd144f619ffa8420118be29710560"
-    },
-    {
-      "name": "QUESTION_QA_PACKAGE_DELTA_FROM_V0.8.58.4.7_V0.8.58.4.8.csv",
-      "size": 17846,
-      "sha256": "63eea83b3539f0f5cbe032fc9276575023151dda047cb90646dcc10d94e130ec"
-    },
-    {
-      "name": "QUOTE_TITLE_QA_PACKAGE_DELTA_V0.8.58.4.9.csv",
-      "size": 119941,
-      "sha256": "765eb1d5ad3ddd6703837d78d8f417113e35a781c99f9718108b9355b66a733d"
-    },
-    {
-      "name": "SCRIPT_DLL_FILE_PLAN_V0.8.58.4.12.csv",
-      "size": 43058,
-      "sha256": "7d70f87a040952d48687c35cd23f4a0406df1278f6342e4c1b021aec142ac392"
-    },
-    {
-      "name": "SCRIPT_DLL_FULL_V0.8.58.0_FILE_PLAN.csv",
-      "size": 876992,
-      "sha256": "824f45054e554eb74e6421fc48fd3a75bf1f762abc9057e02d36d0fa0a6ecd12"
-    },
-    {
-      "name": "SCRIPT_DLL_PATCH_DATA_V0.8.58.4.12.bin",
-      "size": 151812,
-      "sha256": "1575d175d8fd10315cfcf16925865af4b2a05037e336036314c9c6df7f6556c5"
-    },
-    {
-      "name": "TYPOGRAPHY_CORRECTIONS_V0.8.57.8.csv",
-      "size": 73071,
-      "sha256": "ff47c2476d894be71b20996f717fd2b9b3eac18750f98873b9f9fb9ccdded93e"
-    },
-    {
-      "name": "UNICODE_SAFE_PACKAGE_DELTA_V0.8.58.4.7.csv",
-      "size": 42172,
-      "sha256": "27d3566067117bc960d5b583e006f09f9f9d7a39984b99b8592d5abd7ca24ce3"
     },
     {
       "name": "zstd.exe",

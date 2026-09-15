@@ -1,0 +1,27 @@
+LONE ECHO II — INSTALLATEUR v1.2.0 RC1 — VALIDATION STATIQUE
+============================================================
+
+BUILD: Windows PE32+ x64 GUI
+PAYLOAD: 48/48 fichiers embarqués vérifiés
+STACK: 4 MiB
+
+MOTEURS FINAUX REUTILISES SANS MODIFICATION :
+- Calibration NON R1 : SHA256 70b9c2aede51586992a282c0a733d5ffae46bec2eb3ae3644f66f943e3a6a117
+- Résidus ff715 R2 : SHA256 cc2a6bcb3b18cf58eb2b2f043b3f0eb6c4f63f3484fd8f54f27062d040c3afc1
+- READY R4 : SHA256 b0501c0b08acbf4ff8fee5654786de4ec6c6bfc9ec863d7be2dcf3bd0eef9aeb
+
+CORRECTIONS TYPO INTEGREES DANS LE PAYLOAD SCRIPT_DLL :
+- 0b5f1fcaa265a681.dll / résultat offset 0x1D640 : Incroyable ?
+- 0b5f1fcaa265a681.dll / résultat offset 0x1D678 : À la bonne époque ?
+- aucun agrandissement de DLL ; padding NUL existant consommé
+- bloc patch : 21 opérations, 732 octets, structure inchangée
+- SHA256 payload SCRIPT_DLL : c0297d7b7f0b1a735367fe153d5184533686329f4cbeafc7ba18abeb7ab5a769
+- hash attendu mis à jour dans le moteur de base
+
+INSTALLATION :
+base complète -> Calibration -> 15 résidus ff715 -> READY -> vérification finale
+
+DESINSTALLATION :
+READY -> 15 résidus ff715 -> Calibration -> restauration anglaise complète -> nettoyage
+
+NOTE : validation runtime sur une vraie installation Lone Echo II encore requise avant de figer la release publique et de construire le Xdelta.

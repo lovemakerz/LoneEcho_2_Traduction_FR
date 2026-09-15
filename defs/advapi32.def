@@ -6,3 +6,9 @@ EXPORTS
  RegCloseKey
  OpenProcessToken
  GetTokenInformation
+ CryptAcquireContextW
+ CryptCreateHash
+ CryptHashData
+ CryptGetHashParam
+ CryptDestroyHash
+ CryptReleaseContext

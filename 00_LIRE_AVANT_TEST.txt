@@ -1,0 +1,18 @@
+LONE ECHO II — TRADUCTION FRANÇAISE v1.2.0 — RC1
+=================================================
+
+Ce ZIP contient le nouvel installateur portable complet.
+
+IMPORTANT POUR TON JEU ACTUEL :
+1. Ferme Lone Echo II.
+2. Lance l'installateur v1.2.0 RC1.
+3. Comme ta MASTER RC1 actuelle sera détectée comme ancienne/partielle, clique d'abord sur « Désinstaller la traduction ».
+4. Vérifie que l'outil confirme le retour au jeu anglais.
+5. Relance ensuite « Installer la traduction ».
+6. À la fin, le panneau doit afficher : v1.2.0 et « Installation complète vérifiée. »
+7. Lance le jeu et vérifie rapidement : menus, accents, sous-titres, calibration « Non », puis si possible un écran déjà connu.
+8. Teste ensuite « Désinstaller la traduction » une seconde fois pour confirmer le retour anglais propre.
+9. Réinstalle v1.2.0 si tout est bon et envoie le rapport créé à côté de l'EXE.
+
+Le programme reste portable : aucun .bat/.ps1 n'est exposé à l'utilisateur.
+RATIONS reste volontairement exclu.
