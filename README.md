@@ -9,7 +9,7 @@ La traduction couvre les **dialogues, sous-titres, interfaces, objectifs, descri
 > **42 180 entrées traduites sur 42 180 identifiées.**  
 > Ce chiffre couvre l’ensemble des entrées identifiées, mais ne garantit pas que chaque variante ait pu être vérifiée en jeu.
 
-![](assets/ui_skin_reference.png)
+![](assets/ui_skin_reference01.png)
 
 ## Installation auto
 
