@@ -1,7 +1,7 @@
 # Lone Echo II — Traduction française complète
 
 **UPDATE :** La version finale 1.2.0  couvre 100% des textes editable trouvé.
-Le restant non traduit sont les texte bake / tecures non éditbles.
+Le restant non traduit sont les textes bake / textures non éditables.
 
 **Traduction française non officielle réalisée par LoVeMaKeRz.**
 
