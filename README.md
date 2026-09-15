@@ -1,5 +1,8 @@
 # Lone Echo II — Traduction française complète
 
+**UPDATE : **La version finale 1.2.0  couvre 100% des textes editable trouvé.
+Le restant non traduit sont les texte bake / tecures non éditbles.
+
 **Traduction française non officielle réalisée par LoVeMaKeRz.**
 
 Redécouvrez l’intégralité de l’aventure de **Lone Echo II** en français, tout en conservant au maximum le ton, le contexte et l’ambiance du jeu original.
@@ -50,26 +53,10 @@ Une attention particulière a également été portée à la cohérence des noms
 
 ## Une traduction encore perfectible
 
-Même si toutes les entrées identifiées ont été traduites et qu’un important travail de vérification a été effectué, **je ne considère pas cette version comme absolument parfaite à 100 %, mais elle est vraiment « propre »**.
+Même si toutes les entrées rescané complètement, ont été traduites et qu’un important travail de vérification a été effectué, Je considère maintenant le jeu traduit à 100 % sur l'ensemble des textes éditable !
+Seul reste les textes bake et " texture " ( les ecran / moniteurs dans le jeux non interactif, on une texture et non du vrai texte, par exemple.
 
 Lone Echo II contient énormément de dialogues, de variantes, de réponses alternatives et de lignes déclenchées uniquement dans certaines situations très précises.
-
-Il peut donc encore rester :
-
-- quelques phrases en anglais ;
-- certaines variantes de dialogues non détectées pendant les tests ;
-- de petites erreurs de traduction ou de contexte ;
-- quelques formulations pouvant être améliorées.
-
-### Signaler un problème
-
-N’hésitez pas à signaler toute anomalie en indiquant, si possible :
-
-- **la phrase affichée** ;
-- **le moment du jeu** ;
-- **le contexte de la scène**.
-
-Une **capture d’écran** est encore mieux ! Je ferai peut-être une mise à jour de la traduction par la suite, en fonction des retours.
 
 ## Compatibilité
 
